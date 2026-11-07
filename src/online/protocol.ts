@@ -13,7 +13,7 @@ export const actName=(n:number):Act=>ACTS[n]??'idle';
 /** Poses where the body stays put (movement input ends them). */
 export const STILL_ACTS:ReadonlySet<Act>=new Set(['sit','kneel','bow','incense','wheel','lantern','fish','sky','raise']);
 
-export const NET={sendHz:10,snapHz:10,viewRadius:700,maxPlayers:1000,snapNear:40,snapFar:40,walk:3.2,run:9,maxSpeed:12,incenseLife:180,incenseCooldown:8,incenseRange:4.5,maxSticksPerSite:24} as const;
+export const NET={sendHz:10,snapHz:10,viewRadius:700,maxPlayers:1000,snapNear:40,snapFar:40,walk:3.2,run:9,maxSpeed:12,incenseLife:180,incenseCooldown:8,incenseRange:4.5,maxSticksPerSite:24,ritualCooldown:2} as const;
 /** Where a pilgrim may be: the walled campus plus the side stupa and its plaza east of the gate (x≈480, r≈60). */
 export const WORLD_BOUNDS={x0:-420,x1:560,z0:-420,z1:720,yMax:520};
 /** Keep a point inside the walkable world (the edge just stops you; nobody is ever pulled back). */
@@ -88,6 +88,7 @@ export type Stick={site:string;by:string;t:number};
 export type ClientMsg=RefugeCommand
  |{t:'state';x:number;y:number;z:number;yaw:number;a:number}
  |{t:'incense';site:string}
+|{t:'ritual';kind:'mo'|'chuong'|'chuoi'}
  |{t:'wheel';id:'west'|'east'}
  |{t:'act';a:number}
  |{t:'outfit';outfit:string}
@@ -136,8 +137,8 @@ export function cleanChat(t:unknown):string|null{
  if([...s].length>CHAT_MAX)return null;let out=s;for(const w of BLOCKED_WORDS.slice(0,7))out=out.replace(new RegExp(w,'giu'),'***');return out;
 }
 /** steps = stair steps climbed on foot in the stupa (anh Thanh 2026-11-04: +1 per incense, per bow, per tower step). */
-export type Merit={wheel:number;incense:number;bows:number;sits:number;steps?:number};
-export const meritTotal=(m:Merit)=>m.wheel+m.incense+m.bows+m.sits+(m.steps??0);
+export type Merit={wheel:number;incense:number;bows:number;sits:number;steps?:number;mo:number;chuong:number;chuoi:number};
+export const meritTotal=(m:Merit)=>m.wheel+m.incense+m.bows+m.sits+(m.steps??0)+(m.mo??0)+(m.chuong??0)+(m.chuoi??0);
 /** One full bow of the devotion pose takes this long (RocketboxDevotion: s = ½ − ½·cos(t·π/3)). */
 export const BOW_SECONDS=6;
 /** A state update may climb at most this many steps to count as walking (the lift moves ~11 steps per update). */
