@@ -1,0 +1,25 @@
+{
+  "id": "16",
+  "name": "Trừ Cái Chướng Bồ Tát",
+  "role": "hall",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.6087860318430317,
+  "depth": 0.6272301567777946,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 2998
+  },
+  "sourceSha256": "7979c61eea2d875e40b927567f2354c9affafb336f076612c1b9b56f8cbaf853",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "938b670c275a1f4385b1943e7f4139919d8e628b9b674775d6ad417eb0a1bb44",
+    "low": "fccc6f1b92f3e0263431d6e828c24075587b3d927b08ab4fc9c490ecb33d176e",
+    "far": "7ee30cb35c601b20ad728cfa9d35503097c5bc73dd24eab1519f5e8055aac5e0"
+  },
+  "sourceArchive": "Trừ Cái Chướng Bồ Tát.zip"
+}

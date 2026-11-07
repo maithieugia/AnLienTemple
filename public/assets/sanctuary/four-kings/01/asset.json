@@ -1,0 +1,24 @@
+{
+  "id": "01",
+  "sourceZip": "Tây thiên vương.zip",
+  "zipSha256": "0a658c8db57d070489fd00fc9cd6d22b6bd7096e2e39375d80e0a323ceb90718",
+  "sourceMember": "base_basic_pbr.glb",
+  "license": "user supplied; no license document bundled",
+  "normalizedHeight": 1,
+  "width": 0.5276051617123765,
+  "depth": 0.5313092625959897,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 120000,
+    "low": 35000,
+    "far": 8000
+  },
+  "sourceSha256": "a957c9a96cd086c720b4b691e7a309c5a9d4b0f751a87c3702ed86873367a9bd",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "69bd8634a464d6a4074449b7f5843b332db4540a541095833d9ec513179bef95",
+    "low": "3578e59ea4b8537a784aa039880c2b708f40c2d406e1650db3aa518f8a371cf1",
+    "far": "4ad12951747de8a3c29611ea4ae034e4574337d4a654f619296f958468de33c6"
+  }
+}

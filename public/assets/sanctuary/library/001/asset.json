@@ -1,0 +1,24 @@
+{
+ "id": "001",
+ "title": "Buddha",
+ "author": "Polyga",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-0c7c2bdad9f242828bee9f508a5e0bd4",
+ "normalizedHeight": 1,
+ "width": 0.7069,
+ "depth": 0.4714,
+ "frontYawDeg": 180,
+ "sourceTriangles": 793113,
+ "triangles": {
+  "high": 59999,
+  "low": 14999,
+  "far": 2999
+ },
+ "sourceSha256": "9fad3c65797a083fa21259300bb6e3437c566b332af80b8da672c6485d4b3163",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "f4b03687a60c04b8162256082c2c75bf6858cb5ad088ced2c8a01d13ba3cf66f",
+  "low": "4b0a7c15e8c584a945456761e8240bba7f7e295621d45521e1058f922e9588bf",
+  "far": "1469e07c0d2f19dae996cc6aaf94f92f50f65a900d38b5210821070f80db243a"
+ }
+}

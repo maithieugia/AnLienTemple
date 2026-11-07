@@ -1,0 +1,4 @@
+keys/
+node_modules/
+android/app/build/
+android/.gradle/

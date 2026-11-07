@@ -1,0 +1,22 @@
+{
+  "id": "01",
+  "source": "Owner supplied GLB zip",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.5698645475857567,
+  "depth": 0.505956665877189,
+  "sourceTriangles": 499994,
+  "triangles": {
+    "high": 120000,
+    "low": 35000,
+    "far": 8000
+  },
+  "sourceSha256": "d4663f94a399175783ec32460e39f87e18199503a491bf7b9de3d7b1895f7c76",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "2b8e66b1089ee4f15ff52728ff14114be0c61624aee1b9042066434e932a84d7",
+    "low": "ed952dba9b0a567addfb1daa9ccf960561817c85cb8a36e59f2e062b49bfecb6",
+    "far": "b6843b35b699fd00044b06c4ed370d083a07d7b265470bc2ffc4188b76b33e97"
+  }
+}

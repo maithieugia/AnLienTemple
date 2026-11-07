@@ -1,0 +1,24 @@
+{
+ "id": "025",
+ "title": "Standing Bodhisattva",
+ "author": "danielpett",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-d351588aec984add86d9d7cd7e30b98d",
+ "normalizedHeight": 1,
+ "width": 0.3684,
+ "depth": 0.3063,
+ "frontYawDeg": 0,
+ "sourceTriangles": 499986,
+ "triangles": {
+  "high": 60000,
+  "low": 14999,
+  "far": 8116
+ },
+ "sourceSha256": "602b4adb1344f7fc3e0f37e3b30ec272d82068bec1cce171055c72b281a76785",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "06a4dfd350341ae3aa9f1c179250d80674da363e425f82219d3b8b7c22adc66c",
+  "low": "248d3c58ada690f46a48d3e9807328906053fdb74573aad771c75ddaf73cfc33",
+  "far": "6c43811c6125867bb7b8c73d51b8a587eebb54038b8f674f509259d96db73dcf"
+ }
+}

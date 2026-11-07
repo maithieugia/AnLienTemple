@@ -1,0 +1,25 @@
+{
+  "id": "17",
+  "name": "Vô Tận Ý Bồ Tát",
+  "role": "hall",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.6457353642707792,
+  "depth": 0.6549440355762842,
+  "sourceTriangles": 499998,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 3000
+  },
+  "sourceSha256": "c91130dcc9f217b22e0f5906757eaa2a5dd7e396fdac044a9c7c865d0caf4bfb",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "aa82940cf0aaaeeff2620240da1b119b2a0f605243f938e0d06e3b86abf0a0e7",
+    "low": "ff49032071f858fb2d6ec2d2760d44788ef6780ded6f0de1ce73657745901a5a",
+    "far": "348f08104998bbd9c90d6abaca610ab396152c6dc7bbb01405a5d4cea96d9401"
+  },
+  "sourceArchive": "Vô Tận Ý Bồ Tát.zip"
+}

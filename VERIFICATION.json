@@ -1,0 +1,87 @@
+{
+  "version": "0.5.0",
+  "height": 100,
+  "diameter": 50,
+  "bodyBottom": 0.08,
+  "plinth": "sealed from ground",
+  "ponds": 0,
+  "sites": [
+    [
+      -195,
+      388
+    ],
+    [
+      195,
+      388
+    ]
+  ],
+  "gold": "#FFD700",
+  "tests": 13,
+  "verified": [
+    "dry level former pond ground",
+    "large perimeter collision simulation",
+    "WebGL: no ponds, wide gold bodies, closed plinth",
+    "push still awards turns",
+    "existing merit preserved",
+    "close view: no exposed axle or gap beneath body"
+  ],
+  "unverified": [
+    "real touch device",
+    "controlled GPU benchmark",
+    "all approach angles"
+  ],
+  "screenshots": [
+    "v4-two-wide-gold-wheels.png",
+    "v4-flush-gold-base.png",
+    "v4-gold-interaction.png"
+  ],
+  "hundredBuddhas": {
+    "count": 100,
+    "eachSide": 50,
+    "source": "T0447a / Nguyên Thuận",
+    "sharedSeatedSculpture": true,
+    "uniqueBodyModels": false,
+    "testsPassed": 17,
+    "browserChecked": [
+      "west nameplates gold",
+      "east #100 nameplate and facing",
+      "walk button feet 1.20m"
+    ],
+    "remaining": [
+      "100 independent sculptures and scholarly iconography review",
+      "full walk-through of all 100 plinths",
+      "GPU benchmarks"
+    ]
+  },
+  "photoPrototype": {
+    "artApproved": false,
+    "meetsRequestedFidelity": false,
+    "runtimeModel": "photo-buddha",
+    "highTriangles": 110056,
+    "lodTriangles": [
+      110056,
+      40000,
+      6999
+    ],
+    "testsPassed": 19,
+    "browser": [
+      "front",
+      "angle",
+      "back",
+      "stone/gold"
+    ],
+    "notDeployedInHall": true,
+    "remaining": [
+      "accurate face",
+      "individual fingers",
+      "robe detail",
+      "back reference",
+      "production retopology"
+    ],
+    "rejectedOutsideRuntime": [
+      "hundred batch",
+      "reference-buddha",
+      "photo-buddha-sculpted"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "09",
+  "name": "Đại Thế Chí Bồ Tát",
+  "role": "hall",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.46423515788415465,
+  "depth": 0.4629725058234546,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 3000
+  },
+  "sourceSha256": "1da0fa337618dd0ed453fb2de109b217aef301567ddca310c9492e9c8450fea9",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "2a6e8efeccdddd9655b5949819149c2f829b18a38d916e19ce807b7adec03bf7",
+    "low": "8913caeb60da7166b6cfc269c37ea5cf2a5e17ef9476e1fe0d4b5b5878cb7e82",
+    "far": "5c586778fa3916d537d072ccce47765781b41ab2c1d87d7e2f01842c123dcf11"
+  },
+  "sourceArchive": "Đại Thế Chí Bồ Tát.zip"
+}

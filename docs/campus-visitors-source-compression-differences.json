@@ -1,0 +1,1232 @@
+[
+  {
+    "path": "assets/chars/anims.glb",
+    "bytes": 725920,
+    "sha256": "648cf5324ab784a55f704b95fbfebec05fc92152d2f93694b4e679077f11f912"
+  },
+  {
+    "path": "assets/chars/beard.glb",
+    "bytes": 33660,
+    "sha256": "44b91dcaca825425d4f1417c7542de51fb46c7184d2cd9805dfe429dab824d8a"
+  },
+  {
+    "path": "assets/chars/eyebrows.glb",
+    "bytes": 26376,
+    "sha256": "ad8aa04f4ba4d6ad30cf57c73c665213cb6283bd75bfa9f624eb6c72d874ab1e"
+  },
+  {
+    "path": "assets/chars/hair_buns.glb",
+    "bytes": 108444,
+    "sha256": "947d7ddf88ca7b159eeacdce36215bfb18bd5f383d0d12ab344cb702c5dbc5a9"
+  },
+  {
+    "path": "assets/chars/hair_long.glb",
+    "bytes": 97656,
+    "sha256": "d1d0d43fc84df4ddf18332d704a9955ada13b73eaa41111134812d21a4434a68"
+  },
+  {
+    "path": "assets/chars/hair_short.glb",
+    "bytes": 38512,
+    "sha256": "eeb07af74ae8b24a34ab9901c0dd1fd17d4f871506be8ead7b384d584527fdc4"
+  },
+  {
+    "path": "assets/chars/hero.glb",
+    "bytes": 638380,
+    "sha256": "f47275a2338a9101e336ecd9f7b5477d41b7a36adabc6037d1b5e07cab1ea84f"
+  },
+  {
+    "path": "assets/chars/heroine.glb",
+    "bytes": 669472,
+    "sha256": "8a7a87ef94c7e0dc75812e53873ca6a7408280232b0ff0c00ebf1d29e738adf0"
+  },
+  {
+    "path": "assets/chars/ready-made/ao-dai-collection/Female_AoDai_Collection.glb",
+    "bytes": 13401328,
+    "sha256": "1b067410771f80903740f54e73adc0a0404a88fb0a40ea80301604e46a756ce0"
+  },
+  {
+    "path": "assets/chars/ready-made/ao-dai-preview/Female_AoDai.glb",
+    "bytes": 13362664,
+    "sha256": "d5dbb915d4da5123cca669fc5c6d3d7330e12ca69393c9fdb8f5757ee1cd88bf"
+  },
+  {
+    "path": "assets/chars/ready-made/buddhist-nun/model.glb",
+    "bytes": 21799188,
+    "sha256": "be86477f7eeda7b556b1ad5d61045a0324b1c46e056f1af78e9a468020f14c1c"
+  },
+  {
+    "path": "assets/chars/ready-made/creator424-monk/model.glb",
+    "bytes": 22415436,
+    "sha256": "611c27dd3b02d5bfd7a2502afce9d6237bf40f8384ec8c4ac4fc7386072256db"
+  },
+  {
+    "path": "assets/chars/ready-made/creator424-monk/rigged.glb",
+    "bytes": 4466820,
+    "sha256": "67196d66d74139ce334e026caf7820d941fc566dea937039232551127601b847"
+  },
+  {
+    "path": "assets/chars/ready-made/rocketbox/Female_Adult_17.glb",
+    "bytes": 6796120,
+    "sha256": "0cb194c4668b6bbad130839fc9b713bfa9899b49a429022d2cc0615660a54401"
+  },
+  {
+    "path": "assets/chars/ready-made/rocketbox/Male_Adult_08.glb",
+    "bytes": 6300360,
+    "sha256": "bde8df7a1bb455688d799d864d8d9a44e1c29a4de89b2003e0fb2a72d0a88bb6"
+  },
+  {
+    "path": "assets/chars/wolf.glb",
+    "bytes": 97764,
+    "sha256": "872194fbe3d866189a9efa528661e621c5925a9e7b44c5fa8abe6b0e77d04c3d"
+  },
+  {
+    "path": "assets/garden/tree-small-02/far.glb",
+    "bytes": 1793592,
+    "sha256": "48a75dba66858dd2a8092d9137b88fffd6743a22a9c489824e34acbe3ea0e86d"
+  },
+  {
+    "path": "assets/garden/tree-small-02/high.glb",
+    "bytes": 41700116,
+    "sha256": "f5dd7564173a651e3c13f00847782b3d1f613acf6db28a3b82658cf07e4876fd"
+  },
+  {
+    "path": "assets/garden/tree-small-02/low.glb",
+    "bytes": 6986676,
+    "sha256": "819896e7e6269e2adcc41e98ea6f9a51284642cd55d9e2ce833bae038cf12c0f"
+  },
+  {
+    "path": "assets/sanctuary/censer/high.glb",
+    "bytes": 2092404,
+    "sha256": "46801d6529cbdc223824227e4e31a5dfb9fc199f7f7f47793be0c73821f4209a"
+  },
+  {
+    "path": "assets/sanctuary/censer/low.glb",
+    "bytes": 548276,
+    "sha256": "788475a4c7f15da3f5b5a2f1345ea1ca7ef3ecb4b495699cffd260b819e36b2d"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/01/far.glb",
+    "bytes": 367368,
+    "sha256": "ab0ad570ce2a7643665cb84f5f6cfb4f0745c8b61f412dadc4c59393ddf70990"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/01/high.glb",
+    "bytes": 4823804,
+    "sha256": "a4093df5b8a2715ffe2ce6510e8e216d5ac7f57be74d47e2392dac150620cbe5"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/01/low.glb",
+    "bytes": 1275840,
+    "sha256": "b7de3d37dc057ca19680df8d6c70061b809bb0616e7099313086bb995fa560b8"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/02/far.glb",
+    "bytes": 362688,
+    "sha256": "e53035f6984597c73c5c8d85e3f26591d09a049b71c226eac5b4712cefce9427"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/02/high.glb",
+    "bytes": 4606144,
+    "sha256": "f3f181c9444c9fe9991addb9ac1db8f3a284270740dadf47d632892e6231262b"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/02/low.glb",
+    "bytes": 1231828,
+    "sha256": "bfc3944c11234bba971b4379832ec932623e7ec00dcc56567c4602d0a35cc178"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/03/far.glb",
+    "bytes": 381804,
+    "sha256": "8713fb1149a1688f94d07cae497903fa0986225bc60fe74900ab39e04163744c"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/03/high.glb",
+    "bytes": 4760268,
+    "sha256": "d4a9b625efbc5cfb129d0d7ad976d0abd82b2939eb06474f8f3be010d1fa9e7d"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/03/low.glb",
+    "bytes": 1283792,
+    "sha256": "ac4fb3b66433611f31b6a945b6f24d3a8ea241c950a15fba8503197a5cb96bef"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/04/far.glb",
+    "bytes": 404812,
+    "sha256": "c2ce407c71f92b5256b3d58c0e6488a55cdeea84c83b17d8141526a559995dbe"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/04/high.glb",
+    "bytes": 4852404,
+    "sha256": "c0909ec8065a5674b377ac2ba3dae3129808cbfca7a5935538e73ad6693ca287"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/04/low.glb",
+    "bytes": 1332056,
+    "sha256": "ff6e5ae4898ace2935f8adfe3849b7f9d0909460a7f89988810f0d25c781dd15"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/05/far.glb",
+    "bytes": 396656,
+    "sha256": "1e0b3c1c8eb913872db50fddab2029618aed411f82a20f9630b80b9b57ee14e5"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/05/high.glb",
+    "bytes": 4786540,
+    "sha256": "1070af3661250b06de5a35b253e9129b68c351660bca753b2876060c57c70f4c"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/05/low.glb",
+    "bytes": 1308680,
+    "sha256": "d8b1b9563afdbbecb3c54c0fa141d3d80e624c9b084706f9c7c40b3c3e10f6e4"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/06/far.glb",
+    "bytes": 262352,
+    "sha256": "252433e4f4eca790a14fc69deb65c777a96553e7e7760ea499854f77be2ccb56"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/06/high.glb",
+    "bytes": 3351416,
+    "sha256": "6ddd73e6610b97238453d6cd7bddb627a7e1b36d5b70289db7135b3f86c1400e"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/06/low.glb",
+    "bytes": 1008192,
+    "sha256": "8e01ad6d8f19e9efa70b707494a044442016f9c40ec918985f8bab8e2811f617"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/07/far.glb",
+    "bytes": 252784,
+    "sha256": "ba4a7517608fcdbc55260c47d0f2214a0d3564ca56e0ebaa586ca4a1dc6a2723"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/07/high.glb",
+    "bytes": 3292564,
+    "sha256": "4d0d526ecae66ed140e64677d314c3243d4e7904f411f8f36f97f9fa32e0e1f6"
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/07/low.glb",
+    "bytes": 974328,
+    "sha256": "87177df5468a39f299492a2f923f587136a5dc3fc7070f4e750ea51d47b3e5b9"
+  },
+  {
+    "path": "assets/sanctuary/diana/01/far.glb",
+    "bytes": 56152,
+    "sha256": "5331e53ebb07d8bcedfb4ec64f17cd50c278eacf5ef2e320afca6b46b651cccc"
+  },
+  {
+    "path": "assets/sanctuary/diana/01/high.glb",
+    "bytes": 1082376,
+    "sha256": "9dad67029b78d3755853d3bf075e132e46a9d4763a0e62d2096367416e33a654"
+  },
+  {
+    "path": "assets/sanctuary/diana/01/low.glb",
+    "bytes": 272252,
+    "sha256": "80685a08eb70f43aada70f8492e6aa7d17625ca53ee7dc6142a0165358c655d4"
+  },
+  {
+    "path": "assets/sanctuary/diana/02/far.glb",
+    "bytes": 148064,
+    "sha256": "4da0349c620b5b428a811b45865292c5bbeebe25b3bb0fd7a5a9385cfbf8b13c"
+  },
+  {
+    "path": "assets/sanctuary/diana/02/high.glb",
+    "bytes": 2033408,
+    "sha256": "45d492b253430915a8a7e534d7eb45a0e58405525778005c06694b33063c686a"
+  },
+  {
+    "path": "assets/sanctuary/diana/02/low.glb",
+    "bytes": 613256,
+    "sha256": "8e79e11285206d76a53d47d2b9a215040dff10e2135149042fbbb5e62f642a29"
+  },
+  {
+    "path": "assets/sanctuary/diana/04/far.glb",
+    "bytes": 73060,
+    "sha256": "1be605f3573736ba8506fb701d72792ef15d5882b598176b96f19039b76818f3"
+  },
+  {
+    "path": "assets/sanctuary/diana/04/high.glb",
+    "bytes": 1099456,
+    "sha256": "6aa312502e6608d5a66a2d94e82f13a8981ee6f866e7c353566fcc3649f1d059"
+  },
+  {
+    "path": "assets/sanctuary/diana/04/low.glb",
+    "bytes": 289148,
+    "sha256": "3a885c2470353538af2e8e1381366c17935b00cb237e016ed0ff457b30224920"
+  },
+  {
+    "path": "assets/sanctuary/diana/05/far.glb",
+    "bytes": 55152,
+    "sha256": "9413aeee9a3057f173936832ff767992c57a5b71c1ac6150d367b8fb93b9e23a"
+  },
+  {
+    "path": "assets/sanctuary/diana/05/high.glb",
+    "bytes": 1081164,
+    "sha256": "22dd18f5017809f172c380544dbc2d14a7e3dbb9a0ac951c59279b74022f2de7"
+  },
+  {
+    "path": "assets/sanctuary/diana/05/low.glb",
+    "bytes": 271156,
+    "sha256": "8af992fa2b0ddc61bb0609ff4e326ef7caf874a0b01b2eca5a97b25b78fb1478"
+  },
+  {
+    "path": "assets/sanctuary/diana/06/far.glb",
+    "bytes": 61400,
+    "sha256": "d83466fbc7316de592a938a94b71d89e9a81241558e014eba947a8acc256ebec"
+  },
+  {
+    "path": "assets/sanctuary/diana/06/high.glb",
+    "bytes": 1087408,
+    "sha256": "38b924d9bebd18a20ce446743bdd9738f6a1b1e5ea6ae536068bc3cb70914ebe"
+  },
+  {
+    "path": "assets/sanctuary/diana/06/low.glb",
+    "bytes": 277400,
+    "sha256": "7eb2bec58ddb3cb06ee0f71e937b6c8d85f850c1780e8d634ce6bde4666b3aef"
+  },
+  {
+    "path": "assets/sanctuary/diana/09/far.glb",
+    "bytes": 66888,
+    "sha256": "c9449c49ec9c7ecab776ad8cd62f65a44058e157dbe47a27c9373fcba0f4022f"
+  },
+  {
+    "path": "assets/sanctuary/diana/09/high.glb",
+    "bytes": 1106796,
+    "sha256": "5ca22dbb2a87a011e06f205d777f717ff6361557d4c7f80ae536bc935fd4a5ee"
+  },
+  {
+    "path": "assets/sanctuary/diana/09/low.glb",
+    "bytes": 287504,
+    "sha256": "0747adb55ea0a8689da021fa4abb0db606356134ee0f3b5550e32c6003bc9579"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/01/far.glb",
+    "bytes": 317056,
+    "sha256": "4ad12951747de8a3c29611ea4ae034e4574337d4a654f619296f958468de33c6"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/01/high.glb",
+    "bytes": 4427900,
+    "sha256": "69bd8634a464d6a4074449b7f5843b332db4540a541095833d9ec513179bef95"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/01/low.glb",
+    "bytes": 1138664,
+    "sha256": "3578e59ea4b8537a784aa039880c2b708f40c2d406e1650db3aa518f8a371cf1"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/02/far.glb",
+    "bytes": 339132,
+    "sha256": "d9c7bd43ed9aa15919748ec92e5cd5cdb874f8b1930aa477a14a4152eeaf0456"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/02/high.glb",
+    "bytes": 4679860,
+    "sha256": "ea41c27ef4385ff913763e9f21e5496417e940754edf2bb19c620c4364344ba2"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/02/low.glb",
+    "bytes": 1220500,
+    "sha256": "3827e6742afac87f479f78833ac9e5b554925ff933785b420382f6d68814ddca"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/03/far.glb",
+    "bytes": 316316,
+    "sha256": "9e96ca9cc2c84d589ef9890db3c8ecefd1401ef3e8ea7230b12f4d527bda3591"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/03/high.glb",
+    "bytes": 4419032,
+    "sha256": "fe136c96fbfb9c3bffdc1e8cf2169df914b45e42b5d6800a144a545d47c7b334"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/03/low.glb",
+    "bytes": 1134888,
+    "sha256": "eee453312d592fa2809b181fe89bf4ab5dbb5d45760114d145bbd237722ab538"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/04/far.glb",
+    "bytes": 339456,
+    "sha256": "55f0eda4f2c44d78551b130d4951a44567dfdd26877b188eeeb671090c29253c"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/04/high.glb",
+    "bytes": 4500732,
+    "sha256": "2c397a33ae4e2d79c4992d4e2056ad179128f6fe1edc7918ca97597859b8aa9b"
+  },
+  {
+    "path": "assets/sanctuary/four-kings/04/low.glb",
+    "bytes": 1191540,
+    "sha256": "6501ff5b94a1fa34872bab40b047ed8b72f231339fa172b5e99ffd4e5794d187"
+  },
+  {
+    "path": "assets/sanctuary/front-triad/01/far.glb",
+    "bytes": 317532,
+    "sha256": "b6843b35b699fd00044b06c4ed370d083a07d7b265470bc2ffc4188b76b33e97"
+  },
+  {
+    "path": "assets/sanctuary/front-triad/01/high.glb",
+    "bytes": 3855448,
+    "sha256": "2b8e66b1089ee4f15ff52728ff14114be0c61624aee1b9042066434e932a84d7"
+  },
+  {
+    "path": "assets/sanctuary/front-triad/01/low.glb",
+    "bytes": 1182396,
+    "sha256": "ed952dba9b0a567addfb1daa9ccf960561817c85cb8a36e59f2e062b49bfecb6"
+  },
+  {
+    "path": "assets/sanctuary/front-triad/02/far.glb",
+    "bytes": 325000,
+    "sha256": "da4cca5eb007e4907aba256d6fbc876782bb188614747455d388887c93f558f9"
+  },
+  {
+    "path": "assets/sanctuary/front-triad/02/high.glb",
+    "bytes": 4568900,
+    "sha256": "f3332810b97eeebaea156cf9944b6fe435657594b809b358d4d6df6a1a9edd98"
+  },
+  {
+    "path": "assets/sanctuary/front-triad/02/low.glb",
+    "bytes": 1182728,
+    "sha256": "4afafd9b53f5e4f4bd9ef04037fd12ebdfafbe3a938e1fcf00f8282fb4694d81"
+  },
+  {
+    "path": "assets/sanctuary/front-triad/03/far.glb",
+    "bytes": 348268,
+    "sha256": "c6f3eb39eed044d8fb744279d2fb8e766cd96694a5e0dec6957f2194f2186061"
+  },
+  {
+    "path": "assets/sanctuary/front-triad/03/high.glb",
+    "bytes": 4603784,
+    "sha256": "1be863f2de9a194f06e75e37b09bf6b1123ef423cc70ab738f5c089a29a86019"
+  },
+  {
+    "path": "assets/sanctuary/front-triad/03/low.glb",
+    "bytes": 1219108,
+    "sha256": "0c720bf70330849299fbdc80c12c33679a7e5a709a9f51d2f46002e5bf8a369e"
+  },
+  {
+    "path": "assets/sanctuary/library/001/far.glb",
+    "bytes": 56012,
+    "sha256": "1469e07c0d2f19dae996cc6aaf94f92f50f65a900d38b5210821070f80db243a"
+  },
+  {
+    "path": "assets/sanctuary/library/001/high.glb",
+    "bytes": 1089048,
+    "sha256": "f4b03687a60c04b8162256082c2c75bf6858cb5ad088ced2c8a01d13ba3cf66f"
+  },
+  {
+    "path": "assets/sanctuary/library/001/low.glb",
+    "bytes": 274604,
+    "sha256": "4b0a7c15e8c584a945456761e8240bba7f7e295621d45521e1058f922e9588bf"
+  },
+  {
+    "path": "assets/sanctuary/library/003/far.glb",
+    "bytes": 348568,
+    "sha256": "05178df11d2dc108c7e971a5864ded1a918eb90e4e4965bad7c746fc0611b288"
+  },
+  {
+    "path": "assets/sanctuary/library/003/high.glb",
+    "bytes": 4618692,
+    "sha256": "8376db61a5be188adf9b60e6eeda2264e8467c7c9d195bdfa2909bee0665ffdc"
+  },
+  {
+    "path": "assets/sanctuary/library/003/low.glb",
+    "bytes": 1292484,
+    "sha256": "985d4794895ebe212b17b7eaab3f4ebc7dd56e93848b658778cca5b4c51fd56e"
+  },
+  {
+    "path": "assets/sanctuary/library/004/far.glb",
+    "bytes": 56956,
+    "sha256": "5321cc89a7d15ca8aa5674590e79ecdcd1d76cb0404deedaba321e2e258aaf6a"
+  },
+  {
+    "path": "assets/sanctuary/library/004/high.glb",
+    "bytes": 1082968,
+    "sha256": "0c91cf890e180069a4250eb1c55bd3cc8aab62e08e4faafdf34de4fe09a56721"
+  },
+  {
+    "path": "assets/sanctuary/library/004/low.glb",
+    "bytes": 272960,
+    "sha256": "5fe637510870dcc4e097d7366dd50680b466737efc436bb8240a056d84ec7816"
+  },
+  {
+    "path": "assets/sanctuary/library/009/far.glb",
+    "bytes": 337048,
+    "sha256": "d1e32788417ecc316bb77766fd94b3ec4c518e79a8941561552dc97e114dcc70"
+  },
+  {
+    "path": "assets/sanctuary/library/009/high.glb",
+    "bytes": 1946416,
+    "sha256": "c84c25a7521017067f74a04d5d80de901fcc45144ac9240ed2636985e4c0ab31"
+  },
+  {
+    "path": "assets/sanctuary/library/009/low.glb",
+    "bytes": 627676,
+    "sha256": "83385a3a0c7b7fc29a3d02c4027b13342dee58ef9102f0b68f60294889677581"
+  },
+  {
+    "path": "assets/sanctuary/library/010/far.glb",
+    "bytes": 636036,
+    "sha256": "43676130b684df12a49538471389658437671ff8f89cfb439273ec70f9ebbcaf"
+  },
+  {
+    "path": "assets/sanctuary/library/010/high.glb",
+    "bytes": 2590852,
+    "sha256": "eff818ac85fc56b2780fc41952e06d1010e13021e14ff4b8290db6c75b0e0834"
+  },
+  {
+    "path": "assets/sanctuary/library/010/low.glb",
+    "bytes": 871528,
+    "sha256": "db75a8f003a8e1eddf35ff0f4faaf3ccf0300d6c8f5a61617e1fada4198f03d8"
+  },
+  {
+    "path": "assets/sanctuary/library/011/far.glb",
+    "bytes": 195188,
+    "sha256": "08897591522aa29d6763763753f777106cc8458894aa67d94c49cd9a81295d01"
+  },
+  {
+    "path": "assets/sanctuary/library/011/high.glb",
+    "bytes": 2617828,
+    "sha256": "2f1a148a488b9011d20468e888ea7a19735f40376dfc398842e30d0ac8e6dbc6"
+  },
+  {
+    "path": "assets/sanctuary/library/011/low.glb",
+    "bytes": 843084,
+    "sha256": "c1424cc3839a760eff588d4074631e1dfc724ab5897a176abb4b47219d716f48"
+  },
+  {
+    "path": "assets/sanctuary/library/012/far.glb",
+    "bytes": 591404,
+    "sha256": "8d9ffc59c278aafb9f764d0088f742575e61ec33c48841aeca32621884003579"
+  },
+  {
+    "path": "assets/sanctuary/library/012/high.glb",
+    "bytes": 2544960,
+    "sha256": "045ac1b9e18f809a8ab96dbdfdb7f4d3ec3734fe37a661dd782b7a54860c6c08"
+  },
+  {
+    "path": "assets/sanctuary/library/012/low.glb",
+    "bytes": 869136,
+    "sha256": "2336c9ef950bb12eb915235b8e8ab3bb574ffdd103a223e927a688dfc43dbe6d"
+  },
+  {
+    "path": "assets/sanctuary/library/013/far.glb",
+    "bytes": 169800,
+    "sha256": "96ff0ed7eacd41c645d47bb7a22f8d10b562d08bcee12adca7cae52da4345e12"
+  },
+  {
+    "path": "assets/sanctuary/library/013/high.glb",
+    "bytes": 2568720,
+    "sha256": "7fe1bf0b5a938a70a0811152fb3e98c8a8039eaa88ffc35a3f2160501185bdf9"
+  },
+  {
+    "path": "assets/sanctuary/library/013/low.glb",
+    "bytes": 760956,
+    "sha256": "32f7fba9030338693d0ad138e57ead214e664209e8c6d5d9513a6587b204adda"
+  },
+  {
+    "path": "assets/sanctuary/library/014/far.glb",
+    "bytes": 287320,
+    "sha256": "7a417a33fdc14b1ac709d9a5100285c8372f40c213d12d5fdb16abcca5d1e22b"
+  },
+  {
+    "path": "assets/sanctuary/library/014/high.glb",
+    "bytes": 2371968,
+    "sha256": "79166a1479a38f2c00174a9c7d046cafedddf6fa71a96400bf105045c0fddd79"
+  },
+  {
+    "path": "assets/sanctuary/library/014/low.glb",
+    "bytes": 556072,
+    "sha256": "6c7a5c481288b8505e12152f5dc6d49234ffc77920deff62754e9594e281b69c"
+  },
+  {
+    "path": "assets/sanctuary/library/017/far.glb",
+    "bytes": 276112,
+    "sha256": "69f1b8b44e0851b3b5e2530127856f17d8a3fc7b973e3ffb3450204ecca5566c"
+  },
+  {
+    "path": "assets/sanctuary/library/017/high.glb",
+    "bytes": 3230168,
+    "sha256": "23320f9355a90cd036c59a0314902c99a1b4caf70cd5ae558062b1f561f453b1"
+  },
+  {
+    "path": "assets/sanctuary/library/017/low.glb",
+    "bytes": 638680,
+    "sha256": "b78300dcbf81877104dcc40747f270cef076679a3f41001415a8d68451f7cda1"
+  },
+  {
+    "path": "assets/sanctuary/library/019/far.glb",
+    "bytes": 56120,
+    "sha256": "e1e4a76f3327dee434de4b9d4568d31e092a0046420fb234ddafb57f6092a901"
+  },
+  {
+    "path": "assets/sanctuary/library/019/high.glb",
+    "bytes": 1082076,
+    "sha256": "6b56891e8082108003a37d5d4d539dcad555de5ac24939978df7c8c83f9e5ac1"
+  },
+  {
+    "path": "assets/sanctuary/library/019/low.glb",
+    "bytes": 272072,
+    "sha256": "3a90fbd51b79d4c590e7cbd902ae7358474ac02599bb62f89858646648c11638"
+  },
+  {
+    "path": "assets/sanctuary/library/020/far.glb",
+    "bytes": 189476,
+    "sha256": "4e84b0096dfc87ed77135be3c3cb9b87facfec3c1639404cd2b986e37de85708"
+  },
+  {
+    "path": "assets/sanctuary/library/020/high.glb",
+    "bytes": 3821292,
+    "sha256": "9f9fdadbc96dde16f1d21f82e858b1fc7f4d97751b0be7e855b643ce963033ea"
+  },
+  {
+    "path": "assets/sanctuary/library/020/low.glb",
+    "bytes": 766008,
+    "sha256": "584827140ccfd66557e607a51c4505c2f8b93c77307dc4c9b606a777f57f17a5"
+  },
+  {
+    "path": "assets/sanctuary/library/022/far.glb",
+    "bytes": 203092,
+    "sha256": "dacc70fa031fca21b5364f2bf27f2ad3dd99179c78cf096e6d26f4dd5d951edd"
+  },
+  {
+    "path": "assets/sanctuary/library/022/high.glb",
+    "bytes": 3519888,
+    "sha256": "63ff2fa3e664d59233e1eeed35b74e2e241e3521223f9b7604a7fb5ac1f35ca2"
+  },
+  {
+    "path": "assets/sanctuary/library/022/low.glb",
+    "bytes": 1037624,
+    "sha256": "1729eb5bab9d3affedb918f59f11b97a771fdb0c74116bb14f72fad41d78de54"
+  },
+  {
+    "path": "assets/sanctuary/library/023/far.glb",
+    "bytes": 353412,
+    "sha256": "123209c006fba11c0f3b949a9a03fd771c1a237b949bde0dfa5334fbac56ab40"
+  },
+  {
+    "path": "assets/sanctuary/library/023/high.glb",
+    "bytes": 3325724,
+    "sha256": "48765b4be621a4e3de91cb31ee5b058ebc75bb766a63e799e65e33c51d3cebc5"
+  },
+  {
+    "path": "assets/sanctuary/library/023/low.glb",
+    "bytes": 687640,
+    "sha256": "cdecf3eda5cfed6acd5f8f75a5d3a38bcd625edaec6dec7293b41e3edf68e58c"
+  },
+  {
+    "path": "assets/sanctuary/library/024/far.glb",
+    "bytes": 308304,
+    "sha256": "dd3b62ed721897ba48e2b670fdf0e7191afab6c0f46028f55901beef11e212c1"
+  },
+  {
+    "path": "assets/sanctuary/library/024/high.glb",
+    "bytes": 3862064,
+    "sha256": "06ad5b89e1c311a0229f51beb4ceaa6db277a95c68907e0516f8a1fe92d12018"
+  },
+  {
+    "path": "assets/sanctuary/library/024/low.glb",
+    "bytes": 663004,
+    "sha256": "7723691b97846a3353cef837e8c3ee892b4464b00e652f6e8e92c128b7f872c1"
+  },
+  {
+    "path": "assets/sanctuary/library/025/far.glb",
+    "bytes": 544712,
+    "sha256": "6c43811c6125867bb7b8c73d51b8a587eebb54038b8f674f509259d96db73dcf"
+  },
+  {
+    "path": "assets/sanctuary/library/025/high.glb",
+    "bytes": 2840008,
+    "sha256": "06a4dfd350341ae3aa9f1c179250d80674da363e425f82219d3b8b7c22adc66c"
+  },
+  {
+    "path": "assets/sanctuary/library/025/low.glb",
+    "bytes": 948720,
+    "sha256": "248d3c58ada690f46a48d3e9807328906053fdb74573aad771c75ddaf73cfc33"
+  },
+  {
+    "path": "assets/sanctuary/library/026/far.glb",
+    "bytes": 247728,
+    "sha256": "a8c547dbc847e0e0c40891ed2a01b6206a3b6d5ea69398ffde8390968da0ac6d"
+  },
+  {
+    "path": "assets/sanctuary/library/026/high.glb",
+    "bytes": 4026008,
+    "sha256": "32f8ae85d1ff79cfd1019f5e00909b50acf610936bfe94979508e344d03f0d4c"
+  },
+  {
+    "path": "assets/sanctuary/library/026/low.glb",
+    "bytes": 666412,
+    "sha256": "b82a41cf1b4dbe694d2e90103901b62d0def483d95c2a08e511c22ee657e35a6"
+  },
+  {
+    "path": "assets/sanctuary/library/027/far.glb",
+    "bytes": 166080,
+    "sha256": "32f1ff6cace6b1b8a5068d8a2a35aa4a8bd9a196c432b9dd07d5c729afaa96a4"
+  },
+  {
+    "path": "assets/sanctuary/library/027/high.glb",
+    "bytes": 2411728,
+    "sha256": "bef2cef744844405b45138260afa5335001514748bb063d84aa5f9848acfbcc3"
+  },
+  {
+    "path": "assets/sanctuary/library/027/low.glb",
+    "bytes": 709952,
+    "sha256": "38a0fd2cde2525d2ff37d76ae3fe63db964554c0aee9b6fbc5a75b80dfcb4a95"
+  },
+  {
+    "path": "assets/sanctuary/library/029/far.glb",
+    "bytes": 517932,
+    "sha256": "d4369d5f3392f46b587adb549a1a0937203dd5f373ee26286fb976b9a1f99ea4"
+  },
+  {
+    "path": "assets/sanctuary/library/029/high.glb",
+    "bytes": 4200544,
+    "sha256": "59ba6c8b161efcf29abd189468e80bfa70465215f10dd1b1c5f525dc5bd04a22"
+  },
+  {
+    "path": "assets/sanctuary/library/029/low.glb",
+    "bytes": 1239924,
+    "sha256": "cc6cce3b4e973162ce34fdad3786b27a0ef9f8ee342a052730c824e552ee5455"
+  },
+  {
+    "path": "assets/sanctuary/library/031/far.glb",
+    "bytes": 176112,
+    "sha256": "0e2450e2889ec78d866b1e234dcfbc5c86a04e4194e385f600c12c6d4fca3c0b"
+  },
+  {
+    "path": "assets/sanctuary/library/031/high.glb",
+    "bytes": 2885640,
+    "sha256": "bc2a3585d81e98669a72ee402b573175dd4fcda4d3d470c2a820a8aa4ac9296e"
+  },
+  {
+    "path": "assets/sanctuary/library/031/low.glb",
+    "bytes": 889744,
+    "sha256": "9730b14e5dd494199341699f705eeb60acd466c5a5eb6bf40e55877b585f7b38"
+  },
+  {
+    "path": "assets/sanctuary/library/034/far.glb",
+    "bytes": 316696,
+    "sha256": "3e7be87c9f7183970d3e20eeb0f21caf60d6ca4edd64055b0ff39e56755531df"
+  },
+  {
+    "path": "assets/sanctuary/library/034/high.glb",
+    "bytes": 6797488,
+    "sha256": "316a495de0ee12590e30ad3f42b63fe56854d247cc07ab4c713169226cd605e7"
+  },
+  {
+    "path": "assets/sanctuary/library/034/low.glb",
+    "bytes": 1624076,
+    "sha256": "d33f6385118b9891fdb98f155a567456df4f35c98314d79d00d830bf9f4f2cd8"
+  },
+  {
+    "path": "assets/sanctuary/library/035/far.glb",
+    "bytes": 283004,
+    "sha256": "33fe79a840ec9c562e7d2ac488614a34e53c1be5c70eb29105c8b5b833e731ab"
+  },
+  {
+    "path": "assets/sanctuary/library/035/high.glb",
+    "bytes": 2661004,
+    "sha256": "b6b80532fa36a334f6db3e28e35e8cadbf1babcc2fa273f975c7f0f9224d1387"
+  },
+  {
+    "path": "assets/sanctuary/library/035/low.glb",
+    "bytes": 776396,
+    "sha256": "afe3ee3965cec72c2d1cb09b268d99905fe95e98befd374190da067e5ffc2f7e"
+  },
+  {
+    "path": "assets/sanctuary/library/037/far.glb",
+    "bytes": 500384,
+    "sha256": "5e73c1c96a014b8eefba4dfb658c55b871c406826572fcdb3431b41a570dbffb"
+  },
+  {
+    "path": "assets/sanctuary/library/037/high.glb",
+    "bytes": 4917436,
+    "sha256": "5b744014d163261700081aa4e6da12c3925ecf3697472dcf9f60080cd5b64215"
+  },
+  {
+    "path": "assets/sanctuary/library/037/low.glb",
+    "bytes": 964048,
+    "sha256": "2ad4943cf5252019a56c4869bfb65da57dcc8299ad9bb8091385c6b32457ca82"
+  },
+  {
+    "path": "assets/sanctuary/library/038/far.glb",
+    "bytes": 531288,
+    "sha256": "fc5d10fded9df70ace73d09b740c06688b16d7a7c1a86ba12eb5715dddeec9a5"
+  },
+  {
+    "path": "assets/sanctuary/library/038/high.glb",
+    "bytes": 3153420,
+    "sha256": "e1c8d56a06cef9585fbf73284826447d3fdbbc08ec50052d1d1dd6463954e64c"
+  },
+  {
+    "path": "assets/sanctuary/library/038/low.glb",
+    "bytes": 903908,
+    "sha256": "9b0dc2a4c5036e60594974212b068216e74063b45a1a4c964daaa7687c2e40d1"
+  },
+  {
+    "path": "assets/sanctuary/library/039/far.glb",
+    "bytes": 438760,
+    "sha256": "bd8898d51e43d741c64cf36d9327dad343484d361d66a2fc1784b91978d32887"
+  },
+  {
+    "path": "assets/sanctuary/library/039/high.glb",
+    "bytes": 4977788,
+    "sha256": "48a342eb0085693b0c27d650b4d2b7af3fbb049a7c65217b3f2bedd78857e950"
+  },
+  {
+    "path": "assets/sanctuary/library/039/low.glb",
+    "bytes": 946476,
+    "sha256": "37c9ad3bd5fed8a9872a2fedea8e900f8094207d00df784efba1d4843f2a5c76"
+  },
+  {
+    "path": "assets/sanctuary/library/041/far.glb",
+    "bytes": 618980,
+    "sha256": "bdb598c0db2aded739c82318128675d055761356b74f47cf2ba217f795cc9927"
+  },
+  {
+    "path": "assets/sanctuary/library/041/high.glb",
+    "bytes": 2683880,
+    "sha256": "38433bdfd66e9482fe696d74af9f037a2bfc739754ac34ac4cb81f78f2f3cffd"
+  },
+  {
+    "path": "assets/sanctuary/library/041/low.glb",
+    "bytes": 922868,
+    "sha256": "ed001b2b86501d76edfbbc9b0d4e277a8917068dce693e3efdeb41c6e3439c52"
+  },
+  {
+    "path": "assets/sanctuary/library/045/far.glb",
+    "bytes": 91316,
+    "sha256": "ad20d7a11a15d4ee4207f1cc9e8570f0899fad0f226c547688151b81b5269c6c"
+  },
+  {
+    "path": "assets/sanctuary/library/045/high.glb",
+    "bytes": 1744188,
+    "sha256": "a1a8f6c96867e712468c462e4cd35ff718ac5bd26a70735925ea2905be938728"
+  },
+  {
+    "path": "assets/sanctuary/library/045/low.glb",
+    "bytes": 474320,
+    "sha256": "ae60a4fecf17481c74b2e2bec288a3bfb7eec1a274f0046837117501ce378267"
+  },
+  {
+    "path": "assets/sanctuary/library/056/far.glb",
+    "bytes": 279200,
+    "sha256": "a413de3fe836bf9cadb0bd1aedd4b137a91f105cdf3d625cf016184ca949efb6"
+  },
+  {
+    "path": "assets/sanctuary/library/056/high.glb",
+    "bytes": 2790780,
+    "sha256": "e040e96f9915a0cfc3e4779a58ff8bcce2b0d5c26feb9ab4b54305694e75ac08"
+  },
+  {
+    "path": "assets/sanctuary/library/056/low.glb",
+    "bytes": 900932,
+    "sha256": "9f5c7f3f58d946f8dd4a0cf46a5fc0cbb716101d60ac0bf3b75aa2ca26e59ac1"
+  },
+  {
+    "path": "assets/sanctuary/library/060/far.glb",
+    "bytes": 357820,
+    "sha256": "f578f9751fbe8555d16fb9e587d7c5e72aa8279be905ebc73b675978af991e3b"
+  },
+  {
+    "path": "assets/sanctuary/library/060/high.glb",
+    "bytes": 2517256,
+    "sha256": "e0c9e4add9a5cbcff4b499fede237fb98a87c72fe61f1ee654dcc65dc8558341"
+  },
+  {
+    "path": "assets/sanctuary/library/060/low.glb",
+    "bytes": 745308,
+    "sha256": "685abcc4dd5af1a9435ad4c925b4ce3bd1b0f1bccb8383fd15b216c667fab29d"
+  },
+  {
+    "path": "assets/sanctuary/library/bodhi/far.glb",
+    "bytes": 164572,
+    "sha256": "aeb49d3f36460806d45f04b7971bc926d310bb6536a5c2c52ac7b9ae25f29927"
+  },
+  {
+    "path": "assets/sanctuary/library/bodhi/high.glb",
+    "bytes": 2606168,
+    "sha256": "2ecbe0b2b711e29e93905b47832c967859a41a8b1f0250926323f5c8f31987f4"
+  },
+  {
+    "path": "assets/sanctuary/library/bodhi/low.glb",
+    "bytes": 755020,
+    "sha256": "b02c8becdf9b236916fca2d6e1a4f79ee9199ef4635602a7044294e1d13c4c71"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/01/far.glb",
+    "bytes": 244860,
+    "sha256": "d0886563194b0cc9ef75943c594883b431ddcadc985e52359d9fa98f8fb6baca"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/01/high.glb",
+    "bytes": 3132248,
+    "sha256": "12ce7cc6df107a9d004e3ca5ee2c691cb9e4978601faedab7aefbe93434c844d"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/01/low.glb",
+    "bytes": 940060,
+    "sha256": "0bc9d92885b479258256fde1cd024f804caf4bdd3a4057f166c48787c0faefec"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/02/far.glb",
+    "bytes": 244236,
+    "sha256": "ba4da98a3fc44ca7f3c6283c864ea34d7c0e37349b19f2e5d5709746ca324a73"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/02/high.glb",
+    "bytes": 3101976,
+    "sha256": "b25e7477cf6e0c197574090e5d3ddcee03757006aa6427d9f28fa981cac744ce"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/02/low.glb",
+    "bytes": 936632,
+    "sha256": "f404f221f1a91a839f2438d6542d8e5260e72a6723cdb15a6d7f052151560a7a"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/03/far.glb",
+    "bytes": 230280,
+    "sha256": "44ab11de804e5463c47fa289ff717751cf20c97994d4d4067f24b9b534a24092"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/03/high.glb",
+    "bytes": 2977528,
+    "sha256": "e0958e88fd7115994a8bd941a707dab486110ce1886be2f3ff99a4265a3bd821"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/03/low.glb",
+    "bytes": 889372,
+    "sha256": "5c548f0e6575a39917db29ae11bdc1c0ec7bc2f5c2c0a3333824dd34b5e4dad3"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/04/far.glb",
+    "bytes": 215292,
+    "sha256": "d294d1b6eaa1b402c728483268f1942adbb9ae794fed709be4f1db525a9c695b"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/04/high.glb",
+    "bytes": 2974660,
+    "sha256": "ec68ddfe994a843ca7e659f2bce416a49933c8fd8e907c74f0e93ab08354ec70"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/04/low.glb",
+    "bytes": 866360,
+    "sha256": "f377bd3b5c96aef544ccf3aeebdbf500e421565773359c29f3cfd7bb582a8931"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/05/far.glb",
+    "bytes": 251792,
+    "sha256": "1940e4618e6d64275eeeee60c4c78446a65a13d07796e01a4ac74f43e6ce1014"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/05/high.glb",
+    "bytes": 3101724,
+    "sha256": "995ffc347fd58388553feb35e5ebf3fa1b42c4d9bee4708ca1f5311b7c96be0b"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/05/low.glb",
+    "bytes": 943228,
+    "sha256": "a60ceda1e5a50c2a161b0424634dbfddc53b4748dd00888b3e1a7780e0f7a5bb"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/06/far.glb",
+    "bytes": 244656,
+    "sha256": "071c6f88b0e8702ca29709f1073d56ab9a3b5d5593dddb91ec7e2e9652ec9ae6"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/06/high.glb",
+    "bytes": 3214708,
+    "sha256": "78b4f4376dced82088f92eab0ce63bc414db10ea16a4ee8c3e38e4667dd638d9"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/06/low.glb",
+    "bytes": 953908,
+    "sha256": "43657f384d1847d3ef69f00cb8f05060a98405c55cba0bb3464cde7db65da635"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/07/far.glb",
+    "bytes": 276236,
+    "sha256": "45cf70d7f13f3387c1e5c1974f87904f59f3685fd2496e2c60f88e1f0d856410"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/07/high.glb",
+    "bytes": 3315588,
+    "sha256": "1e811245556e9e8d048fbb28499b2b0b04e321616256f763f22b2043bd9e6be2"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/07/low.glb",
+    "bytes": 1025784,
+    "sha256": "08d0ebb40395ca778e94eb7434a69130e41b7d4441b5609e4ee9cac63d757bb9"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/08/far.glb",
+    "bytes": 208920,
+    "sha256": "9a1e07632868da7185f426871b9bbf9dc1a860f75799bbdd4bd69ab136df0bd7"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/08/high.glb",
+    "bytes": 2902572,
+    "sha256": "d0f8522ea187c5dd7bf22b73ba437ad811c8489cddaca86f8dac1f1244940b94"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/08/low.glb",
+    "bytes": 839700,
+    "sha256": "26cd66f18c8e7b48b2d9c29f620c2cdbe1251b4ba7b4caaf2c154d21b550fd37"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/09/far.glb",
+    "bytes": 204396,
+    "sha256": "5c586778fa3916d537d072ccce47765781b41ab2c1d87d7e2f01842c123dcf11"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/09/high.glb",
+    "bytes": 2913480,
+    "sha256": "2a6e8efeccdddd9655b5949819149c2f829b18a38d916e19ce807b7adec03bf7"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/09/low.glb",
+    "bytes": 838372,
+    "sha256": "8913caeb60da7166b6cfc269c37ea5cf2a5e17ef9476e1fe0d4b5b5878cb7e82"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/10/far.glb",
+    "bytes": 196872,
+    "sha256": "b31e2f611af3e95a16769dc01906afd63170166737aedec53f46ce52d37e9b7d"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/10/high.glb",
+    "bytes": 2844204,
+    "sha256": "1e9106c98b07f2d5893fb9145060e506d4e45aa451df85a91f972e40cef2c889"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/10/low.glb",
+    "bytes": 813312,
+    "sha256": "d42857e341f0ce24a3366f5cc4096b014d0ec372413db7e25ec29ac4cd9711ae"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/11/far.glb",
+    "bytes": 207192,
+    "sha256": "3c293c90cab1ad0a1bfb0ef32e6f715bc581f13f918e9483de3f0957496966b6"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/11/high.glb",
+    "bytes": 2866648,
+    "sha256": "45b48e95d524334d46cb5a5af9b5d9e1515af1ca5dad57b2e9b397b96ca0c257"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/11/low.glb",
+    "bytes": 828876,
+    "sha256": "37533a183a9ab5c3a87c5bc3dc419cb05cb6323d48d6c283d21f78c051d71e1f"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/12/far.glb",
+    "bytes": 200436,
+    "sha256": "a4a19cc16268874628db4030c232b97f68c2747b425d5f0a636146be813e5cda"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/12/high.glb",
+    "bytes": 2960996,
+    "sha256": "14a28f9af473d6e55a25274c321ee8c3c34da1f79a1378c1cfd5ae5da3548f6b"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/12/low.glb",
+    "bytes": 838268,
+    "sha256": "0e8d96b3b70ad108d1cd14884854a9b96223758d5b3aaaf6b6a8c7f8105862c6"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/13/far.glb",
+    "bytes": 221852,
+    "sha256": "d4754ab48083a7ad580ba041025b4f244a65f46091be1a4c870d7de02606b584"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/13/high.glb",
+    "bytes": 3014996,
+    "sha256": "7c5783a9704f94b24519632b998f07f5f0ba8add3c00c286f5beb86ea0fdec0b"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/13/low.glb",
+    "bytes": 875640,
+    "sha256": "7e4b323a5e21e372d5a0526ec8d7410f14ccd6287d82d7076b75b3230db9d0e1"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/14/far.glb",
+    "bytes": 229544,
+    "sha256": "057928239787ec9386aa3de49c5a07adaf1139c496d562b0c0d31980aaa805d0"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/14/high.glb",
+    "bytes": 3058820,
+    "sha256": "d32c4dce2e484f7188c9e349bd5457b834f6bb40e615e02d24faf1bea313a29e"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/14/low.glb",
+    "bytes": 903320,
+    "sha256": "173772f894b2fb62979c46be692e709154f2dc962ef406de3e1a96a2db9bc508"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/15/far.glb",
+    "bytes": 241224,
+    "sha256": "9a0327e41b194d5edd6f25e0c6fce28cb37b5ab7e3099d3f4bbe33ca6c87a619"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/15/high.glb",
+    "bytes": 3052200,
+    "sha256": "d28438de7b6d623d175869e12ab3e36cfd147151318c49e34a0ac979ccb9e3ad"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/15/low.glb",
+    "bytes": 914528,
+    "sha256": "8ae03ee2854f66a87c41fb267dfa14304e5ea12870775dc8e39fa2aaca3683b0"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/16/far.glb",
+    "bytes": 237292,
+    "sha256": "7ee30cb35c601b20ad728cfa9d35503097c5bc73dd24eab1519f5e8055aac5e0"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/16/high.glb",
+    "bytes": 3092432,
+    "sha256": "938b670c275a1f4385b1943e7f4139919d8e628b9b674775d6ad417eb0a1bb44"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/16/low.glb",
+    "bytes": 916372,
+    "sha256": "fccc6f1b92f3e0263431d6e828c24075587b3d927b08ab4fc9c490ecb33d176e"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/17/far.glb",
+    "bytes": 229452,
+    "sha256": "348f08104998bbd9c90d6abaca610ab396152c6dc7bbb01405a5d4cea96d9401"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/17/high.glb",
+    "bytes": 2971072,
+    "sha256": "aa82940cf0aaaeeff2620240da1b119b2a0f605243f938e0d06e3b86abf0a0e7"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/17/low.glb",
+    "bytes": 883560,
+    "sha256": "ff49032071f858fb2d6ec2d2760d44788ef6780ded6f0de1ce73657745901a5a"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/18/far.glb",
+    "bytes": 161616,
+    "sha256": "e56690cdedda0ea730e572d75a3dd1c62ac319ad17b117f0a72f9bcbfde8e625"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/18/high.glb",
+    "bytes": 2532488,
+    "sha256": "2195b053b32b2775a34eec91008cb3254d3391214e9a646addf5195e822afeae"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/18/low.glb",
+    "bytes": 705692,
+    "sha256": "1fc9e34c990eff3fc86feb58fe1f21cf72d3efbf02b7bdf8c70755ae3b4c7977"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/19/far.glb",
+    "bytes": 371256,
+    "sha256": "72c11819e4070b858c52f5221e64de8a84a2420bb11e75eae4afd7375b7e1a87"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/19/high.glb",
+    "bytes": 4621036,
+    "sha256": "3026a8e52c3b427298cfd1b1279b8f5cb60ff8058f9f1034b21382769e3c4cbe"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/19/low.glb",
+    "bytes": 1252668,
+    "sha256": "ab9a49cb64e0eecf1b5ec222ee6bf78540ee88e9c6e08ca270664cba2f54e467"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/20/far.glb",
+    "bytes": 116812,
+    "sha256": "e8a8f6c76d604a6b1774d81c73d578a7b526b65b6198f81b4fb8e42b9357b5f9"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/20/high.glb",
+    "bytes": 2241528,
+    "sha256": "2c8ae36c7e8a8663841e0036d3894aff229d6545d0a1f60794e079a900f3adc8"
+  },
+  {
+    "path": "assets/sanctuary/owner-collection20/20/low.glb",
+    "bytes": 579580,
+    "sha256": "c120e1fa97d083c7dd68cd251a8b040cefea01cc9ee95977d0d64a18f80c5fd9"
+  },
+  {
+    "path": "assets/sanctuary/statues/buddha/high.glb",
+    "bytes": 3885824,
+    "sha256": "d7810bf491480159f3985bac26adab732c1059891f646685c8ca6485c62ca929"
+  },
+  {
+    "path": "assets/sanctuary/statues/buddha/low.glb",
+    "bytes": 3356604,
+    "sha256": "e786446806f5ac6f01dab1de7c0fa59fb0255a897e8ff1b8a2e47616c0c4fa6e"
+  },
+  {
+    "path": "assets/sanctuary/statues/guanyin/high.glb",
+    "bytes": 7198500,
+    "sha256": "e74bb5fcd85c9da26a10e9e65d69848ee58b856ee030cfcc30d50c1d2a6fde49"
+  },
+  {
+    "path": "assets/sanctuary/statues/guanyin/low.glb",
+    "bytes": 2875224,
+    "sha256": "c25fb5701241256205e39cd9ac585e24c9642e2260db8f72570d93703afdce2a"
+  },
+  {
+    "path": "assets/sanctuary/statues/shakyamuni/gallery-far.glb",
+    "bytes": 41696,
+    "sha256": "ef371e3460ff4226ee29a249ff2dc5947773e73e75ed9c123fd00539bd2644cb"
+  },
+  {
+    "path": "assets/sanctuary/statues/shakyamuni/high.glb",
+    "bytes": 1081096,
+    "sha256": "1847b18601b209ef359da6ecdc4c646e53846eb9997371a6ea12f4cca0a34908"
+  },
+  {
+    "path": "assets/sanctuary/statues/shakyamuni/low.glb",
+    "bytes": 271136,
+    "sha256": "1a6a3e04304c272ebe02b611988991d7b61ce31fdf62636d0c5ec3d45c45f026"
+  },
+  {
+    "path": "assets/sanctuary/tower-buddha/far.glb",
+    "bytes": 160816,
+    "sha256": "180f23629de0206c3f2acae481a6e0e4bb9be1586eceabbe38279e7818243351"
+  },
+  {
+    "path": "assets/sanctuary/tower-buddha/high.glb",
+    "bytes": 2934136,
+    "sha256": "6935ca599b74f95f9f9a6752995b89cd027a5ab549842ab78711531626b9709b"
+  },
+  {
+    "path": "assets/sanctuary/tower-buddha/low.glb",
+    "bytes": 765732,
+    "sha256": "50b0d98a3afa69a6943f0b7dcbde0bc85e6fb8e9a3595546a689e823d0afb48c"
+  },
+  {
+    "path": "assets/vendor/meshopt_decoder.js",
+    "bytes": 29360,
+    "sha256": "fabafaaa29cbb1cfa367f20e896d7f6e95b86e575e2ea86ddb6f8cca1a87152d"
+  },
+  {
+    "path": "assets/workshop/vb-sanctuary-giant-column/high.glb",
+    "bytes": 2959208,
+    "sha256": "6ba15984558126e66478f81f49daf2487d3e7834bfae641a4adfd75b5d2c3751"
+  },
+  {
+    "path": "assets/workshop/vb-sanctuary-giant-column/low.glb",
+    "bytes": 2643508,
+    "sha256": "421ec380c7f14d25555280b27f29a807c808771bb7eb330e6f93a0005d9cce13"
+  },
+  {
+    "path": "assets/workshop/vb-sanctuary-grand-roof/high.glb",
+    "bytes": 53243828,
+    "sha256": "ee81dcb10b744b0f0da296d1e843009023be0de8362b091baa8d7978b453d5fc"
+  },
+  {
+    "path": "assets/workshop/vb-sanctuary-grand-roof/low.glb",
+    "bytes": 19497020,
+    "sha256": "e482a493aa1cfac05eaa6e06c1d80ad34026210b276cc7756e8cc7162711eff7"
+  }
+]

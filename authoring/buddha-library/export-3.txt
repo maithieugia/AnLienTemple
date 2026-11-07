@@ -1,0 +1,10 @@
+EXPORTED 060 {'high': 60000, 'low': 15000, 'far': 5576}
+EXPORTED 045 {'high': 215167, 'low': 215167, 'far': 215167}
+EXPORTED 041 {'high': 60000, 'low': 14999, 'far': 9814}
+EXPORTED 039 {'high': 60000, 'low': 14999, 'far': 6433}
+EXPORTED 038 {'high': 59999, 'low': 14999, 'far': 7037}
+EXPORTED 037 {'high': 60000, 'low': 15000, 'far': 7589}
+EXPORTED 035 {'high': 60000, 'low': 14999, 'far': 4354}
+EXPORTED 034 {'high': 59999, 'low': 14999, 'far': 3000}
+EXPORTED 031 {'high': 60000, 'low': 15000, 'far': 3000}
+EXPORTED 029 {'high': 60000, 'low': 15000, 'far': 4718}

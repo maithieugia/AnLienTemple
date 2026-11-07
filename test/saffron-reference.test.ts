@@ -1,0 +1,5 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {createHash} from 'node:crypto';
+test('refined monk anatomy retains usable skinning, bounded size and smooth face detail',()=>{const data=readFileSync(new URL('../public/assets/chars/monk-reference/avatar.json',import.meta.url)),a=JSON.parse(data.toString()),report=JSON.parse(readFileSync(new URL('../public/assets/chars/monk-reference/asset.json',import.meta.url),'utf8'));assert.ok(data.length<15e6);assert.equal(createHash('sha256').update(data).digest('hex'),report.sha256);assert.ok(a.skin.indices.length/3>100000);for(const name of ['skin','eyes']){const p=a[name],n=p.positions.length/3;assert.equal(p.uvs.length,n*2);assert.equal(p.joints.length,n*4);assert.equal(p.normals.length,n*3);assert.ok(p.positions.every(Number.isFinite));assert.ok(p.indices.every((i:number)=>i>=0&&i<n));for(let i=0;i<n;i++){assert.ok(Math.abs(p.weights.slice(i*4,i*4+4).reduce((s:number,v:number)=>s+v,0)-1)<.002);}assert.ok(p.joints.every((j:number)=>j>=0&&j<a.boneNames.length));}});

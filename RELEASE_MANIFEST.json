@@ -1,0 +1,52 @@
+{
+  "version": "0.5.0",
+  "source": {
+    "src/main.ts": "9649a125e8c204f2949fbe48403d5099cbb4aca0d44eceed7ea93c7e260ad418",
+    "src/reference-preview.ts": "5e38f4945ccf423a6352432ab412221518dbc775f345aeff2cdc6166bd8ebcee",
+    "src/sculpture-preview.ts": "2fac01699942d06fd44c2e7ca48b9fbdd295dcc5f0f8fa2525a058b567253638",
+    "src/game/audio/TempleSound.ts": "644838395d6a64ea8465e9f1240303c67cdd1ace1a4c80fcfa7e241b862c11e3",
+    "src/game/visual/Surfaces.ts": "2d61077970b949600476944f8d8427abfbd22b9bcfeea828a95c56cb652a11be",
+    "src/game/world/BronzeAltar.ts": "3364963bbba2a77bed188db16f610e44a3f4f1ab044d6ace90198c5e023bcb83",
+    "src/game/world/BuildingAtlas.ts": "6698d09a059b723b9260e0c7c7c813d34598a35e458d938f9fd943b350d1afed",
+    "src/game/world/Buildings.ts": "3db84aa29a88aa0d809f69e612f0eba41e395c4048c9d43ddc0d7a8a5f11126c",
+    "src/game/world/GardenTrees.ts": "d621d83ee458f31ab27037480107058818017919373c4b4c0ee1d357ed8e135b",
+    "src/game/world/HundredBuddhaPlan.ts": "d7f0fa26c67a63ec9c515f988dacb0a9d95773ebc0cce42278d57421c966d69d",
+    "src/game/world/HundredBuddhas.json": "862b20629cb30efab03c067c1ae1024aaf09f6fc8c0494710727ffe78f9367f9",
+    "src/game/world/HundredBuddhas.ts": "f82f0a312327b5a7e9711335be127e6127012252751e62ef179d94e51f5c5fda",
+    "src/game/world/IncenseSmoke.ts": "2595cc22c8733958dcdbe850ecc720469efe26b390ee245f4e3b7b005044b332",
+    "src/game/world/Interiors.ts": "a7e384f27d9ca1a1851353f3dedd7e5ec4e6934db4345a8fa5207b361fe11b31",
+    "src/game/world/Obstacles.ts": "3e11fc7de3d6979c8e7c0e866e6e8a5723a2ba343c4d8c6ac8ee20fc60a9217b",
+    "src/game/world/PrayerWheelArt.ts": "6966af85aab95dab6315a8e3c6cd4736554e3b0e87743b55c604e2955ca1cf68",
+    "src/game/world/PrayerWheelPlan.ts": "b51a239d61f9a7d4c802d50a511b4c73cb5e388602b46102f69a3ca418ae6e35",
+    "src/game/world/PrayerWheels.ts": "4d8bfd8a905fa5f8c69600acb40e7cffc3493df765f3308ed3deacfd0f33c0e1",
+    "src/game/world/Sanctuary.ts": "7c204d92229992dabb1e57f79ea112d4b12c0790867ff40881731bb0ebc84ae6",
+    "src/game/world/SanctuaryArchitecture.ts": "6ccbc4262d2cf293902ff7f0e53e273ce4d7d6f25778e0e8f91e20ed02f377cd",
+    "src/game/world/SanctuaryGeometry.ts": "97a9e2bbb66402988536d683168eb1e6c04db452f4eb44a0a80a7d58ea8f8b89",
+    "src/game/world/SanctuaryLandscape.ts": "d5a8364ddac77bb83a429e138157100518a85f1653792d5d776d5d3882ed7cef",
+    "src/game/world/SanctuaryPlan.ts": "433149038642c62805c4c0e8fcfcbf060c8c047f947d02e9c1250478a63a119a",
+    "src/game/world/Staircase.ts": "e8da0d37646c657268b7665e66ea027bd33572f334c0525207ea873ac4b8d787",
+    "src/game/world/Vegetation.ts": "a628585014ebbc869903daf281fd13b186d826862c1f252abb695cc4b7129c6d"
+  },
+  "assets": {
+    "assets/garden/tree-small-02/far.glb": "48a75dba66858dd2a8092d9137b88fffd6743a22a9c489824e34acbe3ea0e86d",
+    "assets/garden/tree-small-02/high.glb": "f5dd7564173a651e3c13f00847782b3d1f613acf6db28a3b82658cf07e4876fd",
+    "assets/garden/tree-small-02/low.glb": "819896e7e6269e2adcc41e98ea6f9a51284642cd55d9e2ce833bae038cf12c0f",
+    "assets/sanctuary/statues/buddha/high.glb": "d7810bf491480159f3985bac26adab732c1059891f646685c8ca6485c62ca929",
+    "assets/sanctuary/statues/buddha/low.glb": "e786446806f5ac6f01dab1de7c0fa59fb0255a897e8ff1b8a2e47616c0c4fa6e",
+    "assets/sanctuary/statues/guanyin/high.glb": "e74bb5fcd85c9da26a10e9e65d69848ee58b856ee030cfcc30d50c1d2a6fde49",
+    "assets/sanctuary/statues/guanyin/low.glb": "c25fb5701241256205e39cd9ac585e24c9642e2260db8f72570d93703afdce2a",
+    "assets/sanctuary/statues/shakyamuni/high.glb": "1847b18601b209ef359da6ecdc4c646e53846eb9997371a6ea12f4cca0a34908",
+    "assets/sanctuary/statues/shakyamuni/low.glb": "1a6a3e04304c272ebe02b611988991d7b61ce31fdf62636d0c5ec3d45c45f026",
+    "assets/workshop/vb-sanctuary-giant-column/high.glb": "6ba15984558126e66478f81f49daf2487d3e7834bfae641a4adfd75b5d2c3751",
+    "assets/workshop/vb-sanctuary-giant-column/low.glb": "421ec380c7f14d25555280b27f29a807c808771bb7eb330e6f93a0005d9cce13",
+    "assets/workshop/vb-sanctuary-grand-roof/high.glb": "ee81dcb10b744b0f0da296d1e843009023be0de8362b091baa8d7978b453d5fc",
+    "assets/workshop/vb-sanctuary-grand-roof/low.glb": "e482a493aa1cfac05eaa6e06c1d80ad34026210b276cc7756e8cc7162711eff7"
+  },
+  "galleryFarSha256": "ef371e3460ff4226ee29a249ff2dc5947773e73e75ed9c123fd00539bd2644cb",
+  "unreleasedPhotoPrototype": true,
+  "photoPrototypeSha256": {
+    "high": "071ac75607152f46d1e77bbc9be03560e7c4701e46c8ea46f2cbe4959edbef68",
+    "low": "019717905e888825b6fc066b0361ec192f2b826d4d00afe8bab2d5ac498d88f5",
+    "far": "d82e62f20bfa8d77f90063fbde76b482c19985f506199274b799fbd43b954340"
+  }
+}

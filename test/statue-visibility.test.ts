@@ -1,0 +1,5 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';
+import {SANCTUARY_STATUES,sanctuaryStatueEnabled,HALL_RITUAL_SHIFT} from '../src/game/world/SanctuaryPlan.ts';
+import {ALL_GARDEN_STATUES,ACTIVE_GARDEN_STATUES,gardenStatueById,OWNER_STATUES,FOUR_KINGS} from '../src/game/world/StatueGardenPlan.ts';
+test('fourteen old hall stone scans are hidden while main Buddha and ritual anchor remain',()=>{assert.equal(SANCTUARY_STATUES.filter(s=>!sanctuaryStatueEnabled(s)).length,14);assert.deepEqual(SANCTUARY_STATUES.filter(sanctuaryStatueEnabled).map(s=>s.id),['main-buddha']);assert.ok(Number.isFinite(HALL_RITUAL_SHIFT));});
+test('both outdoor galleries are hidden without deleting their replacement layouts or other statues',()=>{const gallery=ALL_GARDEN_STATUES.filter(s=>s.group==='west'||s.group==='east');assert.equal(gallery.length,25);assert.equal(ALL_GARDEN_STATUES.length-ACTIVE_GARDEN_STATUES.length,25);for(const s of gallery){assert.ok(!ACTIVE_GARDEN_STATUES.includes(s));assert.equal(gardenStatueById(s.id),undefined);}for(const s of [...OWNER_STATUES,...FOUR_KINGS])assert.ok(ACTIVE_GARDEN_STATUES.includes(s));});

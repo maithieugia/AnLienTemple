@@ -1,0 +1,24 @@
+{
+ "id": "022",
+ "title": "Buddha Idol",
+ "author": "Addere Creations",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-c3a6d95e6cca43ec9052b5529d811dbb",
+ "normalizedHeight": 1,
+ "width": 0.7506,
+ "depth": 0.4483,
+ "frontYawDeg": 0,
+ "sourceTriangles": 500001,
+ "triangles": {
+  "high": 59999,
+  "low": 14999,
+  "far": 3000
+ },
+ "sourceSha256": "b3718b38d7aca203025561fe91ba2063e111fa28ebd7e8a5fa55d460a99fcd49",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "63ff2fa3e664d59233e1eeed35b74e2e241e3521223f9b7604a7fb5ac1f35ca2",
+  "low": "1729eb5bab9d3affedb918f59f11b97a771fdb0c74116bb14f72fad41d78de54",
+  "far": "dacc70fa031fca21b5364f2bf27f2ad3dd99179c78cf096e6d26f4dd5d951edd"
+ }
+}

@@ -1,0 +1,7 @@
+{
+  "appId": "vn.io.palo.chuaanlien",
+  "appName": "Chùa Online An Liên",
+  "webDir": "www",
+  "server": { "url": "https://dichua.palo.io.vn/", "cleartext": false },
+  "android": { "appendUserAgent": "ChuaAnLienApp", "backgroundColor": "#1a120c", "allowMixedContent": false }
+}

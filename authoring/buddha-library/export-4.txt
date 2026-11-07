@@ -1,0 +1,4 @@
+EXPORTED 001 {'high': 59999, 'low': 14999, 'far': 2999}
+EXPORTED 003 {'high': 60000, 'low': 14999, 'far': 2999}
+EXPORTED 004 {'high': 59999, 'low': 14999, 'far': 2999}
+EXPORTED 011 {'high': 60000, 'low': 15000, 'far': 3000}

@@ -1,0 +1,24 @@
+{
+ "id": "004",
+ "title": "V-a-standing-buddha",
+ "author": "khoicyno2345",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-cd9aec5874f341f39f9b1954128b6e9b",
+ "normalizedHeight": 1,
+ "width": 0.2963,
+ "depth": 0.2982,
+ "frontYawDeg": 0,
+ "sourceTriangles": 689147,
+ "triangles": {
+  "high": 59999,
+  "low": 14999,
+  "far": 2999
+ },
+ "sourceSha256": "22d09bed0c67ca4d203f860d005f63cbdd1ab86676569fb12a95090989ddf1d8",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "0c91cf890e180069a4250eb1c55bd3cc8aab62e08e4faafdf34de4fe09a56721",
+  "low": "5fe637510870dcc4e097d7366dd50680b466737efc436bb8240a056d84ec7816",
+  "far": "5321cc89a7d15ca8aa5674590e79ecdcd1d76cb0404deedaba321e2e258aaf6a"
+ }
+}

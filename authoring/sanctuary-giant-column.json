@@ -1,0 +1,48 @@
+{
+  "id": "vb-sanctuary-giant-column",
+  "category": "building",
+  "recipe": "sanctuary_grand",
+  "part": "column",
+  "revision": 4,
+  "label": "An Li\u00ean \u00b7 c\u1ed9t hai t\u1ea7ng50m",
+  "units": "metres",
+  "status": "candidate",
+  "lods": {
+    "high": {
+      "ratio": 1,
+      "triangleLimit": 120000,
+      "byteLimit": 110000000
+    },
+    "low": {
+      "ratio": 0.35,
+      "triangleLimit": 45000,
+      "byteLimit": 6000000
+    }
+  },
+  "expectedDimensions": {
+    "min": [
+      8,
+      98,
+      8
+    ],
+    "max": [
+      14,
+      108,
+      14
+    ]
+  },
+  "requiredNodes": [],
+  "license": "Original Veilbound geometry and textures (Claude, tools/art_workshop/recipes/sanctuary_grand.py). No third-party assets.",
+  "previewScale": 52,
+  "previewHeight": 21,
+  "previewCamera": [
+    40,
+    -55,
+    30
+  ],
+  "previewRearCamera": [
+    -40,
+    55,
+    30
+  ]
+}

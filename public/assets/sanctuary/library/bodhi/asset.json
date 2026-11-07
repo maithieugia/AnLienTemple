@@ -1,0 +1,24 @@
+{
+ "id": "bodhi",
+ "title": "Meditating Buddha",
+ "author": "restore50",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/deefc01e1b3c4790a8e3c36e32ec6215",
+ "normalizedHeight": 1,
+ "width": 0.5644,
+ "depth": 0.4836,
+ "frontYawDeg": 0,
+ "sourceTriangles": 813901,
+ "triangles": {
+  "high": 59999,
+  "low": 14999,
+  "far": 2999
+ },
+ "sourceSha256": "3dcf47c1e4168bd88e879e8af9f2e049ad7cfefdda1c8b40adc3cc0a140dcb5f",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "2ecbe0b2b711e29e93905b47832c967859a41a8b1f0250926323f5c8f31987f4",
+  "low": "b02c8becdf9b236916fca2d6e1a4f79ee9199ef4635602a7044294e1d13c4c71",
+  "far": "aeb49d3f36460806d45f04b7971bc926d310bb6536a5c2c52ac7b9ae25f29927"
+ }
+}

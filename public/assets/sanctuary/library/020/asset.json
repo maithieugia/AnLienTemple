@@ -1,0 +1,24 @@
+{
+ "id": "020",
+ "title": "Bodhisattva Statue 3d Model",
+ "author": "ji4ngli0ng",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-2484949a504e466a9916b2bc4e78b527",
+ "normalizedHeight": 1,
+ "width": 0.7219,
+ "depth": 0.5846,
+ "frontYawDeg": -90,
+ "sourceTriangles": 500992,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 3000
+ },
+ "sourceSha256": "35ab092fa91776f471b7ab8baf1db9a5e80f5be39de8d7a127ef223c3a27e885",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "9f9fdadbc96dde16f1d21f82e858b1fc7f4d97751b0be7e855b643ce963033ea",
+  "low": "584827140ccfd66557e607a51c4505c2f8b93c77307dc4c9b606a777f57f17a5",
+  "far": "4e84b0096dfc87ed77135be3c3cb9b87facfec3c1639404cd2b986e37de85708"
+ }
+}

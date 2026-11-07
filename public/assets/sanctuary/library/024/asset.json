@@ -1,0 +1,24 @@
+{
+ "id": "024",
+ "title": "Maitreya Bodhisattva",
+ "author": "Amitabha Buddhist New Zealand",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-dd03a47798124527af5d124a294a5a1b",
+ "normalizedHeight": 1,
+ "width": 0.9771,
+ "depth": 0.5777,
+ "frontYawDeg": 0,
+ "sourceTriangles": 500000,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 5256
+ },
+ "sourceSha256": "628592cebd410a184c46800766935b4b20dd49bf2c30bb3c630d71174ba3b7ff",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "06ad5b89e1c311a0229f51beb4ceaa6db277a95c68907e0516f8a1fe92d12018",
+  "low": "7723691b97846a3353cef837e8c3ee892b4464b00e652f6e8e92c128b7f872c1",
+  "far": "dd3b62ed721897ba48e2b670fdf0e7191afab6c0f46028f55901beef11e212c1"
+ }
+}

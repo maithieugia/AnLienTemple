@@ -1,0 +1,142 @@
+[
+  {
+    "id": "01",
+    "name": "Phật Di Lạc",
+    "role": "gate",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Phật Di Lạc.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "02",
+    "name": "Khổng Tước Minh Vương",
+    "role": "court",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Khổng Tước Minh Vương.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "03",
+    "name": "Đại Phạm Thiên Vương",
+    "role": "court",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Đại Phạm Thiên Vương.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "04",
+    "name": "Đế Thích Thiên",
+    "role": "court",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Đế Thích Thiên.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "05",
+    "name": "Ma Lợi Chi Thiên",
+    "role": "court",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Ma Lợi Chi Thiên.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "06",
+    "name": "Biện Tài Thiên",
+    "role": "court",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Biện Tài Thiên.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "07",
+    "name": "Cát Tường Thiên Nữ",
+    "role": "court",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Cát Tường Thiên Nữ.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "08",
+    "name": "Quán Thế Âm Bồ Tát",
+    "role": "hall",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Quán Thế Âm Bồ Tát.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "09",
+    "name": "Đại Thế Chí Bồ Tát",
+    "role": "hall",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Đại Thế Chí Bồ Tát.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "10",
+    "name": "Văn Thù Sư Lợi Bồ Tát",
+    "role": "hall",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Văn Thù Sư Lợi Bồ Tát.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "11",
+    "name": "Phổ Hiền Bồ Tát",
+    "role": "hall",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Phổ Hiền Bồ Tát.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "12",
+    "name": "Di Lặc Bồ Tát",
+    "role": "hall",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Di Lặc Bồ Tát.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "13",
+    "name": "Địa Tạng Vương Bồ Tát",
+    "role": "hall",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Địa Tạng Vương Bồ Tát.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "14",
+    "name": "Hư Không Tạng Bồ Tát",
+    "role": "hall",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Hư Không Tạng Bồ Tát.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "15",
+    "name": "Kim Cang Thủ Bồ Tát",
+    "role": "hall",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Kim Cang Thủ Bồ Tát.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "16",
+    "name": "Trừ Cái Chướng Bồ Tát",
+    "role": "hall",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Trừ Cái Chướng Bồ Tát.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "17",
+    "name": "Vô Tận Ý Bồ Tát",
+    "role": "hall",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Vô Tận Ý Bồ Tát.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "18",
+    "name": "Bồ tác tưới sen",
+    "role": "hall",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Bồ tác tưới sen.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "19",
+    "name": "Bồ tác ngàn tay",
+    "role": "giant",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Bồ tác ngàn tay.zip",
+    "member": "base_basic_pbr.glb"
+  },
+  {
+    "id": "20",
+    "name": "Phật khất thực",
+    "role": "side",
+    "sourceZip": "C:\\Users\\Admin\\Downloads\\Tượng Phật\\Phật khất thực.zip",
+    "member": "base_basic_pbr.glb"
+  }
+]

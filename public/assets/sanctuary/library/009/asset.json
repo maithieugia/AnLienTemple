@@ -1,0 +1,24 @@
+{
+ "id": "009",
+ "title": "Buddha's Head",
+ "author": "Diana Liu",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-49ab94a98d3043d4a3462140f3853922",
+ "normalizedHeight": 1,
+ "width": 0.6076,
+ "depth": 0.6046,
+ "frontYawDeg": 0,
+ "sourceTriangles": 600000,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 5683
+ },
+ "sourceSha256": "2165d2f672a0d1c79369a77aec601b533c764c4f5d7847e204ef104c8ba9a391",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "c84c25a7521017067f74a04d5d80de901fcc45144ac9240ed2636985e4c0ab31",
+  "low": "83385a3a0c7b7fc29a3d02c4027b13342dee58ef9102f0b68f60294889677581",
+  "far": "d1e32788417ecc316bb77766fd94b3ec4c518e79a8941561552dc97e114dcc70"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "019",
+ "title": "Amitabha-amida-buddha20240307-60-a1d6ms",
+ "author": "jamenng0724",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-85026acd053748fcbd15531dbf314ad6",
+ "normalizedHeight": 1,
+ "width": 0.7902,
+ "depth": 0.6427,
+ "frontYawDeg": 0,
+ "sourceTriangles": 501278,
+ "triangles": {
+  "high": 59999,
+  "low": 15000,
+  "far": 3000
+ },
+ "sourceSha256": "8c06dd17c8c6783134f25d273eebd5ea7e5d5320695d31c84101e4afea666b17",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "6b56891e8082108003a37d5d4d539dcad555de5ac24939978df7c8c83f9e5ac1",
+  "low": "3a90fbd51b79d4c590e7cbd902ae7358474ac02599bb62f89858646648c11638",
+  "far": "e1e4a76f3327dee434de4b9d4568d31e092a0046420fb234ddafb57f6092a901"
+ }
+}

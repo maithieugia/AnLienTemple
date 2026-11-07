@@ -1,0 +1,24 @@
+{
+ "id": "010",
+ "title": "Dai Kannon of Kita no Miyako Park",
+ "author": "vladinaumann26",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-d5aac9fa08554db38460584b792f8e8d",
+ "normalizedHeight": 1,
+ "width": 0.3967,
+ "depth": 0.4037,
+ "frontYawDeg": -90,
+ "sourceTriangles": 592858,
+ "triangles": {
+  "high": 59999,
+  "low": 15000,
+  "far": 9111
+ },
+ "sourceSha256": "26f7b055af1c5c9eb014dc142d9fbf177fed9ac4df9a0a5b0d516335bc52915c",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "eff818ac85fc56b2780fc41952e06d1010e13021e14ff4b8290db6c75b0e0834",
+  "low": "db75a8f003a8e1eddf35ff0f4faaf3ccf0300d6c8f5a61617e1fada4198f03d8",
+  "far": "43676130b684df12a49538471389658437671ff8f89cfb439273ec70f9ebbcaf"
+ }
+}

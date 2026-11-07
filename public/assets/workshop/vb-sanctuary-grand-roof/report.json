@@ -1,0 +1,81 @@
+{
+  "id": "vb-sanctuary-grand-roof",
+  "revision": 5,
+  "roofTiers": 5,
+  "results": {
+    "high": {
+      "bytes": 34708212,
+      "sha256": "d3eeca0192909936035c06d613ce8b106333f4263b36b5e35af5462533c4071d",
+      "triangles": 733180,
+      "primitives": 11,
+      "materials": 11,
+      "dimensions": [
+        694.9370727539062,
+        154.5999984741211,
+        494.9371032714844
+      ],
+      "min": [
+        -347.4685363769531,
+        37.099998474121094,
+        -247.4685516357422
+      ],
+      "max": [
+        347.4685363769531,
+        191.6999969482422,
+        247.4685516357422
+      ],
+      "nodes": [
+        "vb-sanctuary-grand-roof__Antique gilded bronze",
+        "vb-sanctuary-grand-roof__Glazed roof tile 0",
+        "vb-sanctuary-grand-roof__Glazed roof tile 1",
+        "vb-sanctuary-grand-roof__Glazed roof tile 2",
+        "vb-sanctuary-grand-roof__Glazed roof tile 3",
+        "vb-sanctuary-grand-roof__Gold leaf",
+        "vb-sanctuary-grand-roof__Lacquer - imperial oxblood",
+        "vb-sanctuary-grand-roof__Lim wood - deep umber",
+        "vb-sanctuary-grand-roof__Ridge tile - deep orange glaze",
+        "vb-sanctuary-grand-roof__Roof underside - smoked timber",
+        "vb-sanctuary-grand-roof__Round cover tile - orange glaze",
+        "vb-sanctuary-grand-roof"
+      ]
+    },
+    "low": {
+      "bytes": 14386216,
+      "sha256": "df60cd7195802607b8eb33d4a38846d73a49d8663e0c21cad4cb09e5cff10e61",
+      "triangles": 210493,
+      "primitives": 11,
+      "materials": 11,
+      "dimensions": [
+        694.9370727539062,
+        154.5999984741211,
+        494.9371032714844
+      ],
+      "min": [
+        -347.4685363769531,
+        37.099998474121094,
+        -247.4685516357422
+      ],
+      "max": [
+        347.4685363769531,
+        191.6999969482422,
+        247.4685516357422
+      ],
+      "nodes": [
+        "vb-sanctuary-grand-roof__Antique gilded bronze",
+        "vb-sanctuary-grand-roof__Glazed roof tile 0",
+        "vb-sanctuary-grand-roof__Glazed roof tile 1",
+        "vb-sanctuary-grand-roof__Glazed roof tile 2",
+        "vb-sanctuary-grand-roof__Glazed roof tile 3",
+        "vb-sanctuary-grand-roof__Gold leaf",
+        "vb-sanctuary-grand-roof__Lacquer - imperial oxblood",
+        "vb-sanctuary-grand-roof__Lim wood - deep umber",
+        "vb-sanctuary-grand-roof__Ridge tile - deep orange glaze",
+        "vb-sanctuary-grand-roof__Roof underside - smoked timber",
+        "vb-sanctuary-grand-roof__Round cover tile - orange glaze",
+        "vb-sanctuary-grand-roof"
+      ]
+    }
+  },
+  "tileLayout": "large yin-yang, 4.8m cover ribs, 2m texture pans, reduced sheen",
+  "preserveLowRoofSheets": true
+}

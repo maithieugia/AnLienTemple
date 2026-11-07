@@ -1,0 +1,25 @@
+{
+  "id": "02",
+  "name": "Khổng Tước Minh Vương",
+  "role": "court",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.649794193755957,
+  "depth": 0.5977996604568011,
+  "sourceTriangles": 499994,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 3000
+  },
+  "sourceSha256": "9d9c800584e5d12b5e3e61430902ef1783ebd68e21f71f50163c9d2b9e22f471",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "b25e7477cf6e0c197574090e5d3ddcee03757006aa6427d9f28fa981cac744ce",
+    "low": "f404f221f1a91a839f2438d6542d8e5260e72a6723cdb15a6d7f052151560a7a",
+    "far": "ba4da98a3fc44ca7f3c6283c864ea34d7c0e37349b19f2e5d5709746ca324a73"
+  },
+  "sourceArchive": "Khổng Tước Minh Vương.zip"
+}

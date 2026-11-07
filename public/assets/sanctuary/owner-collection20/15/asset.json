@@ -1,0 +1,25 @@
+{
+  "id": "15",
+  "name": "Kim Cang Thủ Bồ Tát",
+  "role": "hall",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.6408410613692354,
+  "depth": 0.6398912269139638,
+  "sourceTriangles": 499998,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 2996
+  },
+  "sourceSha256": "aa8f5bc8be4a8d78a4b2cfdd62ce505d007a63b85b46225c6b184d045a715930",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "d28438de7b6d623d175869e12ab3e36cfd147151318c49e34a0ac979ccb9e3ad",
+    "low": "8ae03ee2854f66a87c41fb267dfa14304e5ea12870775dc8e39fa2aaca3683b0",
+    "far": "9a0327e41b194d5edd6f25e0c6fce28cb37b5ab7e3099d3f4bbe33ca6c87a619"
+  },
+  "sourceArchive": "Kim Cang Thủ Bồ Tát.zip"
+}

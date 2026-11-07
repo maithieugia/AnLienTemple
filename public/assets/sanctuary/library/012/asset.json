@@ -1,0 +1,24 @@
+{
+ "id": "012",
+ "title": "Sarnath Buddha",
+ "author": "artfletch",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-539350435cbb4ada9bae412f5b8858b0",
+ "normalizedHeight": 1,
+ "width": 0.5037,
+ "depth": 0.4069,
+ "frontYawDeg": 0,
+ "sourceTriangles": 552114,
+ "triangles": {
+  "high": 59999,
+  "low": 15000,
+  "far": 9465
+ },
+ "sourceSha256": "8b905ca0d2d9cf217cdb0cd9f623f71f075a0072657bf7f162ece9697e37a364",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "045ac1b9e18f809a8ab96dbdfdb7f4d3ec3734fe37a661dd782b7a54860c6c08",
+  "low": "2336c9ef950bb12eb915235b8e8ab3bb574ffdd103a223e927a688dfc43dbe6d",
+  "far": "8d9ffc59c278aafb9f764d0088f742575e61ec33c48841aeca32621884003579"
+ }
+}

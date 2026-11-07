@@ -1,0 +1,12 @@
+{
+  "url": "http://127.0.0.1:5200/?q=low&online=1",
+  "health": true,
+  "revision": "2026-11-02-local-performance-1",
+  "main": "assets/main-T_QYtumf.js",
+  "lowClouds": true,
+  "source": 200,
+  "svgType": [
+    "image/svg+xml"
+  ],
+  "desktopLauncher": true
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Chùa Online An Liên</string>
+    <string name="title_activity_main">Chùa Online An Liên</string>
+    <string name="package_name">vn.io.palo.chuaanlien</string>
+    <string name="custom_url_scheme">vn.io.palo.chuaanlien</string>
+</resources>

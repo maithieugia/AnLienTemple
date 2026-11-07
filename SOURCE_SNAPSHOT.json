@@ -1,0 +1,42 @@
+[
+  {
+    "source": "apps\\client\\src\\game\\world\\Sanctuary.ts",
+    "sha256": "0e080a8cf07255d9b6c93b4f25794644e62273a90c412a23109a2d28e62ddfaa"
+  },
+  {
+    "source": "apps\\client\\src\\game\\world\\SanctuaryPlan.ts",
+    "sha256": "2e48127a5607af6a7f4a1ef38afffbcf6e47418f19c42c9c60a8b1cb91482dc3"
+  },
+  {
+    "source": "apps\\client\\src\\game\\world\\SanctuaryGeometry.ts",
+    "sha256": "88f08e52345e6d108ccd699bd765cde6e80eb55204a86edf1614599c284aa21f"
+  },
+  {
+    "source": "apps\\client\\src\\game\\world\\SanctuaryLandscape.ts",
+    "sha256": "18b22079a3a0cf3b7ff17dbe43333457b17a346788289afe1acc9f71fe089fd2"
+  },
+  {
+    "source": "apps\\client\\src\\game\\world\\SanctuaryArchitecture.ts",
+    "sha256": "e4ee08179b65b359dd6f2d1dd59552b9cfd8985b3618c32af17706576ffb7adb"
+  },
+  {
+    "source": "apps\\client\\src\\game\\world\\BronzeAltar.ts",
+    "sha256": "3364963bbba2a77bed188db16f610e44a3f4f1ab044d6ace90198c5e023bcb83"
+  },
+  {
+    "source": "apps\\client\\src\\game\\world\\IncenseSmoke.ts",
+    "sha256": "2595cc22c8733958dcdbe850ecc720469efe26b390ee245f4e3b7b005044b332"
+  },
+  {
+    "source": "apps\\client\\src\\game\\world\\Obstacles.ts",
+    "sha256": "3e11fc7de3d6979c8e7c0e866e6e8a5723a2ba343c4d8c6ac8ee20fc60a9217b"
+  },
+  {
+    "source": "apps\\client\\src\\game\\world\\Interiors.ts",
+    "sha256": "a7e384f27d9ca1a1851353f3dedd7e5ec4e6934db4345a8fa5207b361fe11b31"
+  },
+  {
+    "source": "apps\\client\\src\\game\\world\\BuildingAtlas.ts",
+    "sha256": "6698d09a059b723b9260e0c7c7c813d34598a35e458d938f9fd943b350d1afed"
+  }
+]

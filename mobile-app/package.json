@@ -1,0 +1,16 @@
+{
+  "name": "chua-online-an-lien-app",
+  "private": true,
+  "description": "Android app shell for Chùa Online An Liên: opens https://dichua.palo.io.vn/ (the game itself is never bundled, so game updates need no new APK).",
+  "scripts": {
+    "sync": "cap sync android",
+    "apk": "cd android && gradlew.bat assembleRelease"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.0",
+    "@capacitor/core": "^8.6.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.0"
+  }
+}

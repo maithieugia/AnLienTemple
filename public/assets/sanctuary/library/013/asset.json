@@ -1,0 +1,24 @@
+{
+ "id": "013",
+ "title": "Sukhothai Buddha's Head",
+ "author": "Kidyang Architecture And Research",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-675c61d9f8d748dda591bf57b7020c95",
+ "normalizedHeight": 1,
+ "width": 0.6776,
+ "depth": 0.6926,
+ "frontYawDeg": 0,
+ "sourceTriangles": 545973,
+ "triangles": {
+  "high": 59999,
+  "low": 14999,
+  "far": 3000
+ },
+ "sourceSha256": "f49a68f1eea0bd3b9e7b49531460afae253bfab3e3fee56103fc655cf1db919e",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "7fe1bf0b5a938a70a0811152fb3e98c8a8039eaa88ffc35a3f2160501185bdf9",
+  "low": "32f7fba9030338693d0ad138e57ead214e664209e8c6d5d9513a6587b204adda",
+  "far": "96ff0ed7eacd41c645d47bb7a22f8d10b562d08bcee12adca7cae52da4345e12"
+ }
+}

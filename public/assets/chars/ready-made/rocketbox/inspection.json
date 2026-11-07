@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Male_Adult_08",
+    "bones": 80,
+    "vertices": 3907,
+    "triangles": 7364,
+    "clips": [
+      "Idle",
+      "Walk",
+      "Run",
+      "PilgrimWalk",
+      "PilgrimRun",
+      "Push"
+    ],
+    "source": "Microsoft Rocketbox",
+    "license": "MIT"
+  },
+  {
+    "name": "Female_Adult_17",
+    "bones": 80,
+    "vertices": 4450,
+    "triangles": 8516,
+    "clips": [
+      "Idle",
+      "Walk",
+      "Run",
+      "PilgrimWalk",
+      "PilgrimRun",
+      "Push"
+    ],
+    "source": "Microsoft Rocketbox",
+    "license": "MIT"
+  }
+]

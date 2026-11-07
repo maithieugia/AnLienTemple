@@ -1,0 +1,25 @@
+{
+  "id": "11",
+  "name": "Phổ Hiền Bồ Tát",
+  "role": "hall",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.5523473726305848,
+  "depth": 0.5558836245909585,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 2998
+  },
+  "sourceSha256": "aad719d5e61cb7c2d8b68775eb0be55347c3f691e0fda40f3bfb2dfb607e67b9",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "45b48e95d524334d46cb5a5af9b5d9e1515af1ca5dad57b2e9b397b96ca0c257",
+    "low": "37533a183a9ab5c3a87c5bc3dc419cb05cb6323d48d6c283d21f78c051d71e1f",
+    "far": "3c293c90cab1ad0a1bfb0ef32e6f715bc581f13f918e9483de3f0957496966b6"
+  },
+  "sourceArchive": "Phổ Hiền Bồ Tát.zip"
+}

@@ -1,0 +1,12 @@
+{
+  "downloaded": "2026-11-02",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "license": "CC BY 4.0",
+  "originalSha256": "97b17f5d2a53a459b8cc6786a5a8ec474cd3538fb036834d5047fd04a68e0922",
+  "body": "Microsoft Rocketbox Female_Adult_17 / MIT",
+  "runtimeSha256": "d5dbb915d4da5123cca669fc5c6d3d7330e12ca69393c9fdb8f5757ee1cd88bf",
+  "changes": "Fitted garment to native female bind pose; transferred skin weights; removed covered original clothes/body faces. Preview only. Revision2: source seams welded, 1.5mm inner shell, sleeves aligned to native shoulder/elbow/wrist and weighted by arm chain, original arm skin retained inside. Sleeve clearances and covered forearm radius adjusted; full hand preserved. Trouser hems extended, continuous outer flaps no longer weighted to separate calves or feet. Extra UV channel tags continuous outer flaps for preview-only live post-skin leg capsule clearance in AoDaiCloth.ts. Revision3: visible neck shortened by up to30mm with a smooth transition; lateral neck/shoulder skin tucked inside the collar. Original skeleton and clips retained. Revision4: neck/head/hair shifted25mm toward the front collar (-Y Blender), blended at the neck base; previous30mm lowering retained. Revision5: another10mm forward (35mm total), rear upper collar rim levelled and given8mm clearance before fitting. Rear upper rim uses one torso joint to prevent uneven skinning along its edge.",
+  "author": "ghostnoface",
+  "source": "https://sketchfab.com/3d-models/marvelous-to-substance-test-2-aodai-88015bd2f553451b8a6e4fb694b1ee14",
+  "motion": "Quaternius UAL / CC0, retargeted"
+}

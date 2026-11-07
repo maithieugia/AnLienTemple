@@ -1,0 +1,41 @@
+{
+  "source": "ghostnoface / CC BY4.0",
+  "garmentVertices": 4360,
+  "removedCoveredFaces": 1609,
+  "bones": 80,
+  "sleeveVertices": 235,
+  "cuffs": {
+    "L": {
+      "sourceCenter": [
+        0.5061049461364746,
+        0.030436554923653603,
+        1.1459051370620728
+      ],
+      "targetCenter": [
+        0.5340550541877747,
+        -0.03605596721172333,
+        1.0544929504394531
+      ]
+    },
+    "R": {
+      "sourceCenter": [
+        -0.5054524540901184,
+        0.02785264514386654,
+        1.1489057540893555
+      ],
+      "targetCenter": [
+        -0.5340530872344971,
+        -0.0360570028424263,
+        1.0544930696487427
+      ]
+    }
+  },
+  "actions": [
+    "Idle",
+    "PilgrimRun",
+    "PilgrimWalk",
+    "Push",
+    "Run",
+    "Walk"
+  ]
+}

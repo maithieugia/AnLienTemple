@@ -1,0 +1,24 @@
+{
+ "id": "056",
+ "title": "Laughing Buddha",
+ "author": "UJJWAL CHAUHAN",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-646f46ae29084d8696afc4efa5c81c39",
+ "normalizedHeight": 1,
+ "width": 0.9083,
+ "depth": 0.7848,
+ "frontYawDeg": -90,
+ "sourceTriangles": 313690,
+ "triangles": {
+  "high": 60000,
+  "low": 14999,
+  "far": 3520
+ },
+ "sourceSha256": "7a891b62da681821cbec308e545309b52a8bd983d35e077eab4d6370e2575432",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "e040e96f9915a0cfc3e4779a58ff8bcce2b0d5c26feb9ab4b54305694e75ac08",
+  "low": "9f5c7f3f58d946f8dd4a0cf46a5fc0cbb716101d60ac0bf3b75aa2ca26e59ac1",
+  "far": "a413de3fe836bf9cadb0bd1aedd4b137a91f105cdf3d625cf016184ca949efb6"
+ }
+}

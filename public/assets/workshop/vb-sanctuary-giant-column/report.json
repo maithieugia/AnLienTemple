@@ -1,0 +1,69 @@
+{
+  "id": "vb-sanctuary-giant-column",
+  "revision": 4,
+  "roofTiers": null,
+  "results": {
+    "high": {
+      "bytes": 2959208,
+      "sha256": "6ba15984558126e66478f81f49daf2487d3e7834bfae641a4adfd75b5d2c3751",
+      "triangles": 14404,
+      "primitives": 6,
+      "materials": 6,
+      "dimensions": [
+        10.651456832885742,
+        102.37000274658203,
+        10.651456832885742
+      ],
+      "min": [
+        -5.325728416442871,
+        0.0,
+        -5.325728416442871
+      ],
+      "max": [
+        5.325728416442871,
+        102.37000274658203,
+        5.325728416442871
+      ],
+      "nodes": [
+        "vb-sanctuary-giant-column__Antique gilded bronze",
+        "vb-sanctuary-giant-column__Carved stone - pale",
+        "vb-sanctuary-giant-column__Gold leaf",
+        "vb-sanctuary-giant-column__Granite - warm grey",
+        "vb-sanctuary-giant-column__Lacquer - imperial oxblood",
+        "vb-sanctuary-giant-column__Lim wood - deep umber",
+        "vb-sanctuary-giant-column"
+      ]
+    },
+    "low": {
+      "bytes": 2643508,
+      "sha256": "421ec380c7f14d25555280b27f29a807c808771bb7eb330e6f93a0005d9cce13",
+      "triangles": 5038,
+      "primitives": 6,
+      "materials": 6,
+      "dimensions": [
+        10.629260063171387,
+        102.37000274658203,
+        10.629260063171387
+      ],
+      "min": [
+        -5.314630031585693,
+        0.0,
+        -5.314630031585693
+      ],
+      "max": [
+        5.314630031585693,
+        102.37000274658203,
+        5.314630031585693
+      ],
+      "nodes": [
+        "vb-sanctuary-giant-column__Antique gilded bronze",
+        "vb-sanctuary-giant-column__Carved stone - pale",
+        "vb-sanctuary-giant-column__Gold leaf",
+        "vb-sanctuary-giant-column__Granite - warm grey",
+        "vb-sanctuary-giant-column__Lacquer - imperial oxblood",
+        "vb-sanctuary-giant-column__Lim wood - deep umber",
+        "vb-sanctuary-giant-column"
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "13",
+  "name": "Địa Tạng Vương Bồ Tát",
+  "role": "hall",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.4245202246930172,
+  "depth": 0.45114689936561175,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 3000
+  },
+  "sourceSha256": "203e4c6eb1df97d0015e0cbf947bb9f4cdf957ff238ee94d8e46170b8978b500",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "7c5783a9704f94b24519632b998f07f5f0ba8add3c00c286f5beb86ea0fdec0b",
+    "low": "7e4b323a5e21e372d5a0526ec8d7410f14ccd6287d82d7076b75b3230db9d0e1",
+    "far": "d4754ab48083a7ad580ba041025b4f244a65f46091be1a4c870d7de02606b584"
+  },
+  "sourceArchive": "Địa Tạng Vương Bồ Tát.zip"
+}

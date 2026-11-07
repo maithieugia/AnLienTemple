@@ -1,0 +1,44 @@
+{
+  "source": "https://polyhaven.com/a/tree_small_02",
+  "author": "Rico Cilliers",
+  "license": "CC0",
+  "originalHeightMetres": 4.556740965694189,
+  "normalizedHeight": 1,
+  "lods": {
+    "high": {
+      "triangles": 216561,
+      "bytes": 41700116,
+      "sha256": "f5dd7564173a651e3c13f00847782b3d1f613acf6db28a3b82658cf07e4876fd"
+    },
+    "low": {
+      "triangles": 51562,
+      "bytes": 6986676,
+      "sha256": "819896e7e6269e2adcc41e98ea6f9a51284642cd55d9e2ce833bae038cf12c0f"
+    },
+    "far": {
+      "bytes": 1793592,
+      "sha256": "48a75dba66858dd2a8092d9137b88fffd6743a22a9c489824e34acbe3ea0e86d",
+      "triangles": 10312,
+      "primitives": 3,
+      "materials": 3,
+      "dimensions": [
+        0.6308929324150085,
+        0.9977300104801543,
+        0.9024932384490967
+      ],
+      "min": [
+        -0.31674376130104065,
+        -0.0004746851627714932,
+        -0.46164628863334656
+      ],
+      "max": [
+        0.3141491711139679,
+        0.9972553253173828,
+        0.4408469498157501
+      ],
+      "nodes": [
+        "tree_small_02_LOD0"
+      ]
+    }
+  }
+}

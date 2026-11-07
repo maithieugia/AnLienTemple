@@ -1,0 +1,25 @@
+{
+  "id": "12",
+  "name": "Di Lặc Bồ Tát",
+  "role": "hall",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.8211472666707343,
+  "depth": 0.7852622797526276,
+  "sourceTriangles": 499996,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 2998
+  },
+  "sourceSha256": "1ba10cbf80f75611a6541121c76e708b002ead42bbb9d289236dfab3b900c724",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "14a28f9af473d6e55a25274c321ee8c3c34da1f79a1378c1cfd5ae5da3548f6b",
+    "low": "0e8d96b3b70ad108d1cd14884854a9b96223758d5b3aaaf6b6a8c7f8105862c6",
+    "far": "a4a19cc16268874628db4030c232b97f68c2747b425d5f0a636146be813e5cda"
+  },
+  "sourceArchive": "Di Lặc Bồ Tát.zip"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "03",
+  "name": "Đại Phạm Thiên Vương",
+  "role": "court",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.623983869590154,
+  "depth": 0.6737200942700623,
+  "sourceTriangles": 499996,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 2998
+  },
+  "sourceSha256": "6178e684dd42dc6497124af7307145b45240154bf0748b7e6082a8e6a7b9e590",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "e0958e88fd7115994a8bd941a707dab486110ce1886be2f3ff99a4265a3bd821",
+    "low": "5c548f0e6575a39917db29ae11bdc1c0ec7bc2f5c2c0a3333824dd34b5e4dad3",
+    "far": "44ab11de804e5463c47fa289ff717751cf20c97994d4d4067f24b9b534a24092"
+  },
+  "sourceArchive": "Đại Phạm Thiên Vương.zip"
+}

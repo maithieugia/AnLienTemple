@@ -1,0 +1,24 @@
+{
+ "id": "05",
+ "title": "Guanyin",
+ "author": "Diana Liu",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/guanyin-4b0410c196c6475ba85d527966ea00b6",
+ "normalizedHeight": 1,
+ "width": 0.2826,
+ "depth": 0.232,
+ "frontYawDeg": 0,
+ "sourceTriangles": 499913,
+ "triangles": {
+  "high": 59999,
+  "low": 14999,
+  "far": 2999
+ },
+ "sourceSha256": "03dc1133905b154e61531c2832cb92b756539803a0ebdf97e498ae16aea6c755",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "22dd18f5017809f172c380544dbc2d14a7e3dbb9a0ac951c59279b74022f2de7",
+  "low": "8af992fa2b0ddc61bb0609ff4e326ef7caf874a0b01b2eca5a97b25b78fb1478",
+  "far": "9413aeee9a3057f173936832ff767992c57a5b71c1ac6150d367b8fb93b9e23a"
+ }
+}

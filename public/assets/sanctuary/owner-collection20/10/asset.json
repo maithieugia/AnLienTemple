@@ -1,0 +1,25 @@
+{
+  "id": "10",
+  "name": "Văn Thù Sư Lợi Bồ Tát",
+  "role": "hall",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.5679877119581113,
+  "depth": 0.5174618485132024,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 3000
+  },
+  "sourceSha256": "475e4cd46195038099bab8f6badc567bc207f93067b0b97906aedf7ad4a690b5",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "1e9106c98b07f2d5893fb9145060e506d4e45aa451df85a91f972e40cef2c889",
+    "low": "d42857e341f0ce24a3366f5cc4096b014d0ec372413db7e25ec29ac4cd9711ae",
+    "far": "b31e2f611af3e95a16769dc01906afd63170166737aedec53f46ce52d37e9b7d"
+  },
+  "sourceArchive": "Văn Thù Sư Lợi Bồ Tát.zip"
+}

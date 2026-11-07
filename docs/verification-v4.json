@@ -1,0 +1,38 @@
+{
+  "version": "0.4.0",
+  "height": 100,
+  "diameter": 50,
+  "bodyBottom": 0.08,
+  "plinth": "sealed from ground",
+  "ponds": 0,
+  "sites": [
+    [
+      -195,
+      388
+    ],
+    [
+      195,
+      388
+    ]
+  ],
+  "gold": "#FFD700",
+  "tests": 13,
+  "verified": [
+    "dry level former pond ground",
+    "large perimeter collision simulation",
+    "WebGL: no ponds, wide gold bodies, closed plinth",
+    "push still awards turns",
+    "existing merit preserved",
+    "close view: no exposed axle or gap beneath body"
+  ],
+  "unverified": [
+    "real touch device",
+    "controlled GPU benchmark",
+    "all approach angles"
+  ],
+  "screenshots": [
+    "v4-two-wide-gold-wheels.png",
+    "v4-flush-gold-base.png",
+    "v4-gold-interaction.png"
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "path": "sw.js",
+    "status": 200,
+    "sha256": "ab0a8060a2bf8ec1f5685a69b733bd17761ea8ecef43503ac36c421b8522552b"
+  },
+  {
+    "path": "asset-manifest.json",
+    "status": 200,
+    "sha256": "dc25c5333b03ed65c4b587325b23d3e6e1d4d8e34c93aa58a491c1535dc84447"
+  }
+]

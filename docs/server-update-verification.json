@@ -1,0 +1,11 @@
+{
+  "revision": "2026-11-01-live-legs-1",
+  "mainBundle": "./assets/main-DmfwRn88.js",
+  "sha256": "fe8fc5efb3cf8b5e135b9791466941d3a8ceb491e87b401183443af44c610bbf",
+  "cdnBundleMatches": true,
+  "health": {
+    "ok": true,
+    "online": 0
+  },
+  "anonymousMeStatus": 401
+}

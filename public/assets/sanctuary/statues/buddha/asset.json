@@ -1,0 +1,37 @@
+{
+  "id": "buddha",
+  "normalizedHeight": 1,
+  "width": 0.5464324038903746,
+  "depth": 0.4286821441346301,
+  "originalTriangles": 64000,
+  "sourceDimensions": [
+    0.12237739562988281,
+    0.09600639343261719,
+    0.22395706176757812
+  ],
+  "sourceTextureSizes": {
+    "Image_0": [
+      1024,
+      1024
+    ],
+    "Image_1": [
+      1024,
+      1024
+    ],
+    "Image_2": [
+      1024,
+      1024
+    ]
+  },
+  "originalSha256": "a042e8dc3448d3e876c0511c0823a4aa89063e3ba4e7b6cdfbc5cd0d59fd8c8c",
+  "runtime": {
+    "high.glb": {
+      "bytes": 3885824,
+      "sha256": "d7810bf491480159f3985bac26adab732c1059891f646685c8ca6485c62ca929"
+    },
+    "low.glb": {
+      "bytes": 3356604,
+      "sha256": "e786446806f5ac6f01dab1de7c0fa59fb0255a897e8ff1b8a2e47616c0c4fa6e"
+    }
+  }
+}

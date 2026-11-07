@@ -1,0 +1,25 @@
+{
+  "id": "04",
+  "name": "Đế Thích Thiên",
+  "role": "court",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.6573778614880428,
+  "depth": 0.6815326083440388,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 2994
+  },
+  "sourceSha256": "88b721c77d69858c472b437f5ba7325abdec36b7010971afa7027136cf6266a3",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "ec68ddfe994a843ca7e659f2bce416a49933c8fd8e907c74f0e93ab08354ec70",
+    "low": "f377bd3b5c96aef544ccf3aeebdbf500e421565773359c29f3cfd7bb582a8931",
+    "far": "d294d1b6eaa1b402c728483268f1942adbb9ae794fed709be4f1db525a9c695b"
+  },
+  "sourceArchive": "Đế Thích Thiên.zip"
+}

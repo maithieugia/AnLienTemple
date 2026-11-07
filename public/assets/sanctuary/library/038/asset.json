@@ -1,0 +1,24 @@
+{
+ "id": "038",
+ "title": "Awaji Kannon",
+ "author": "vladinaumann26",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-d856fb92faa0448b82a8ae9d8b11d276",
+ "normalizedHeight": 1,
+ "width": 0.3126,
+ "depth": 0.2783,
+ "frontYawDeg": -90,
+ "sourceTriangles": 440753,
+ "triangles": {
+  "high": 59999,
+  "low": 14999,
+  "far": 7037
+ },
+ "sourceSha256": "a19fc5f143bbac94cc025bc9750d215e63530deee33f04a52ef0365c42757d91",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "e1c8d56a06cef9585fbf73284826447d3fdbbc08ec50052d1d1dd6463954e64c",
+  "low": "9b0dc2a4c5036e60594974212b068216e74063b45a1a4c964daaa7687c2e40d1",
+  "far": "fc5d10fded9df70ace73d09b740c06688b16d7a7c1a86ba12eb5715dddeec9a5"
+ }
+}

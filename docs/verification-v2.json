@@ -1,0 +1,38 @@
+{
+  "revision": "0.2.0",
+  "heights": [
+    50,
+    50
+  ],
+  "roofTiers": 5,
+  "hallFootprint": [
+    600,
+    400
+  ],
+  "tests": 4,
+  "status": "build, 4 tests, 13 HTTP GLB hashes and WebGL checked",
+  "runtimeAssets": {
+    "assets/garden/tree-small-02/far.glb": "48a75dba66858dd2a8092d9137b88fffd6743a22a9c489824e34acbe3ea0e86d",
+    "assets/garden/tree-small-02/high.glb": "f5dd7564173a651e3c13f00847782b3d1f613acf6db28a3b82658cf07e4876fd",
+    "assets/garden/tree-small-02/low.glb": "819896e7e6269e2adcc41e98ea6f9a51284642cd55d9e2ce833bae038cf12c0f",
+    "assets/sanctuary/statues/buddha/high.glb": "d7810bf491480159f3985bac26adab732c1059891f646685c8ca6485c62ca929",
+    "assets/sanctuary/statues/buddha/low.glb": "e786446806f5ac6f01dab1de7c0fa59fb0255a897e8ff1b8a2e47616c0c4fa6e",
+    "assets/sanctuary/statues/guanyin/high.glb": "e74bb5fcd85c9da26a10e9e65d69848ee58b856ee030cfcc30d50c1d2a6fde49",
+    "assets/sanctuary/statues/guanyin/low.glb": "c25fb5701241256205e39cd9ac585e24c9642e2260db8f72570d93703afdce2a",
+    "assets/sanctuary/statues/shakyamuni/high.glb": "1847b18601b209ef359da6ecdc4c646e53846eb9997371a6ea12f4cca0a34908",
+    "assets/sanctuary/statues/shakyamuni/low.glb": "1a6a3e04304c272ebe02b611988991d7b61ce31fdf62636d0c5ec3d45c45f026",
+    "assets/workshop/vb-sanctuary-giant-column/high.glb": "6ba15984558126e66478f81f49daf2487d3e7834bfae641a4adfd75b5d2c3751",
+    "assets/workshop/vb-sanctuary-giant-column/low.glb": "421ec380c7f14d25555280b27f29a807c808771bb7eb330e6f93a0005d9cce13",
+    "assets/workshop/vb-sanctuary-grand-roof/high.glb": "ee81dcb10b744b0f0da296d1e843009023be0de8362b091baa8d7978b453d5fc",
+    "assets/workshop/vb-sanctuary-grand-roof/low.glb": "e482a493aa1cfac05eaa6e06c1d80ad34026210b276cc7756e8cc7162711eff7"
+  },
+  "visual": [
+    "front sign reads CH\u00d9A AN LI\u00caN normally",
+    "near floor shows repeating encaustic pattern",
+    "PBR garden tree rendered with detail",
+    "automatic walking route reached upper floor at51.65m",
+    "back sign reads CH\u00d9A AN LI\u00caN normally and is not hidden by the timber backing"
+  ],
+  "performance": "Observed4\u201317FPS during High review before farLOD; no controlled GPU benchmark. FarLOD and two-cascade settings subsequently enabled.",
+  "performanceAfterLOD": "Low sign view observed32\u201333FPS; High stair view10FPS before reload. These are observations, not a controlled benchmark."
+}

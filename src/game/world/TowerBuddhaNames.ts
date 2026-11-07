@@ -1,0 +1,1155 @@
+// Canonical names, shared devotional artwork; source ordinals are preserved for review.
+export const TOWER_BUDDHA_NAMES=[
+  {
+    "name": "Phạm Đức Phật",
+    "sourceOrdinal": 101
+  },
+  {
+    "name": "Bảo Tích Phật",
+    "sourceOrdinal": 102
+  },
+  {
+    "name": "Hoa Thiên Phật",
+    "sourceOrdinal": 103
+  },
+  {
+    "name": "Thiện Tư Nghị Phật",
+    "sourceOrdinal": 104
+  },
+  {
+    "name": "Pháp Tự Tại Phật",
+    "sourceOrdinal": 105
+  },
+  {
+    "name": "Danh Văn Ý Phật",
+    "sourceOrdinal": 106
+  },
+  {
+    "name": "Nhạo Thuyết Tụ Phật",
+    "sourceOrdinal": 107
+  },
+  {
+    "name": "Kim Cang Tướng Phật",
+    "sourceOrdinal": 108
+  },
+  {
+    "name": "Cầu Lợi Ích Phật",
+    "sourceOrdinal": 109
+  },
+  {
+    "name": "Du Hí Thần Thông Phật",
+    "sourceOrdinal": 110
+  },
+  {
+    "name": "Ly Ám Phật",
+    "sourceOrdinal": 111
+  },
+  {
+    "name": "Danh Thiên Phật",
+    "sourceOrdinal": 112
+  },
+  {
+    "name": "Di-lâu Tướng Phật",
+    "sourceOrdinal": 113
+  },
+  {
+    "name": "Chúng Minh Phật",
+    "sourceOrdinal": 114
+  },
+  {
+    "name": "Bảo Tạng Phật",
+    "sourceOrdinal": 115
+  },
+  {
+    "name": "Cực Cao Hạnh Phật",
+    "sourceOrdinal": 116
+  },
+  {
+    "name": "Kim Cang Thuẫn Phật",
+    "sourceOrdinal": 117
+  },
+  {
+    "name": "Châu Giác Phật",
+    "sourceOrdinal": 118
+  },
+  {
+    "name": "Đức Tán Phật",
+    "sourceOrdinal": 119
+  },
+  {
+    "name": "Nhật Nguyệt Minh Phật",
+    "sourceOrdinal": 120
+  },
+  {
+    "name": "Nhật Minh Phật",
+    "sourceOrdinal": 121
+  },
+  {
+    "name": "Tinh Tú Phật",
+    "sourceOrdinal": 122
+  },
+  {
+    "name": "Thanh Tịnh Nghĩa Phật",
+    "sourceOrdinal": 123
+  },
+  {
+    "name": "Vi Lam Vương Phật",
+    "sourceOrdinal": 124
+  },
+  {
+    "name": "Phước Tạng Phật",
+    "sourceOrdinal": 125
+  },
+  {
+    "name": "Kiến Hữu Biên Phật",
+    "sourceOrdinal": 126
+  },
+  {
+    "name": "Điện Minh Phật",
+    "sourceOrdinal": 127
+  },
+  {
+    "name": "Kim Sơn Phật",
+    "sourceOrdinal": 128
+  },
+  {
+    "name": "Sư Tử Đức Phật",
+    "sourceOrdinal": 129
+  },
+  {
+    "name": "Thắng Tướng Phật",
+    "sourceOrdinal": 130
+  },
+  {
+    "name": "Minh Tán Phật",
+    "sourceOrdinal": 131
+  },
+  {
+    "name": "Kiên Tinh Tấn Phật",
+    "sourceOrdinal": 132
+  },
+  {
+    "name": "Cụ Túc Tán Phật",
+    "sourceOrdinal": 133
+  },
+  {
+    "name": "Ly Úy Sư Phật",
+    "sourceOrdinal": 134
+  },
+  {
+    "name": "Ứng Thiên Phật",
+    "sourceOrdinal": 135
+  },
+  {
+    "name": "Đại Đăng Phật",
+    "sourceOrdinal": 136
+  },
+  {
+    "name": "Thế Minh Phật",
+    "sourceOrdinal": 137
+  },
+  {
+    "name": "Diệu Âm Phật",
+    "sourceOrdinal": 138
+  },
+  {
+    "name": "Trì Thượng Công Đức Phật",
+    "sourceOrdinal": 139
+  },
+  {
+    "name": "Cám Thân Phật",
+    "sourceOrdinal": 140
+  },
+  {
+    "name": "Sư Tử Giáp Phật",
+    "sourceOrdinal": 141
+  },
+  {
+    "name": "Bảo Tán Phật",
+    "sourceOrdinal": 142
+  },
+  {
+    "name": "Chúng Vương Phật",
+    "sourceOrdinal": 143
+  },
+  {
+    "name": "Du Bộ Phật",
+    "sourceOrdinal": 144
+  },
+  {
+    "name": "An Ẩn Phật",
+    "sourceOrdinal": 145
+  },
+  {
+    "name": "Pháp Sai Biệt Phật",
+    "sourceOrdinal": 146
+  },
+  {
+    "name": "Thượng Tôn Phật",
+    "sourceOrdinal": 147
+  },
+  {
+    "name": "Cực Cao Đức Phật",
+    "sourceOrdinal": 148
+  },
+  {
+    "name": "Thượng Sư Tử Âm Phật",
+    "sourceOrdinal": 149
+  },
+  {
+    "name": "Nhạo Hí Phật",
+    "sourceOrdinal": 150
+  },
+  {
+    "name": "Long Minh Phật",
+    "sourceOrdinal": 151
+  },
+  {
+    "name": "Hoa Sơn Phật",
+    "sourceOrdinal": 152
+  },
+  {
+    "name": "Long Hỷ Phật",
+    "sourceOrdinal": 153
+  },
+  {
+    "name": "Hương Tự Tại Vương Phật",
+    "sourceOrdinal": 154
+  },
+  {
+    "name": "Bảo Diễm Sơn Phật",
+    "sourceOrdinal": 155
+  },
+  {
+    "name": "Thiên Lực Phật",
+    "sourceOrdinal": 156
+  },
+  {
+    "name": "Đức Man Phật",
+    "sourceOrdinal": 157
+  },
+  {
+    "name": "Long Thủ Phật",
+    "sourceOrdinal": 158
+  },
+  {
+    "name": "Nhân Trang Nghiêm Phật",
+    "sourceOrdinal": 159
+  },
+  {
+    "name": "Thiện Hạnh Ý Phật",
+    "sourceOrdinal": 160
+  },
+  {
+    "name": "Trí Thắng Phật",
+    "sourceOrdinal": 161
+  },
+  {
+    "name": "Vô Lượng Nhật Phật",
+    "sourceOrdinal": 162
+  },
+  {
+    "name": "Thật Ngữ Phật",
+    "sourceOrdinal": 163
+  },
+  {
+    "name": "Trì Cự Phật",
+    "sourceOrdinal": 164
+  },
+  {
+    "name": "Định Ý Phật",
+    "sourceOrdinal": 165
+  },
+  {
+    "name": "Vô Lượng Hình Phật",
+    "sourceOrdinal": 166
+  },
+  {
+    "name": "Minh Chiếu Phật",
+    "sourceOrdinal": 167
+  },
+  {
+    "name": "Tối Thắng Đăng Phật",
+    "sourceOrdinal": 168
+  },
+  {
+    "name": "Đoạn Nghi Phật",
+    "sourceOrdinal": 169
+  },
+  {
+    "name": "Trang Nghiêm Thân Phật",
+    "sourceOrdinal": 170
+  },
+  {
+    "name": "Bất Hư Bộ Phật",
+    "sourceOrdinal": 171
+  },
+  {
+    "name": "Giác Ngộ Phật",
+    "sourceOrdinal": 172
+  },
+  {
+    "name": "Hoa Tướng Phật",
+    "sourceOrdinal": 173
+  },
+  {
+    "name": "Sơn Chủ Vương Phật",
+    "sourceOrdinal": 174
+  },
+  {
+    "name": "Thiện Uy Nghi Phật",
+    "sourceOrdinal": 175
+  },
+  {
+    "name": "Biến Kiến Phật",
+    "sourceOrdinal": 176
+  },
+  {
+    "name": "Vô Lượng Danh Phật",
+    "sourceOrdinal": 177
+  },
+  {
+    "name": "Bảo Thiên Phật",
+    "sourceOrdinal": 178
+  },
+  {
+    "name": "Diệt Quá Phật",
+    "sourceOrdinal": 179
+  },
+  {
+    "name": "Trì Cam Lộ Phật",
+    "sourceOrdinal": 180
+  },
+  {
+    "name": "Nhân Nguyệt Phật",
+    "sourceOrdinal": 181
+  },
+  {
+    "name": "Hỷ Kiến Phật",
+    "sourceOrdinal": 182
+  },
+  {
+    "name": "Trang Nghiêm Phật",
+    "sourceOrdinal": 183
+  },
+  {
+    "name": "Châu Minh Phật",
+    "sourceOrdinal": 184
+  },
+  {
+    "name": "Sơn Đảnh Phật",
+    "sourceOrdinal": 185
+  },
+  {
+    "name": "Đáo Bỉ Ngạn Phật",
+    "sourceOrdinal": 186
+  },
+  {
+    "name": "Pháp Tích Phật",
+    "sourceOrdinal": 187
+  },
+  {
+    "name": "Định Nghĩa Phật",
+    "sourceOrdinal": 188
+  },
+  {
+    "name": "Thí Nguyện Phật",
+    "sourceOrdinal": 189
+  },
+  {
+    "name": "Bảo Tụ Phật",
+    "sourceOrdinal": 190
+  },
+  {
+    "name": "Trụ Nghĩa Phật",
+    "sourceOrdinal": 191
+  },
+  {
+    "name": "Mãn Ý Phật",
+    "sourceOrdinal": 192
+  },
+  {
+    "name": "Thượng Tán Phật",
+    "sourceOrdinal": 193
+  },
+  {
+    "name": "Từ Đức Phật",
+    "sourceOrdinal": 194
+  },
+  {
+    "name": "Vô Cấu Phật",
+    "sourceOrdinal": 195
+  },
+  {
+    "name": "Phạm Thiên Phật",
+    "sourceOrdinal": 196
+  },
+  {
+    "name": "Hoa Minh Phật",
+    "sourceOrdinal": 197
+  },
+  {
+    "name": "Thân Sai Biệt Phật",
+    "sourceOrdinal": 198
+  },
+  {
+    "name": "Pháp Minh Phật",
+    "sourceOrdinal": 199
+  },
+  {
+    "name": "Tận Kiến Phật",
+    "sourceOrdinal": 200
+  },
+  {
+    "name": "Đức Tịnh Phật",
+    "sourceOrdinal": 201
+  },
+  {
+    "name": "Nguyệt Diện Phật",
+    "sourceOrdinal": 202
+  },
+  {
+    "name": "Bảo Đăng Phật",
+    "sourceOrdinal": 203
+  },
+  {
+    "name": "Bảo Đang Phật",
+    "sourceOrdinal": 204
+  },
+  {
+    "name": "Thượng Danh Phật",
+    "sourceOrdinal": 205
+  },
+  {
+    "name": "Tác Danh Phật",
+    "sourceOrdinal": 206
+  },
+  {
+    "name": "Vô Lượng Âm Phật",
+    "sourceOrdinal": 207
+  },
+  {
+    "name": "Vi Lam Phật",
+    "sourceOrdinal": 208
+  },
+  {
+    "name": "Sư Tử Thân Phật",
+    "sourceOrdinal": 209
+  },
+  {
+    "name": "Minh Ý Phật",
+    "sourceOrdinal": 210
+  },
+  {
+    "name": "Vô Năng Thắng Phật",
+    "sourceOrdinal": 211
+  },
+  {
+    "name": "Công Đức Phẩm Phật",
+    "sourceOrdinal": 212
+  },
+  {
+    "name": "Hải Tuệ Phật",
+    "sourceOrdinal": 213
+  },
+  {
+    "name": "Đắc Thế Phật",
+    "sourceOrdinal": 214
+  },
+  {
+    "name": "Vô Biên Hạnh Phật",
+    "sourceOrdinal": 215
+  },
+  {
+    "name": "Khai Hoa Phật",
+    "sourceOrdinal": 216
+  },
+  {
+    "name": "Tịnh Cấu Phật",
+    "sourceOrdinal": 217
+  },
+  {
+    "name": "Kiến Nhất Thiết Nghĩa Phật",
+    "sourceOrdinal": 218
+  },
+  {
+    "name": "Dũng Lực Phật",
+    "sourceOrdinal": 219
+  },
+  {
+    "name": "Phú Túc Phật",
+    "sourceOrdinal": 220
+  },
+  {
+    "name": "Phước Đức Phật",
+    "sourceOrdinal": 221
+  },
+  {
+    "name": "Tùy Thời Phật",
+    "sourceOrdinal": 222
+  },
+  {
+    "name": "Khánh Âm Phật",
+    "sourceOrdinal": 223
+  },
+  {
+    "name": "Công Đức Kính Phật",
+    "sourceOrdinal": 224
+  },
+  {
+    "name": "Quảng Ý Phật",
+    "sourceOrdinal": 225
+  },
+  {
+    "name": "Thiện Tịch Diệt Phật",
+    "sourceOrdinal": 226
+  },
+  {
+    "name": "Tài Thiên Phật",
+    "sourceOrdinal": 227
+  },
+  {
+    "name": "Tịnh Đoạn Nghi Phật",
+    "sourceOrdinal": 228
+  },
+  {
+    "name": "Vô Lượng Trì Phật",
+    "sourceOrdinal": 229
+  },
+  {
+    "name": "Diệu Lạc Phật",
+    "sourceOrdinal": 230
+  },
+  {
+    "name": "Bất Phụ Phật",
+    "sourceOrdinal": 231
+  },
+  {
+    "name": "Vô Trụ Phật",
+    "sourceOrdinal": 232
+  },
+  {
+    "name": "Đắc-xoa-ca Phật",
+    "sourceOrdinal": 233
+  },
+  {
+    "name": "Chúng Thủ Phật",
+    "sourceOrdinal": 234
+  },
+  {
+    "name": "Thế Quang Phật",
+    "sourceOrdinal": 235
+  },
+  {
+    "name": "Đa Đức Phật",
+    "sourceOrdinal": 236
+  },
+  {
+    "name": "Phất-sa Phật",
+    "sourceOrdinal": 237
+  },
+  {
+    "name": "Vô Biên Uy Đức Phật",
+    "sourceOrdinal": 238
+  },
+  {
+    "name": "Nghĩa Ý Phật",
+    "sourceOrdinal": 239
+  },
+  {
+    "name": "Dược Vương Phật",
+    "sourceOrdinal": 240
+  },
+  {
+    "name": "Đoạn Ác Phật",
+    "sourceOrdinal": 241
+  },
+  {
+    "name": "Vô Nhiệt Phật",
+    "sourceOrdinal": 242
+  },
+  {
+    "name": "Thiện Điều Phật",
+    "sourceOrdinal": 243
+  },
+  {
+    "name": "Danh Đức Phật",
+    "sourceOrdinal": 244
+  },
+  {
+    "name": "Hoa Đức Phật",
+    "sourceOrdinal": 245
+  },
+  {
+    "name": "Dũng Đắc Phật",
+    "sourceOrdinal": 246
+  },
+  {
+    "name": "Kim Cang Quân Phật",
+    "sourceOrdinal": 247
+  },
+  {
+    "name": "Đại Đức Phật",
+    "sourceOrdinal": 248
+  },
+  {
+    "name": "Tịch Diệt Ý Phật",
+    "sourceOrdinal": 249
+  },
+  {
+    "name": "Vô Biên Âm Phật",
+    "sourceOrdinal": 250
+  },
+  {
+    "name": "Đại Uy Quang Phật",
+    "sourceOrdinal": 251
+  },
+  {
+    "name": "Thiện Trụ Phật",
+    "sourceOrdinal": 252
+  },
+  {
+    "name": "Vô Sở Phụ Phật",
+    "sourceOrdinal": 253
+  },
+  {
+    "name": "Ly Nghi Hoặc Phật",
+    "sourceOrdinal": 254
+  },
+  {
+    "name": "Điện Tướng Phật",
+    "sourceOrdinal": 255
+  },
+  {
+    "name": "Cung Kính Phật",
+    "sourceOrdinal": 256
+  },
+  {
+    "name": "Uy Đức Thủ Phật",
+    "sourceOrdinal": 257
+  },
+  {
+    "name": "Trí Nhật Phật",
+    "sourceOrdinal": 258
+  },
+  {
+    "name": "Thượng Lợi Phật",
+    "sourceOrdinal": 259
+  },
+  {
+    "name": "Tu-di Đảnh Phật",
+    "sourceOrdinal": 260
+  },
+  {
+    "name": "Tịnh Tâm Phật",
+    "sourceOrdinal": 261
+  },
+  {
+    "name": "Trị Oán Tặc Phật",
+    "sourceOrdinal": 262
+  },
+  {
+    "name": "Ly Kiêu Phật",
+    "sourceOrdinal": 263
+  },
+  {
+    "name": "Ứng Tán Phật",
+    "sourceOrdinal": 264
+  },
+  {
+    "name": "Trí Thứ Phật",
+    "sourceOrdinal": 265
+  },
+  {
+    "name": "Na-la-đạt Phật",
+    "sourceOrdinal": 266
+  },
+  {
+    "name": "Thường Lạc Phật",
+    "sourceOrdinal": 267
+  },
+  {
+    "name": "Bất Thiểu Quốc Phật",
+    "sourceOrdinal": 268
+  },
+  {
+    "name": "Thiên Danh Phật",
+    "sourceOrdinal": 269
+  },
+  {
+    "name": "Vân Đức Phật",
+    "sourceOrdinal": 270
+  },
+  {
+    "name": "Thậm Lương Phật",
+    "sourceOrdinal": 271
+  },
+  {
+    "name": "Đa Công Đức Phật",
+    "sourceOrdinal": 272
+  },
+  {
+    "name": "Bảo Nguyệt Phật",
+    "sourceOrdinal": 273
+  },
+  {
+    "name": "Trang Nghiêm Đảnh Kế Phật",
+    "sourceOrdinal": 274
+  },
+  {
+    "name": "Nhạo Thiền Phật",
+    "sourceOrdinal": 275
+  },
+  {
+    "name": "Vô Sở Thiểu Phật",
+    "sourceOrdinal": 276
+  },
+  {
+    "name": "Du Hí Phật",
+    "sourceOrdinal": 277
+  },
+  {
+    "name": "Đức Bảo Phật",
+    "sourceOrdinal": 278
+  },
+  {
+    "name": "Ứng Danh Xưng Phật",
+    "sourceOrdinal": 279
+  },
+  {
+    "name": "Hoa Thân Phật",
+    "sourceOrdinal": 280
+  },
+  {
+    "name": "Đại Âm Thanh Phật",
+    "sourceOrdinal": 281
+  },
+  {
+    "name": "Biện Tài Tán Phật",
+    "sourceOrdinal": 282
+  },
+  {
+    "name": "Kim Cang Châu Phật",
+    "sourceOrdinal": 283
+  },
+  {
+    "name": "Vô Lượng Thọ Phật",
+    "sourceOrdinal": 284
+  },
+  {
+    "name": "Châu Trang Nghiêm Phật",
+    "sourceOrdinal": 285
+  },
+  {
+    "name": "Đại Vương Phật",
+    "sourceOrdinal": 286
+  },
+  {
+    "name": "Đức Cao Hạnh Phật",
+    "sourceOrdinal": 287
+  },
+  {
+    "name": "Cao Danh Phật",
+    "sourceOrdinal": 288
+  },
+  {
+    "name": "Bách Quang Phật",
+    "sourceOrdinal": 289
+  },
+  {
+    "name": "Hỷ Duyệt Phật",
+    "sourceOrdinal": 290
+  },
+  {
+    "name": "Long Bộ Phật",
+    "sourceOrdinal": 291
+  },
+  {
+    "name": "Ý Nguyện Phật",
+    "sourceOrdinal": 292
+  },
+  {
+    "name": "Diệu Bảo Phật",
+    "sourceOrdinal": 293
+  },
+  {
+    "name": "Diệt Dĩ Phật",
+    "sourceOrdinal": 294
+  },
+  {
+    "name": "Pháp Tràng Phật",
+    "sourceOrdinal": 295
+  },
+  {
+    "name": "Điều Ngự Phật",
+    "sourceOrdinal": 296
+  },
+  {
+    "name": "Hỷ Tự Tại Phật",
+    "sourceOrdinal": 297
+  },
+  {
+    "name": "Bảo Kế Phật",
+    "sourceOrdinal": 298
+  },
+  {
+    "name": "Ly Sơn Phật",
+    "sourceOrdinal": 299
+  },
+  {
+    "name": "Tịnh Thiên Phật",
+    "sourceOrdinal": 300
+  },
+  {
+    "name": "Hoa Quan Phật",
+    "sourceOrdinal": 301
+  },
+  {
+    "name": "Tịnh Danh Phật",
+    "sourceOrdinal": 302
+  },
+  {
+    "name": "Uy Đức Tịch Diệt Phật",
+    "sourceOrdinal": 303
+  },
+  {
+    "name": "Ái Tướng Phật",
+    "sourceOrdinal": 304
+  },
+  {
+    "name": "Đa Thiên Phật",
+    "sourceOrdinal": 305
+  },
+  {
+    "name": "Tu-diễm-ma Phật",
+    "sourceOrdinal": 306
+  },
+  {
+    "name": "Thiên Uy Phật",
+    "sourceOrdinal": 307
+  },
+  {
+    "name": "Diệu Đức Vương Phật",
+    "sourceOrdinal": 308
+  },
+  {
+    "name": "Bảo Bộ Phật",
+    "sourceOrdinal": 309
+  },
+  {
+    "name": "Sư Tử Phần Phật",
+    "sourceOrdinal": 310
+  },
+  {
+    "name": "Tối Tôn Thắng Phật",
+    "sourceOrdinal": 311
+  },
+  {
+    "name": "Nhân Vương Phật",
+    "sourceOrdinal": 312
+  },
+  {
+    "name": "Chiên Đàn Vân Phật",
+    "sourceOrdinal": 313
+  },
+  {
+    "name": "Cám Nhãn Phật",
+    "sourceOrdinal": 314
+  },
+  {
+    "name": "Bảo Uy Đức Phật",
+    "sourceOrdinal": 315
+  },
+  {
+    "name": "Đức Thừa Phật",
+    "sourceOrdinal": 316
+  },
+  {
+    "name": "Giác Tưởng Phật",
+    "sourceOrdinal": 317
+  },
+  {
+    "name": "Hỷ Trang Nghiêm Phật",
+    "sourceOrdinal": 318
+  },
+  {
+    "name": "Hương Tế Phật",
+    "sourceOrdinal": 319
+  },
+  {
+    "name": "Thắng Tuệ Phật",
+    "sourceOrdinal": 320
+  },
+  {
+    "name": "Ly Ái Phật",
+    "sourceOrdinal": 321
+  },
+  {
+    "name": "Từ Tướng Phật",
+    "sourceOrdinal": 322
+  },
+  {
+    "name": "Diệu Hương Phật",
+    "sourceOrdinal": 323
+  },
+  {
+    "name": "Kiên Khải Phật",
+    "sourceOrdinal": 324
+  },
+  {
+    "name": "Uy Đức Mãnh Phật",
+    "sourceOrdinal": 325
+  },
+  {
+    "name": "Châu Khải Phật",
+    "sourceOrdinal": 326
+  },
+  {
+    "name": "Nhân Hiền Phật",
+    "sourceOrdinal": 327
+  },
+  {
+    "name": "Thiện Thệ Nguyệt Phật",
+    "sourceOrdinal": 328
+  },
+  {
+    "name": "Phạm Tự Tại Phật",
+    "sourceOrdinal": 329
+  },
+  {
+    "name": "Sư Tử Nguyệt Phật",
+    "sourceOrdinal": 330
+  },
+  {
+    "name": "Quán Sát Tuệ Phật",
+    "sourceOrdinal": 331
+  },
+  {
+    "name": "Chánh Sanh Phật",
+    "sourceOrdinal": 332
+  },
+  {
+    "name": "Cao Thắng Phật",
+    "sourceOrdinal": 333
+  },
+  {
+    "name": "Nhật Quán Phật",
+    "sourceOrdinal": 334
+  },
+  {
+    "name": "Bảo Danh Phật",
+    "sourceOrdinal": 335
+  },
+  {
+    "name": "Đại Tinh Tấn Phật",
+    "sourceOrdinal": 336
+  },
+  {
+    "name": "Sơn Quang Phật",
+    "sourceOrdinal": 337
+  },
+  {
+    "name": "Đức Tụ Vương Phật",
+    "sourceOrdinal": 338
+  },
+  {
+    "name": "Cúng Dường Danh Phật",
+    "sourceOrdinal": 339
+  },
+  {
+    "name": "Pháp Tán Phật",
+    "sourceOrdinal": 340
+  },
+  {
+    "name": "Thí Minh Phật",
+    "sourceOrdinal": 341
+  },
+  {
+    "name": "Điện Đức Phật",
+    "sourceOrdinal": 342
+  },
+  {
+    "name": "Bảo Ngữ Phật",
+    "sourceOrdinal": 343
+  },
+  {
+    "name": "Cứu Mạng Phật",
+    "sourceOrdinal": 344
+  },
+  {
+    "name": "Thiện Giới Phật",
+    "sourceOrdinal": 345
+  },
+  {
+    "name": "Thiện Chúng Phật",
+    "sourceOrdinal": 346
+  },
+  {
+    "name": "Kiên Cố Tuệ Phật",
+    "sourceOrdinal": 347
+  },
+  {
+    "name": "Phá Hữu Ám Phật",
+    "sourceOrdinal": 348
+  },
+  {
+    "name": "Thiện Thắng Phật",
+    "sourceOrdinal": 349
+  },
+  {
+    "name": "Sư Tử Quang Phật",
+    "sourceOrdinal": 350
+  },
+  {
+    "name": "Chiếu Minh Phật",
+    "sourceOrdinal": 351
+  },
+  {
+    "name": "Bảo Thành Tựu Phật",
+    "sourceOrdinal": 352
+  },
+  {
+    "name": "Lợi Tuệ Phật",
+    "sourceOrdinal": 353
+  },
+  {
+    "name": "Châu Nguyệt Quang Phật",
+    "sourceOrdinal": 354
+  },
+  {
+    "name": "Uy Quang Phật",
+    "sourceOrdinal": 355
+  },
+  {
+    "name": "Bất Phá Luận Phật",
+    "sourceOrdinal": 356
+  },
+  {
+    "name": "Quang Minh Vương Phật",
+    "sourceOrdinal": 357
+  },
+  {
+    "name": "Châu Luân Phật",
+    "sourceOrdinal": 358
+  },
+  {
+    "name": "Kim Cang Tuệ Phật",
+    "sourceOrdinal": 359
+  },
+  {
+    "name": "Kiết Thủ Phật",
+    "sourceOrdinal": 360
+  },
+  {
+    "name": "Thiện Nguyệt Phật",
+    "sourceOrdinal": 361
+  },
+  {
+    "name": "Bảo Diễm Phật",
+    "sourceOrdinal": 362
+  },
+  {
+    "name": "La-hầu Thủ Phật",
+    "sourceOrdinal": 363
+  },
+  {
+    "name": "Nhạo Bồ-đề Phật",
+    "sourceOrdinal": 364
+  },
+  {
+    "name": "Đẳng Quang Phật",
+    "sourceOrdinal": 365
+  },
+  {
+    "name": "Chí Tịch Diệt Phật",
+    "sourceOrdinal": 366
+  },
+  {
+    "name": "Thế Tối Diệu Phật",
+    "sourceOrdinal": 367
+  },
+  {
+    "name": "Tự Tại Danh Phật",
+    "sourceOrdinal": 368
+  },
+  {
+    "name": "Thập Thế Lực Phật",
+    "sourceOrdinal": 369
+  },
+  {
+    "name": "Hỷ Lực Vương Phật",
+    "sourceOrdinal": 370
+  },
+  {
+    "name": "Đức Thế Lực Phật",
+    "sourceOrdinal": 371
+  },
+  {
+    "name": "Tối Thắng Đảnh Phật",
+    "sourceOrdinal": 372
+  },
+  {
+    "name": "Đại Thế Lực Phật",
+    "sourceOrdinal": 373
+  },
+  {
+    "name": "Công Đức Tạng Phật",
+    "sourceOrdinal": 374
+  },
+  {
+    "name": "Chân Hạnh Phật",
+    "sourceOrdinal": 375
+  },
+  {
+    "name": "Thượng An Phật",
+    "sourceOrdinal": 376
+  },
+  {
+    "name": "Kim Cang Tri Sơn Phật",
+    "sourceOrdinal": 377
+  },
+  {
+    "name": "Đại Quang Phật",
+    "sourceOrdinal": 378
+  },
+  {
+    "name": "Diệu Đức Tạng Phật",
+    "sourceOrdinal": 379
+  },
+  {
+    "name": "Quảng Đức Phật",
+    "sourceOrdinal": 380
+  },
+  {
+    "name": "Bảo Võng Nghiêm Thân Phật",
+    "sourceOrdinal": 381
+  },
+  {
+    "name": "Phước Đức Minh Phật",
+    "sourceOrdinal": 382
+  },
+  {
+    "name": "Tạo Khải Phật",
+    "sourceOrdinal": 383
+  },
+  {
+    "name": "Thành Thủ Phật",
+    "sourceOrdinal": 384
+  },
+  {
+    "name": "Thiện Hoa Phật",
+    "sourceOrdinal": 385
+  },
+  {
+    "name": "Tập Bảo Phật",
+    "sourceOrdinal": 386
+  },
+  {
+    "name": "Đại Hải Trí Phật",
+    "sourceOrdinal": 387
+  },
+  {
+    "name": "Trì Địa Đức Phật",
+    "sourceOrdinal": 388
+  }
+] as const;

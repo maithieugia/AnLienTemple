@@ -1,0 +1,25 @@
+{
+  "id": "20",
+  "name": "Phật khất thực",
+  "role": "side",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.3843856366025828,
+  "depth": 0.37682868902127126,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 3000
+  },
+  "sourceSha256": "4f7d8d5a47b5f7cc32c9fda29d69343ceb5a94fc5119fe45ba536b2850f4307a",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "2c8ae36c7e8a8663841e0036d3894aff229d6545d0a1f60794e079a900f3adc8",
+    "low": "c120e1fa97d083c7dd68cd251a8b040cefea01cc9ee95977d0d64a18f80c5fd9",
+    "far": "e8a8f6c76d604a6b1774d81c73d578a7b526b65b6198f81b4fb8e42b9357b5f9"
+  },
+  "sourceArchive": "Phật khất thực.zip"
+}

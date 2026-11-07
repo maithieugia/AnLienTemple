@@ -1,0 +1,24 @@
+{
+ "id": "029",
+ "title": "Buddha statue",
+ "author": "mofashi",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-288695374f88403baeddcd1464ae460a",
+ "normalizedHeight": 1,
+ "width": 0.9801,
+ "depth": 0.8096,
+ "frontYawDeg": 0,
+ "sourceTriangles": 499986,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 4718
+ },
+ "sourceSha256": "2a6305736030f0c5c82e0707af9298c0a6d6e0c527273c8d9d3a9ad3eee5162a",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "59ba6c8b161efcf29abd189468e80bfa70465215f10dd1b1c5f525dc5bd04a22",
+  "low": "cc6cce3b4e973162ce34fdad3786b27a0ef9f8ee342a052730c824e552ee5455",
+  "far": "d4369d5f3392f46b587adb549a1a0937203dd5f373ee26286fb976b9a1f99ea4"
+ }
+}

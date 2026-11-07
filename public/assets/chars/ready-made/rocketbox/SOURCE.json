@@ -1,0 +1,20 @@
+{
+  "author": "Microsoft / Rocketbox",
+  "license": "MIT",
+  "source": "https://github.com/microsoft/Microsoft-Rocketbox",
+  "downloaded": "2026-11-01",
+  "changes": "Original mesh and80-bone skin preserved. FBX→GLB; official Idle/Walk/Run retargeted by world-space rotation baking. Unused175 morph targets omitted from runtime (source FBX and checkpoint retained). Head colour2K, other maps1K; colourJPEG95, normal/opacityPNG. Added PilgrimWalk/PilgrimRun/Push retargeted from existing Quaternius UAL CC0 with joint-direction mapping and pelvis vertical motion; geometry/skin unchanged.",
+  "files": [
+    {
+      "file": "Female_Adult_17.glb",
+      "bytes": 6796120,
+      "sha256": "0cb194c4668b6bbad130839fc9b713bfa9899b49a429022d2cc0615660a54401"
+    },
+    {
+      "file": "Male_Adult_08.glb",
+      "bytes": 6300360,
+      "sha256": "bde8df7a1bb455688d799d864d8d9a44e1c29a4de89b2003e0fb2a72d0a88bb6"
+    }
+  ],
+  "repositoryTree": "0943055db6ec570bcef9f2c8b41c9e5467c808f9"
+}

@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Thử bạn bè · chat · gọi</title>
+<style>body{margin:0;background:#2b2418;color:#f4e8c8;font:14px 'Segoe UI',sans-serif;height:100vh}#me{position:fixed;left:12px;top:12px}#toast{position:fixed;left:50%;top:14px;transform:translateX(-50%);background:#3a2a10;padding:6px 12px;border-radius:8px}</style></head>
+<body><div id="me">…</div><div id="toast"></div>
+<script type="module">
+// Dev-only harness (2026-11-06): the in-game friends/chat/call UI (src/online/Social.ts) on a bare page, without the 3D temple,
+// so two browsers can test it end to end in seconds.
+import {createSocial} from '/src/online/Social.ts';
+const me=await (await fetch('/api/me')).json();document.querySelector('#me').textContent=me.name?`${me.name} (#${me.id})`:'chưa đăng nhập';
+const infos=new Map(),toasts=[];const toastEl=document.querySelector('#toast');
+const toast=(t)=>{toasts.push(t);toastEl.textContent=t;};
+const ws=new WebSocket(`${location.protocol==='https:'?'wss':'ws'}://${location.host}/ws`);
+const send=m=>{if(ws.readyState===1)ws.send(JSON.stringify(m));};
+const social=createSocial({meId:me.id,send,toast,players:()=>[...infos.values()]});
+ws.onmessage=ev=>{const m=JSON.parse(ev.data);if(social.handle(m))return;
+ if(m.t==='welcome'){infos.clear();for(const p of m.players)infos.set(p.id,p);}else if(m.t==='join'){infos.set(m.p.id,m.p);social.playersChanged();}
+ else if(m.t==='leave'){infos.delete(m.id);social.playersChanged();}else if(m.t==='notice')toast(m.text);};
+await new Promise(r=>ws.onopen=r);
+Object.assign(window,{__me:me,__send:send,__toasts:toasts,__ready:true});
+</script></body></html>

@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import assert from 'node:assert/strict';
+const root='/var/www/anlien';
+const release=JSON.parse(fs.readFileSync(root+'/release.json'));
+assert.equal(release.revision,'2026-11-05-river-tower-camera-2');
+const {ENTRANCE_RIVER:r,ENTRANCE_BRIDGE:b,entranceWalkY}=await import('/opt/anlien/src/game/world/EntranceRiverPlan.ts');
+const {OWNER_COLLECTION}=await import('/opt/anlien/src/game/world/OwnerCollectionPlan.ts');
+assert.equal(r.z0,600);assert.equal(r.z1,680);assert.equal(b.z-b.halfRun,585);assert.equal(b.z+b.halfRun,695);
+assert.equal(entranceWalkY(0,705),0);
+const statue=OWNER_COLLECTION.find(s=>s.id==='new-18');
+assert.equal(statue.z,640);assert.equal(statue.height+statue.base-r.water,30);
+console.log('VERIFIED',release.revision,'river',r.z1-r.z0,'bridge',b.halfRun*2,'statueZ',statue.z);

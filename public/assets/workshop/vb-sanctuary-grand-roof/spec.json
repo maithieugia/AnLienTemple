@@ -1,0 +1,50 @@
+{
+  "id": "vb-sanctuary-grand-roof",
+  "category": "building",
+  "recipe": "sanctuary_grand",
+  "part": "roof",
+  "revision": 5,
+  "label": "An Liên · 5 lớp mái · ngói âm dương lớn",
+  "units": "metres",
+  "status": "candidate",
+  "groundContact": false,
+  "lods": {
+    "high": {
+      "ratio": 1,
+      "triangleLimit": 1300000,
+      "byteLimit": 110000000
+    },
+    "low": {
+      "ratio": 0.25,
+      "triangleLimit": 400000,
+      "byteLimit": 24000000
+    }
+  },
+  "expectedDimensions": {
+    "min": [
+      680,
+      120,
+      480
+    ],
+    "max": [
+      740,
+      190,
+      540
+    ]
+  },
+  "requiredNodes": [],
+  "license": "Original Veilbound geometry and textures (Claude, tools/art_workshop/recipes/sanctuary_grand.py). No third-party assets.",
+  "previewScale": 760,
+  "previewHeight": 50,
+  "previewCamera": [
+    560,
+    -760,
+    330
+  ],
+  "previewRearCamera": [
+    -560,
+    760,
+    330
+  ],
+  "roofTiers": 5
+}

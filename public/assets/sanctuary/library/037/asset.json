@@ -1,0 +1,24 @@
+{
+ "id": "037",
+ "title": "Chonta - buddha",
+ "author": "Brian Trepanier",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-7e76bfa2824f4f34b8936f5e2d3035df",
+ "normalizedHeight": 1,
+ "width": 0.9917,
+ "depth": 0.7107,
+ "frontYawDeg": -90,
+ "sourceTriangles": 442122,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 7589
+ },
+ "sourceSha256": "0bfdd26f7ca9f756e0f79039a03337baa7d0f2dbdecc61e77fd4f016355b4725",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "5b744014d163261700081aa4e6da12c3925ecf3697472dcf9f60080cd5b64215",
+  "low": "2ad4943cf5252019a56c4869bfb65da57dcc8299ad9bb8091385c6b32457ca82",
+  "far": "5e73c1c96a014b8eefba4dfb658c55b871c406826572fcdb3431b41a570dbffb"
+ }
+}

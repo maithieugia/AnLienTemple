@@ -1,0 +1,24 @@
+{
+ "id": "003",
+ "title": "Gen, Kh-Bodhisattva Avalokiteshvara 11th century",
+ "author": "Nheata",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-7bfeb20b74054914ad11234a7c246da5",
+ "normalizedHeight": 1,
+ "width": 0.7585,
+ "depth": 0.5547,
+ "frontYawDeg": 0,
+ "sourceTriangles": 717547,
+ "triangles": {
+  "high": 60000,
+  "low": 14999,
+  "far": 2999
+ },
+ "sourceSha256": "cc9d70bbd64bf519d089ba363705ca518dc15340b92502cc20a60a7f1f2e999a",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "8376db61a5be188adf9b60e6eeda2264e8467c7c9d195bdfa2909bee0665ffdc",
+  "low": "985d4794895ebe212b17b7eaab3f4ebc7dd56e93848b658778cca5b4c51fd56e",
+  "far": "05178df11d2dc108c7e971a5864ded1a918eb90e4e4965bad7c746fc0611b288"
+ }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "02",
+  "sourceZip": "thiên vương 2.zip",
+  "zipSha256": "ae978bfe8b18680c2d6f91eda70e9aeaa2bfcf4d7eafdd786af170e4d3087c79",
+  "sourceMember": "base_basic_pbr.glb",
+  "license": "user supplied; no license document bundled",
+  "normalizedHeight": 1,
+  "width": 0.527059668721216,
+  "depth": 0.5042400708312611,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 120000,
+    "low": 35000,
+    "far": 8000
+  },
+  "sourceSha256": "98caa6ae172e17ad2fe2e239589169ae2d46d6b4fb03e3acd904615ae1ad6c56",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "ea41c27ef4385ff913763e9f21e5496417e940754edf2bb19c620c4364344ba2",
+    "low": "3827e6742afac87f479f78833ac9e5b554925ff933785b420382f6d68814ddca",
+    "far": "d9c7bd43ed9aa15919748ec92e5cd5cdb874f8b1930aa477a14a4152eeaf0456"
+  }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "060",
+ "title": "Korean Buddha Iron Statue",
+ "author": "artfletch",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-872b44150e12431a898d0b8057705770",
+ "normalizedHeight": 1,
+ "width": 0.7628,
+ "depth": 0.5881,
+ "frontYawDeg": 0,
+ "sourceTriangles": 297372,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 5576
+ },
+ "sourceSha256": "29f909a71493e50f3e89b915356b6ab61ec00f290d5cec4fb2a5fe13ddd48738",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "e0c9e4add9a5cbcff4b499fede237fb98a87c72fe61f1ee654dcc65dc8558341",
+  "low": "685abcc4dd5af1a9435ad4c925b4ce3bd1b0f1bccb8383fd15b216c667fab29d",
+  "far": "f578f9751fbe8555d16fb9e587d7c5e72aa8279be905ebc73b675978af991e3b"
+ }
+}

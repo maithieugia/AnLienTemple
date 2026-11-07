@@ -1,0 +1,15 @@
+EXPORTED 019 {'high': 60000, 'low': 15000, 'far': 14575}
+EXPORTED 056 {'high': 60000, 'low': 14999, 'far': 3520}
+EXPORTED 010 {'high': 59999, 'low': 15000, 'far': 9111}
+EXPORTED 001 {'high': 60000, 'low': 19281, 'far': 19281}
+EXPORTED 003 {'high': 60000, 'low': 15000, 'far': 13399}
+EXPORTED 004 {'high': 59999, 'low': 14999, 'far': 13916}
+EXPORTED 009 {'high': 60000, 'low': 15000, 'far': 5683}
+EXPORTED 011 {'high': 60000, 'low': 15000, 'far': 12712}
+EXPORTED 012 {'high': 59999, 'low': 15000, 'far': 9465}
+EXPORTED 013 {'high': 60000, 'low': 15000, 'far': 10837}
+EXPORTED 014 {'high': 60000, 'low': 15000, 'far': 6108}
+EXPORTED 017 {'high': 60000, 'low': 15000, 'far': 4523}
+EXPORTED 025 {'high': 60000, 'low': 14999, 'far': 8116}
+EXPORTED 026 {'high': 60000, 'low': 14999, 'far': 3959}
+EXPORTED 027 {'high': 60000, 'low': 18522, 'far': 18522}

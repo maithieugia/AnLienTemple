@@ -1,0 +1,25 @@
+{
+  "id": "19",
+  "name": "Bồ tác ngàn tay",
+  "role": "giant",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.6722781012459809,
+  "depth": 0.44875126400851034,
+  "sourceTriangles": 499996,
+  "triangles": {
+    "high": 120000,
+    "low": 35000,
+    "far": 8000
+  },
+  "sourceSha256": "ffd3c87214081dfef1274adb6931e8e41269e4b870735929e0c634ebd561ad17",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "3026a8e52c3b427298cfd1b1279b8f5cb60ff8058f9f1034b21382769e3c4cbe",
+    "low": "ab9a49cb64e0eecf1b5ec222ee6bf78540ee88e9c6e08ca270664cba2f54e467",
+    "far": "72c11819e4070b858c52f5221e64de8a84a2420bb11e75eae4afd7375b7e1a87"
+  },
+  "sourceArchive": "Bồ tác ngàn tay.zip"
+}

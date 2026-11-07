@@ -1,0 +1,12 @@
+{
+  "high": {
+    "triangles": 733180,
+    "bytes": 34708212,
+    "sha256": "d3eeca0192909936035c06d613ce8b106333f4263b36b5e35af5462533c4071d"
+  },
+  "low": {
+    "triangles": 210493,
+    "bytes": 14386216,
+    "sha256": "df60cd7195802607b8eb33d4a38846d73a49d8663e0c21cad4cb09e5cff10e61"
+  }
+}

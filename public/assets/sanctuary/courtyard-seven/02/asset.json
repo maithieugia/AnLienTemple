@@ -1,0 +1,22 @@
+{
+  "id": "02",
+  "source": "P2.zip",
+  "zipSha256": "58a8ffec497cc562275d0319e44db22aeae9a39c46979971d24232490ba40000",
+  "normalizedHeight": 1,
+  "width": 0.6397042809338619,
+  "depth": 0.6204323787083721,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 120000,
+    "low": 35000,
+    "far": 7998
+  },
+  "sourceSha256": "ea3d64b357b0d8e9be9583b6fa06e98a6371c8b8f64908f22dd56ac039e0bf72",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "f3f181c9444c9fe9991addb9ac1db8f3a284270740dadf47d632892e6231262b",
+    "low": "bfc3944c11234bba971b4379832ec932623e7ec00dcc56567c4602d0a35cc178",
+    "far": "e53035f6984597c73c5c8d85e3f26591d09a049b71c226eac5b4712cefce9427"
+  }
+}

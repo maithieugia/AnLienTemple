@@ -1,0 +1,642 @@
+[
+  {
+    "id": "01",
+    "level": "source",
+    "fileSha256": "7753d11661ad77e80b756062e45291a1d75f1684800f94e2f6f611674d0e9c2c",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "01",
+    "level": "high",
+    "fileSha256": "12ce7cc6df107a9d004e3ca5ee2c691cb9e4978601faedab7aefbe93434c844d",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "01",
+    "level": "low",
+    "fileSha256": "0bc9d92885b479258256fde1cd024f804caf4bdd3a4057f166c48787c0faefec",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "01",
+    "level": "far",
+    "fileSha256": "d0886563194b0cc9ef75943c594883b431ddcadc985e52359d9fa98f8fb6baca",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "02",
+    "level": "source",
+    "fileSha256": "9d9c800584e5d12b5e3e61430902ef1783ebd68e21f71f50163c9d2b9e22f471",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "02",
+    "level": "high",
+    "fileSha256": "b25e7477cf6e0c197574090e5d3ddcee03757006aa6427d9f28fa981cac744ce",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "02",
+    "level": "low",
+    "fileSha256": "f404f221f1a91a839f2438d6542d8e5260e72a6723cdb15a6d7f052151560a7a",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "02",
+    "level": "far",
+    "fileSha256": "ba4da98a3fc44ca7f3c6283c864ea34d7c0e37349b19f2e5d5709746ca324a73",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "03",
+    "level": "source",
+    "fileSha256": "6178e684dd42dc6497124af7307145b45240154bf0748b7e6082a8e6a7b9e590",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "03",
+    "level": "high",
+    "fileSha256": "e0958e88fd7115994a8bd941a707dab486110ce1886be2f3ff99a4265a3bd821",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "03",
+    "level": "low",
+    "fileSha256": "5c548f0e6575a39917db29ae11bdc1c0ec7bc2f5c2c0a3333824dd34b5e4dad3",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "03",
+    "level": "far",
+    "fileSha256": "44ab11de804e5463c47fa289ff717751cf20c97994d4d4067f24b9b534a24092",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "04",
+    "level": "source",
+    "fileSha256": "88b721c77d69858c472b437f5ba7325abdec36b7010971afa7027136cf6266a3",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "04",
+    "level": "high",
+    "fileSha256": "ec68ddfe994a843ca7e659f2bce416a49933c8fd8e907c74f0e93ab08354ec70",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "04",
+    "level": "low",
+    "fileSha256": "f377bd3b5c96aef544ccf3aeebdbf500e421565773359c29f3cfd7bb582a8931",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "04",
+    "level": "far",
+    "fileSha256": "d294d1b6eaa1b402c728483268f1942adbb9ae794fed709be4f1db525a9c695b",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "05",
+    "level": "source",
+    "fileSha256": "63cae9899741a4c95547cf63d74578965ebe34dc989695fe920131b91a9a9f50",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "05",
+    "level": "high",
+    "fileSha256": "995ffc347fd58388553feb35e5ebf3fa1b42c4d9bee4708ca1f5311b7c96be0b",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "05",
+    "level": "low",
+    "fileSha256": "a60ceda1e5a50c2a161b0424634dbfddc53b4748dd00888b3e1a7780e0f7a5bb",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "05",
+    "level": "far",
+    "fileSha256": "1940e4618e6d64275eeeee60c4c78446a65a13d07796e01a4ac74f43e6ce1014",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "06",
+    "level": "source",
+    "fileSha256": "9130aab30bd03ad953c88e6a25cf4ebbc5af3acfbcf56ef839c3eb4abe5ec18c",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "06",
+    "level": "high",
+    "fileSha256": "78b4f4376dced82088f92eab0ce63bc414db10ea16a4ee8c3e38e4667dd638d9",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "06",
+    "level": "low",
+    "fileSha256": "43657f384d1847d3ef69f00cb8f05060a98405c55cba0bb3464cde7db65da635",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "06",
+    "level": "far",
+    "fileSha256": "071c6f88b0e8702ca29709f1073d56ab9a3b5d5593dddb91ec7e2e9652ec9ae6",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "07",
+    "level": "source",
+    "fileSha256": "b68eeb8de030648d87b402b96e632381bb708bcc9add8a632347c618a59e6ec2",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "07",
+    "level": "high",
+    "fileSha256": "1e811245556e9e8d048fbb28499b2b0b04e321616256f763f22b2043bd9e6be2",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "07",
+    "level": "low",
+    "fileSha256": "08d0ebb40395ca778e94eb7434a69130e41b7d4441b5609e4ee9cac63d757bb9",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "07",
+    "level": "far",
+    "fileSha256": "45cf70d7f13f3387c1e5c1974f87904f59f3685fd2496e2c60f88e1f0d856410",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "08",
+    "level": "source",
+    "fileSha256": "4a17a66a09549f26f5bb37f860d8f9258425cec358c54eb2d3f3d0ca972f9298",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "08",
+    "level": "high",
+    "fileSha256": "d0f8522ea187c5dd7bf22b73ba437ad811c8489cddaca86f8dac1f1244940b94",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "08",
+    "level": "low",
+    "fileSha256": "26cd66f18c8e7b48b2d9c29f620c2cdbe1251b4ba7b4caaf2c154d21b550fd37",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "08",
+    "level": "far",
+    "fileSha256": "9a1e07632868da7185f426871b9bbf9dc1a860f75799bbdd4bd69ab136df0bd7",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "09",
+    "level": "source",
+    "fileSha256": "1da0fa337618dd0ed453fb2de109b217aef301567ddca310c9492e9c8450fea9",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "09",
+    "level": "high",
+    "fileSha256": "2a6e8efeccdddd9655b5949819149c2f829b18a38d916e19ce807b7adec03bf7",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "09",
+    "level": "low",
+    "fileSha256": "8913caeb60da7166b6cfc269c37ea5cf2a5e17ef9476e1fe0d4b5b5878cb7e82",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "09",
+    "level": "far",
+    "fileSha256": "5c586778fa3916d537d072ccce47765781b41ab2c1d87d7e2f01842c123dcf11",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "10",
+    "level": "source",
+    "fileSha256": "475e4cd46195038099bab8f6badc567bc207f93067b0b97906aedf7ad4a690b5",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "10",
+    "level": "high",
+    "fileSha256": "1e9106c98b07f2d5893fb9145060e506d4e45aa451df85a91f972e40cef2c889",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "10",
+    "level": "low",
+    "fileSha256": "d42857e341f0ce24a3366f5cc4096b014d0ec372413db7e25ec29ac4cd9711ae",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "10",
+    "level": "far",
+    "fileSha256": "b31e2f611af3e95a16769dc01906afd63170166737aedec53f46ce52d37e9b7d",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "11",
+    "level": "source",
+    "fileSha256": "aad719d5e61cb7c2d8b68775eb0be55347c3f691e0fda40f3bfb2dfb607e67b9",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "11",
+    "level": "high",
+    "fileSha256": "45b48e95d524334d46cb5a5af9b5d9e1515af1ca5dad57b2e9b397b96ca0c257",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "11",
+    "level": "low",
+    "fileSha256": "37533a183a9ab5c3a87c5bc3dc419cb05cb6323d48d6c283d21f78c051d71e1f",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "11",
+    "level": "far",
+    "fileSha256": "3c293c90cab1ad0a1bfb0ef32e6f715bc581f13f918e9483de3f0957496966b6",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "12",
+    "level": "source",
+    "fileSha256": "1ba10cbf80f75611a6541121c76e708b002ead42bbb9d289236dfab3b900c724",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "12",
+    "level": "high",
+    "fileSha256": "14a28f9af473d6e55a25274c321ee8c3c34da1f79a1378c1cfd5ae5da3548f6b",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "12",
+    "level": "low",
+    "fileSha256": "0e8d96b3b70ad108d1cd14884854a9b96223758d5b3aaaf6b6a8c7f8105862c6",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "12",
+    "level": "far",
+    "fileSha256": "a4a19cc16268874628db4030c232b97f68c2747b425d5f0a636146be813e5cda",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "13",
+    "level": "source",
+    "fileSha256": "203e4c6eb1df97d0015e0cbf947bb9f4cdf957ff238ee94d8e46170b8978b500",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "13",
+    "level": "high",
+    "fileSha256": "7c5783a9704f94b24519632b998f07f5f0ba8add3c00c286f5beb86ea0fdec0b",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "13",
+    "level": "low",
+    "fileSha256": "7e4b323a5e21e372d5a0526ec8d7410f14ccd6287d82d7076b75b3230db9d0e1",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "13",
+    "level": "far",
+    "fileSha256": "d4754ab48083a7ad580ba041025b4f244a65f46091be1a4c870d7de02606b584",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "14",
+    "level": "source",
+    "fileSha256": "e8503abe1998a9973b10ab94263eb11b754c74e72dded823f18ac9d06370e759",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "14",
+    "level": "high",
+    "fileSha256": "d32c4dce2e484f7188c9e349bd5457b834f6bb40e615e02d24faf1bea313a29e",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "14",
+    "level": "low",
+    "fileSha256": "173772f894b2fb62979c46be692e709154f2dc962ef406de3e1a96a2db9bc508",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "14",
+    "level": "far",
+    "fileSha256": "057928239787ec9386aa3de49c5a07adaf1139c496d562b0c0d31980aaa805d0",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "15",
+    "level": "source",
+    "fileSha256": "aa8f5bc8be4a8d78a4b2cfdd62ce505d007a63b85b46225c6b184d045a715930",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "15",
+    "level": "high",
+    "fileSha256": "d28438de7b6d623d175869e12ab3e36cfd147151318c49e34a0ac979ccb9e3ad",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "15",
+    "level": "low",
+    "fileSha256": "8ae03ee2854f66a87c41fb267dfa14304e5ea12870775dc8e39fa2aaca3683b0",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "15",
+    "level": "far",
+    "fileSha256": "9a0327e41b194d5edd6f25e0c6fce28cb37b5ab7e3099d3f4bbe33ca6c87a619",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "16",
+    "level": "source",
+    "fileSha256": "7979c61eea2d875e40b927567f2354c9affafb336f076612c1b9b56f8cbaf853",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "16",
+    "level": "high",
+    "fileSha256": "938b670c275a1f4385b1943e7f4139919d8e628b9b674775d6ad417eb0a1bb44",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "16",
+    "level": "low",
+    "fileSha256": "fccc6f1b92f3e0263431d6e828c24075587b3d927b08ab4fc9c490ecb33d176e",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "16",
+    "level": "far",
+    "fileSha256": "7ee30cb35c601b20ad728cfa9d35503097c5bc73dd24eab1519f5e8055aac5e0",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "17",
+    "level": "source",
+    "fileSha256": "c91130dcc9f217b22e0f5906757eaa2a5dd7e396fdac044a9c7c865d0caf4bfb",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "17",
+    "level": "high",
+    "fileSha256": "aa82940cf0aaaeeff2620240da1b119b2a0f605243f938e0d06e3b86abf0a0e7",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "17",
+    "level": "low",
+    "fileSha256": "ff49032071f858fb2d6ec2d2760d44788ef6780ded6f0de1ce73657745901a5a",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "17",
+    "level": "far",
+    "fileSha256": "348f08104998bbd9c90d6abaca610ab396152c6dc7bbb01405a5d4cea96d9401",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "18",
+    "level": "source",
+    "fileSha256": "9652113c7a64377732e2d3e6e79e256ee14989a69a2221f2a68643a567ed86a6",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "18",
+    "level": "high",
+    "fileSha256": "2195b053b32b2775a34eec91008cb3254d3391214e9a646addf5195e822afeae",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "18",
+    "level": "low",
+    "fileSha256": "1fc9e34c990eff3fc86feb58fe1f21cf72d3efbf02b7bdf8c70755ae3b4c7977",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "18",
+    "level": "far",
+    "fileSha256": "e56690cdedda0ea730e572d75a3dd1c62ac319ad17b117f0a72f9bcbfde8e625",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "19",
+    "level": "source",
+    "fileSha256": "ffd3c87214081dfef1274adb6931e8e41269e4b870735929e0c634ebd561ad17",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "19",
+    "level": "high",
+    "fileSha256": "3026a8e52c3b427298cfd1b1279b8f5cb60ff8058f9f1034b21382769e3c4cbe",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "19",
+    "level": "low",
+    "fileSha256": "ab9a49cb64e0eecf1b5ec222ee6bf78540ee88e9c6e08ca270664cba2f54e467",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "19",
+    "level": "far",
+    "fileSha256": "72c11819e4070b858c52f5221e64de8a84a2420bb11e75eae4afd7375b7e1a87",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "20",
+    "level": "source",
+    "fileSha256": "4f7d8d5a47b5f7cc32c9fda29d69343ceb5a94fc5119fe45ba536b2850f4307a",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "20",
+    "level": "high",
+    "fileSha256": "2c8ae36c7e8a8663841e0036d3894aff229d6545d0a1f60794e079a900f3adc8",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "20",
+    "level": "low",
+    "fileSha256": "c120e1fa97d083c7dd68cd251a8b040cefea01cc9ee95977d0d64a18f80c5fd9",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  },
+  {
+    "id": "20",
+    "level": "far",
+    "fileSha256": "e8a8f6c76d604a6b1774d81c73d578a7b526b65b6198f81b4fb8e42b9357b5f9",
+    "boundaryLoops": 0,
+    "largest": [],
+    "nonmanifold": 0
+  }
+]

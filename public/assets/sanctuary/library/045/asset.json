@@ -1,0 +1,24 @@
+{
+ "id": "045",
+ "title": "Seated Figure of Buddha",
+ "author": "USF IDEx - Access 3D Lab",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-a3f3eaf7f37b474fa6a49d79deba4552",
+ "normalizedHeight": 1,
+ "width": 0.5158,
+ "depth": 0.282,
+ "frontYawDeg": 0,
+ "sourceTriangles": 373650,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 3000
+ },
+ "sourceSha256": "41463fa41d6ae1038bd153a9fd21fa4949e0d74e2af102abada85bb143f5de9f",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "a1a8f6c96867e712468c462e4cd35ff718ac5bd26a70735925ea2905be938728",
+  "low": "ae60a4fecf17481c74b2e2bec288a3bfb7eec1a274f0046837117501ce378267",
+  "far": "ad20d7a11a15d4ee4207f1cc9e8570f0899fad0f226c547688151b81b5269c6c"
+ }
+}

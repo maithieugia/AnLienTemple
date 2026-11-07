@@ -1,0 +1,24 @@
+{
+ "id": "017",
+ "title": "Amitabha Buddha",
+ "author": "Amitabha Buddhist New Zealand",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-76b657d020934c3b928c0c05517d99c5",
+ "normalizedHeight": 1,
+ "width": 0.433,
+ "depth": 0.4313,
+ "frontYawDeg": 0,
+ "sourceTriangles": 516038,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 4523
+ },
+ "sourceSha256": "f016d00b672a4419123f42b797d790592c274cab371c4c62b34dd20414b60b86",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "23320f9355a90cd036c59a0314902c99a1b4caf70cd5ae558062b1f561f453b1",
+  "low": "b78300dcbf81877104dcc40747f270cef076679a3f41001415a8d68451f7cda1",
+  "far": "69f1b8b44e0851b3b5e2530127856f17d8a3fc7b973e3ffb3450204ecca5566c"
+ }
+}

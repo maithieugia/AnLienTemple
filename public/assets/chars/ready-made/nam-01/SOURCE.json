@@ -1,0 +1,4 @@
+{
+ "source": "anh Thanh, Downloads/Tượng Phật/Nhân vật nam.zip (base_basic_pbr.glb)",
+ "build": "authoring/nam01/build_nam01.py: decimated to ~35k tris, bones renamed to Rocketbox biped names, Idle/Walk/Run/Push retargeted from Rocketbox Male_Adult_08 (MIT)"
+}

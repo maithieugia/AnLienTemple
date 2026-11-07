@@ -1,0 +1,25 @@
+{
+  "id": "18",
+  "name": "Bồ tác tưới sen",
+  "role": "hall",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.6366296541866423,
+  "depth": 0.6373353649973211,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 2998
+  },
+  "sourceSha256": "9652113c7a64377732e2d3e6e79e256ee14989a69a2221f2a68643a567ed86a6",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "2195b053b32b2775a34eec91008cb3254d3391214e9a646addf5195e822afeae",
+    "low": "1fc9e34c990eff3fc86feb58fe1f21cf72d3efbf02b7bdf8c70755ae3b4c7977",
+    "far": "e56690cdedda0ea730e572d75a3dd1c62ac319ad17b117f0a72f9bcbfde8e625"
+  },
+  "sourceArchive": "Bồ tác tưới sen.zip"
+}

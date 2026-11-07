@@ -1,0 +1,14 @@
+{
+  "skin": {
+    "beforeVertices": 403992,
+    "vertices": 69656,
+    "triangles": 134664
+  },
+  "eyes": {
+    "beforeVertices": 3096,
+    "vertices": 534,
+    "triangles": 1032
+  },
+  "bytes": 10627837,
+  "sha256": "1727b4adb0e840b62e2ad720d99f1e28a02ac87fe095ae5b461dde41311f9c14"
+}

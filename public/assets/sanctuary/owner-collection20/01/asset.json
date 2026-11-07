@@ -1,0 +1,25 @@
+{
+  "id": "01",
+  "name": "Phật Di Lạc",
+  "role": "gate",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.6630731933156159,
+  "depth": 0.6376519929169517,
+  "sourceTriangles": 499998,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 3000
+  },
+  "sourceSha256": "7753d11661ad77e80b756062e45291a1d75f1684800f94e2f6f611674d0e9c2c",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "12ce7cc6df107a9d004e3ca5ee2c691cb9e4978601faedab7aefbe93434c844d",
+    "low": "0bc9d92885b479258256fde1cd024f804caf4bdd3a4057f166c48787c0faefec",
+    "far": "d0886563194b0cc9ef75943c594883b431ddcadc985e52359d9fa98f8fb6baca"
+  },
+  "sourceArchive": "Phật Di Lạc.zip"
+}

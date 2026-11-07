@@ -1,0 +1,25 @@
+{
+  "id": "08",
+  "name": "Quán Thế Âm Bồ Tát",
+  "role": "hall",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.45136053882316896,
+  "depth": 0.39534148027842403,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 2982
+  },
+  "sourceSha256": "4a17a66a09549f26f5bb37f860d8f9258425cec358c54eb2d3f3d0ca972f9298",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "d0f8522ea187c5dd7bf22b73ba437ad811c8489cddaca86f8dac1f1244940b94",
+    "low": "26cd66f18c8e7b48b2d9c29f620c2cdbe1251b4ba7b4caaf2c154d21b550fd37",
+    "far": "9a1e07632868da7185f426871b9bbf9dc1a860f75799bbdd4bd69ab136df0bd7"
+  },
+  "sourceArchive": "Quán Thế Âm Bồ Tát.zip"
+}

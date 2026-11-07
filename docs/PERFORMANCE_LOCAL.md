@@ -1,0 +1,13 @@
+## 02/11/2026 — Bản test local và tối ưu mức Nhẹ
+
+Game local đang phục vụ tại http://127.0.0.1:5200/?q=low&online=1 . File mở lại nằm trên Desktop: C:/Users/Admin/Desktop/CHAY-CHUA-LOCAL.cmd (gọi CHAY-CHUA-LOCAL.cmd trong dự án, dùng Node đã cài). Helper deploy/start-local.mjs khởi động Node ẩn, bind 127.0.0.1:5200, dùng dist-public và data-local riêng; không cần chạy PowerShell script/đổi execution policy. Tạo tài khoản thử trên màn hình local; tài khoản/công đức online không chuyển về và không bị sửa. Mở lại helper sẽ dùng server đang chạy.
+
+Kết quả khảo sát: server online tại lúc đo load average 0,61/0,71/0,77, RAM available khoảng 8,5GB, /api/health phía server khoảng 1,6ms ở một lần đo. Chưa thấy bằng chứng backend quá tải. Dựng hình chạy trên trình duyệt máy người chơi; local giảm phụ thuộc mạng nhưng không tự tăng năng lực GPU.
+
+Đã sửa mức q=low: thay mây volume 32 bước/pixel bằng bề mặt mây trôi với 3 mẫu noise, giữ chân trời/biên khuôn viên; không chạy shadow pass, tỉ lệ dựng hình tối đa 0,85 pixel/CSS pixel; chỉ tải nghi lễ khi tới gần 120m, hiển thị sư trong 90m, cập nhật tư thế 24Hz gần/10Hz xa (vị trí đoàn đi vẫn cập nhật mỗi frame). Chế độ Cao giữ mây volume/bóng/cự ly cũ. A* cư dân dùng binary min heap thay sắp xếp cả hàng đợi mỗi vòng. Không bỏ 10 cư dân, 132 sư hoặc đệm nghe pháp khỏi dữ liệu.
+
+Kiểm chứng: tsc đạt; build public dành local đạt 5,02s; 6 kiểm tra điều hướng/đệm/bậc/clip nam-nữ + 1 kiểm tra hai biến thể shader/uniform với NullEngine đều đạt. HTTP local xác nhận health, revision 2026-11-02-local-performance-1, index/chunk mới, manifest và SVG đúng MIME. Helper đã khởi động server thực tế. Log: docs/performance-local-tests.log, performance-cloud-tests.log, performance-local-build.log, performance-local-http.json và local-game-server*.log.
+
+Chưa đo FPS thực tế trước/sau, chưa nghiệm thu shader bằng GPU, chưa chơi chu kỳ 10 phút: công cụ trình duyệt vẫn timeout khi mở local. Không nhận là đã hết lag hoặc tăng FPS theo một hệ số. Bản tối ưu CHỈ chạy local; public dichua.palo.io.vn vẫn 2026-11-02-temple-life-1. Gói deploy/anlien-release.tar.gz cũ cũng vẫn là bản public đó. Muốn đưa tối ưu lên public, cần kiểm GPU/đường đi/tư thế thực tế, rồi build/pack/deploy và kiểm health/hash lại. Checkpoint trước tối ưu: authoring/checkpoints/20261102-performance-local.
+
+Đã rà lại helper: thay probe timeout quá ngắn bằng HTTP core timeout 5s. Lần kiểm sau trả đúng revision, không khởi động trùng và không phát sinh lỗi EADDRINUSE mới. Dòng EADDRINUSE cũ trong log là từ lần thử launcher trước khi sửa, không phải trạng thái server hiện tại. File .cmd mở trình duyệt sau khi helper báo sẵn sàng; không đổi execution policy.

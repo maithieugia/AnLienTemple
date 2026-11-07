@@ -1,0 +1,25 @@
+{
+  "id": "06",
+  "name": "Biện Tài Thiên",
+  "role": "court",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.6555582451731405,
+  "depth": 0.6399827984821657,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 3000
+  },
+  "sourceSha256": "9130aab30bd03ad953c88e6a25cf4ebbc5af3acfbcf56ef839c3eb4abe5ec18c",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "78b4f4376dced82088f92eab0ce63bc414db10ea16a4ee8c3e38e4667dd638d9",
+    "low": "43657f384d1847d3ef69f00cb8f05060a98405c55cba0bb3464cde7db65da635",
+    "far": "071c6f88b0e8702ca29709f1073d56ab9a3b5d5593dddb91ec7e2e9652ec9ae6"
+  },
+  "sourceArchive": "Biện Tài Thiên.zip"
+}

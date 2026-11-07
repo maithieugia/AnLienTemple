@@ -1,0 +1,24 @@
+{
+ "id": "035",
+ "title": "Guanyin-Figur | Experiment 3D",
+ "author": "skdmuseum",
+ "license": "CC Attribution-ShareAlike",
+ "source": "https://sketchfab.com/3d-models/none-5dfd6a74941e47389693095bcd723fd4",
+ "normalizedHeight": 1,
+ "width": 0.2748,
+ "depth": 0.2266,
+ "frontYawDeg": -90,
+ "sourceTriangles": 455161,
+ "triangles": {
+  "high": 60000,
+  "low": 14999,
+  "far": 4354
+ },
+ "sourceSha256": "2ddcc2195fb0315b89be0956b4c02ea3a42454b6090f3eb1c0e1472be0cdec30",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "b6b80532fa36a334f6db3e28e35e8cadbf1babcc2fa273f975c7f0f9224d1387",
+  "low": "afe3ee3965cec72c2d1cb09b268d99905fe95e98befd374190da067e5ffc2f7e",
+  "far": "33fe79a840ec9c562e7d2ac488614a34e53c1be5c70eb29105c8b5b833e731ab"
+ }
+}

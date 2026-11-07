@@ -1,0 +1,24 @@
+{
+ "id": "034",
+ "title": "Gandharan sculpture fragments: Seated Buddha",
+ "author": "The University of Edinburgh Open.Ed",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-583c20553cc242c690ba31ef0dc47d46",
+ "normalizedHeight": 1,
+ "width": 0.689,
+ "depth": 0.3421,
+ "frontYawDeg": 0,
+ "sourceTriangles": 456645,
+ "triangles": {
+  "high": 59999,
+  "low": 14999,
+  "far": 3000
+ },
+ "sourceSha256": "8cf68ed3f5222d5a62ef935b49bc98a2913a196718b63110ed20b0246181ba10",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "316a495de0ee12590e30ad3f42b63fe56854d247cc07ab4c713169226cd605e7",
+  "low": "d33f6385118b9891fdb98f155a567456df4f35c98314d79d00d830bf9f4f2cd8",
+  "far": "3e7be87c9f7183970d3e20eeb0f21caf60d6ca4edd64055b0ff39e56755531df"
+ }
+}

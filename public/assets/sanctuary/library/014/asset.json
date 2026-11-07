@@ -1,0 +1,24 @@
+{
+ "id": "014",
+ "title": "Maitreya",
+ "author": "nbn555",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-a4cce2da97a148ae96b161d36d027888",
+ "normalizedHeight": 1,
+ "width": 0.4305,
+ "depth": 0.3945,
+ "frontYawDeg": 0,
+ "sourceTriangles": 544200,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 6108
+ },
+ "sourceSha256": "570b05041b173a497fc98078f9d0c1f8cc9e04a5e1495bfe2c7ea7aa57aaa939",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "79166a1479a38f2c00174a9c7d046cafedddf6fa71a96400bf105045c0fddd79",
+  "low": "6c7a5c481288b8505e12152f5dc6d49234ffc77920deff62754e9594e281b69c",
+  "far": "7a417a33fdc14b1ac709d9a5100285c8372f40c213d12d5fdb16abcca5d1e22b"
+ }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "01",
+    "sourceZip": "Tây thiên vương.zip",
+    "zipSha256": "0a658c8db57d070489fd00fc9cd6d22b6bd7096e2e39375d80e0a323ceb90718",
+    "sourceMember": "base_basic_pbr.glb",
+    "license": "user supplied; no license document bundled"
+  },
+  {
+    "id": "02",
+    "sourceZip": "thiên vương 2.zip",
+    "zipSha256": "ae978bfe8b18680c2d6f91eda70e9aeaa2bfcf4d7eafdd786af170e4d3087c79",
+    "sourceMember": "base_basic_pbr.glb",
+    "license": "user supplied; no license document bundled"
+  },
+  {
+    "id": "03",
+    "sourceZip": "thiên vương 3.zip",
+    "zipSha256": "a15203953c110a61e762d3f9593880fd1f02605cbceb881c28539cb820bc4ce1",
+    "sourceMember": "base_basic_pbr.glb",
+    "license": "user supplied; no license document bundled"
+  },
+  {
+    "id": "04",
+    "sourceZip": "thiêng vương 4.zip",
+    "zipSha256": "adbce255171bbf73d41546f52aca9323b2fccd9e3736d8bab59aad5c906ecdd7",
+    "sourceMember": "base_basic_pbr.glb",
+    "license": "user supplied; no license document bundled"
+  }
+]

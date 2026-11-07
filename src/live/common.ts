@@ -1,0 +1,10 @@
+import {DEFAULT_SETTINGS,type LiveEvent,type LiveSettings} from '../../live/model';
+import type {ParticipantSnapshot} from '../../live/participants';
+export type Snapshot={status:{phase:string;username:string;message:string;roomId:string};settings:LiveSettings;totals:Record<string,number>;history:LiveEvent[];participants:ParticipantSnapshot};
+export const labels={join:'Vào chùa',like:'Thả tim',share:'Chia sẻ',chat:'Bình luận'};
+export function node<K extends keyof HTMLElementTagNameMap>(tag:K,text='',className=''){const el=document.createElement(tag);el.textContent=text;el.className=className;return el;}
+export function eventCard(e:LiveEvent){const card=node('article','','event-card '+e.kind),top=node('div','','event-top');top.append(node('span',labels[e.kind],'kind'),node('span',e.demo?'THỬ NGHIỆM':new Date(e.at).toLocaleTimeString('vi-VN'),'event-time'));card.append(top,node('strong',e.name),node('p',e.kind==='chat'?e.text:e.kind==='join'?'Đã vào chùa · Hoan hỷ đón chào':`${e.kind==='like'?`Đã thả ${e.count} tim`:'Đã chia sẻ'} · Công đức vô lượng`));return card;}
+export async function api(path:string,data:unknown={}){const response=await fetch('/api/'+path,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)});const json=await response.json();if(!response.ok)throw new Error(json.error||'Không thực hiện được.');return json;}
+export function subscribe(onMessage:(type:string,data:any)=>void,onLink:(connected:boolean)=>void){let ws:WebSocket,retry:number;let stopped=false;function open(){if(stopped)return;ws=new WebSocket(`${location.protocol==='https:'?'wss':'ws'}://${location.host}/events`);ws.onopen=()=>onLink(true);ws.onmessage=event=>{try{const {type,data}=JSON.parse(event.data);onMessage(type,data);}catch{}};ws.onclose=()=>{onLink(false);if(!stopped)retry=window.setTimeout(open,2500);};ws.onerror=()=>ws.close();}open();return()=>{stopped=true;clearTimeout(retry);ws?.close();};}
+export const enabled=(e:LiveEvent,s:LiveSettings)=>e.kind==='chat'?s.readChat:e.kind==='join'?s.joins:e.kind==='like'?s.likes:s.shares;
+export {DEFAULT_SETTINGS};

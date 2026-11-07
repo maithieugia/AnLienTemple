@@ -1,0 +1,33 @@
+{
+  "id": "guanyin",
+  "normalizedHeight": 1,
+  "width": 0.6816267381485172,
+  "depth": 0.614466141380073,
+  "originalTriangles": 199993,
+  "sourceDimensions": [
+    1.2070164680480957,
+    1.0880892276763916,
+    1.7707880735397339
+  ],
+  "sourceTextureSizes": {
+    "Image_0": [
+      1024,
+      1024
+    ],
+    "Image_1": [
+      1024,
+      1024
+    ]
+  },
+  "originalSha256": "11ae46c74552e88e9e338cc5017a6571e20f56d5afa8ae7b2712a13aefb5fc13",
+  "runtime": {
+    "high.glb": {
+      "bytes": 7198500,
+      "sha256": "e74bb5fcd85c9da26a10e9e65d69848ee58b856ee030cfcc30d50c1d2a6fde49"
+    },
+    "low.glb": {
+      "bytes": 2875224,
+      "sha256": "c25fb5701241256205e39cd9ac585e24c9642e2260db8f72570d93703afdce2a"
+    }
+  }
+}

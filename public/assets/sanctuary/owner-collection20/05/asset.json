@@ -1,0 +1,25 @@
+{
+  "id": "05",
+  "name": "Ma Lợi Chi Thiên",
+  "role": "court",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.642069394470799,
+  "depth": 0.5747855315602494,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 3000
+  },
+  "sourceSha256": "63cae9899741a4c95547cf63d74578965ebe34dc989695fe920131b91a9a9f50",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "995ffc347fd58388553feb35e5ebf3fa1b42c4d9bee4708ca1f5311b7c96be0b",
+    "low": "a60ceda1e5a50c2a161b0424634dbfddc53b4748dd00888b3e1a7780e0f7a5bb",
+    "far": "1940e4618e6d64275eeeee60c4c78446a65a13d07796e01a4ac74f43e6ce1014"
+  },
+  "sourceArchive": "Ma Lợi Chi Thiên.zip"
+}

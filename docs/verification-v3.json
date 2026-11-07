@@ -1,0 +1,33 @@
+{
+  "version": "0.3.0",
+  "tests": 11,
+  "heightMetres": 100,
+  "drumRadiusMetres": 5,
+  "sites": [
+    [
+      -45,
+      470
+    ],
+    [
+      45,
+      470
+    ]
+  ],
+  "mantra": "ॐ मणि पद्मे हूँ",
+  "visibleRows": 72,
+  "phrasesPerRow": 4,
+  "engraving": "PBR recessed height/normal relief",
+  "verified": [
+    "both wheels rendered",
+    "button push",
+    "3D mesh click",
+    "E key",
+    "west5/east2 independently",
+    "5 points persisted after reload"
+  ],
+  "unverified": [
+    "physical touch device",
+    "controlled GPU benchmark",
+    "expert Sanskrit typography review"
+  ]
+}

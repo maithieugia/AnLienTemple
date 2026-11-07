@@ -1,0 +1,24 @@
+{
+ "id": "031",
+ "title": "ELI 4  Tibetan Buddha obj",
+ "author": "akhazaee",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-1ff62e5209384d03ae06e496f86aceed",
+ "normalizedHeight": 1,
+ "width": 0.6054,
+ "depth": 0.5963,
+ "frontYawDeg": 0,
+ "sourceTriangles": 478132,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 3000
+ },
+ "sourceSha256": "021f99b76004d5946323871b8f15be78af051bffdb03916417bf68531cd4126c",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "bc2a3585d81e98669a72ee402b573175dd4fcda4d3d470c2a820a8aa4ac9296e",
+  "low": "9730b14e5dd494199341699f705eeb60acd466c5a5eb6bf40e55877b585f7b38",
+  "far": "0e2450e2889ec78d866b1e234dcfbc5c86a04e4194e385f600c12c6d4fca3c0b"
+ }
+}

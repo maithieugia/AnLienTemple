@@ -1,0 +1,24 @@
+{
+ "id": "039",
+ "title": "Moloti- buddha",
+ "author": "Brian Trepanier",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-bd31c9e9eee84da6b31f6fe8d4c79d33",
+ "normalizedHeight": 1,
+ "width": 0.8303,
+ "depth": 0.7201,
+ "frontYawDeg": -90,
+ "sourceTriangles": 414341,
+ "triangles": {
+  "high": 60000,
+  "low": 14999,
+  "far": 6433
+ },
+ "sourceSha256": "60ac2f6f09f83b669310f561b1aba61ae7656a622eb831e0411a7ea1ce009dc6",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "48a342eb0085693b0c27d650b4d2b7af3fbb049a7c65217b3f2bedd78857e950",
+  "low": "37c9ad3bd5fed8a9872a2fedea8e900f8094207d00df784efba1d4843f2a5c76",
+  "far": "bd8898d51e43d741c64cf36d9327dad343484d361d66a2fc1784b91978d32887"
+ }
+}

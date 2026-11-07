@@ -1,0 +1,44 @@
+[
+  {
+    "path": "assets/sanctuary/owner-collection20/19/high.glb",
+    "triangles": 120000,
+    "skinJoints": [],
+    "animationCount": 0,
+    "sourceBytes": 4621036,
+    "compressedBytes": 1989160
+  },
+  {
+    "path": "assets/sanctuary/courtyard-seven/01/far.glb",
+    "triangles": 7998,
+    "skinJoints": [],
+    "animationCount": 0,
+    "sourceBytes": 367368,
+    "compressedBytes": 216856
+  },
+  {
+    "path": "assets/sanctuary/tower-buddha/far.glb",
+    "triangles": 2000,
+    "skinJoints": [],
+    "animationCount": 0,
+    "sourceBytes": 160816,
+    "compressedBytes": 118004
+  },
+  {
+    "path": "assets/chars/ready-made/ao-dai-collection/Female_AoDai_Collection.glb",
+    "triangles": 15639,
+    "skinJoints": [
+      80
+    ],
+    "animationCount": 6,
+    "sourceBytes": 13401328,
+    "compressedBytes": 1991148
+  },
+  {
+    "path": "assets/garden/tree-small-02/far.glb",
+    "triangles": 10312,
+    "skinJoints": [],
+    "animationCount": 0,
+    "sourceBytes": 1793592,
+    "compressedBytes": 853876
+  }
+]

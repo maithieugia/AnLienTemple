@@ -1,0 +1,15 @@
+{
+  "changes": "Ten coat/pants looks; original fitted head and hair retained without scalp cuts, added shells, recolouring or replacement hair.",
+  "hair": "Original fitted Rocketbox hair and scalp, unchanged geometry and materials",
+  "body": "Microsoft Rocketbox Female_Adult_17 / MIT",
+  "profiles": 10,
+  "date": "2026-11-02",
+  "garmentSource": "https://sketchfab.com/3d-models/marvelous-to-substance-test-2-aodai-88015bd2f553451b8a6e4fb694b1ee14",
+  "patterns": "Original editable SVG designs by An Lien",
+  "hairShapes": 1,
+  "garmentAuthor": "ghostnoface",
+  "motion": "Quaternius UAL CC0 retargeted, native clips retained",
+  "base": "An Lien fitted ao dai fit-5",
+  "garmentLicense": "CC BY 4.0",
+  "sha256": "1b067410771f80903740f54e73adc0a0404a88fb0a40ea80301604e46a756ce0"
+}

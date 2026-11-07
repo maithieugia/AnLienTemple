@@ -1,0 +1,24 @@
+{
+ "id": "09",
+ "title": "The Goddess Of Mercy",
+ "author": "Diana Liu",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/the-goddess-of-mercy-30366dd94d49463dbcaaf9700c88c330",
+ "normalizedHeight": 1,
+ "width": 0.6062,
+ "depth": 0.5994,
+ "frontYawDeg": 0,
+ "sourceTriangles": 2267701,
+ "triangles": {
+  "high": 59999,
+  "low": 15000,
+  "far": 2999
+ },
+ "sourceSha256": "1c13eafa188dda8b5d038d5743ac6c62587af847660ca4cf3406d87112614a46",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "5ca22dbb2a87a011e06f205d777f717ff6361557d4c7f80ae536bc935fd4a5ee",
+  "low": "0747adb55ea0a8689da021fa4abb0db606356134ee0f3b5550e32c6003bc9579",
+  "far": "c9449c49ec9c7ecab776ad8cd62f65a44058e157dbe47a27c9373fcba0f4022f"
+ }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "07",
+  "name": "Cát Tường Thiên Nữ",
+  "role": "court",
+  "member": "base_basic_pbr.glb",
+  "license": "Owner-provided, no independent license included",
+  "normalizedHeight": 1,
+  "width": 0.6451174035602365,
+  "depth": 0.6432252768279284,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 80000,
+    "low": 20000,
+    "far": 2998
+  },
+  "sourceSha256": "b68eeb8de030648d87b402b96e632381bb708bcc9add8a632347c618a59e6ec2",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "1e811245556e9e8d048fbb28499b2b0b04e321616256f763f22b2043bd9e6be2",
+    "low": "08d0ebb40395ca778e94eb7434a69130e41b7d4441b5609e4ee9cac63d757bb9",
+    "far": "45cf70d7f13f3387c1e5c1974f87904f59f3685fd2496e2c60f88e1f0d856410"
+  },
+  "sourceArchive": "Cát Tường Thiên Nữ.zip"
+}

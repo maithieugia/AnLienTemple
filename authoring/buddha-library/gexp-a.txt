@@ -1,0 +1,9 @@
+EXPORTED 01 {'high': 59999, 'low': 14999, 'far': 2999}
+EXPORTED 03 {'high': 60000, 'low': 15000, 'far': 3000}
+EXPORTED 04 {'high': 59999, 'low': 14999, 'far': 2999}
+EXPORTED 06 {'high': 60000, 'low': 15000, 'far': 3000}
+EXPORTED 07 {'high': 60000, 'low': 15000, 'far': 3000}
+EXPORTED 12 {'high': 59999, 'low': 14999, 'far': 2999}
+EXPORTED 13 {'high': 60000, 'low': 14999, 'far': 2999}
+EXPORTED 14 {'high': 60000, 'low': 15000, 'far': 3000}
+EXPORTED 15 {'high': 59999, 'low': 14999, 'far': 2999}

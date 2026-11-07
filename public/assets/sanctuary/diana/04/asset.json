@@ -1,0 +1,24 @@
+{
+ "id": "04",
+ "title": "Buddha",
+ "author": "Diana Liu",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/buddha-73d81e66558c4fceb23ffa57f5644cd4",
+ "normalizedHeight": 1,
+ "width": 0.7774,
+ "depth": 0.6591,
+ "frontYawDeg": 0,
+ "sourceTriangles": 1900291,
+ "triangles": {
+  "high": 59999,
+  "low": 15000,
+  "far": 2999
+ },
+ "sourceSha256": "45256ba88bc054e54f79e5218c76a9e7f46d1210d0c89ce0bf1d09062a16a072",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "6aa312502e6608d5a66a2d94e82f13a8981ee6f866e7c353566fcc3649f1d059",
+  "low": "3a885c2470353538af2e8e1381366c17935b00cb237e016ed0ff457b30224920",
+  "far": "1be605f3573736ba8506fb701d72792ef15d5882b598176b96f19039b76818f3"
+ }
+}

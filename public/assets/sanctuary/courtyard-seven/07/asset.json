@@ -1,0 +1,22 @@
+{
+  "id": "07",
+  "source": "phật nằm.zip",
+  "zipSha256": "ed81ea4fabe63a9aa8e4090c4d308f05404a29d35838e4e6ffcf7dfb2eebe503",
+  "normalizedHeight": 1,
+  "width": 2.9310351370419707,
+  "depth": 0.7467826098274896,
+  "sourceTriangles": 500000,
+  "triangles": {
+    "high": 120000,
+    "low": 35000,
+    "far": 8000
+  },
+  "sourceSha256": "04031ee3ea69f9036a6994667177ca5356dc29e0b008bcdcdd79a8b3f1c14d5e",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "4d0d526ecae66ed140e64677d314c3243d4e7904f411f8f36f97f9fa32e0e1f6",
+    "low": "87177df5468a39f299492a2f923f587136a5dc3fc7070f4e750ea51d47b3e5b9",
+    "far": "ba4a7517608fcdbc55260c47d0f2214a0d3564ca56e0ebaa586ca4a1dc6a2723"
+  }
+}

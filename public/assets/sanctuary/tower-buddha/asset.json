@@ -1,0 +1,22 @@
+{
+  "id": "tower-buddha",
+  "source": "Owner supplied Tượng phật.zip / base_basic_pbr.glb",
+  "license": "Owner-provided; redistribution rights not independently verified",
+  "normalizedHeight": 1,
+  "width": 0.5646002314962109,
+  "depth": 0.5895637062745874,
+  "sourceTriangles": 499994,
+  "triangles": {
+    "high": 80000,
+    "low": 18000,
+    "far": 2000
+  },
+  "sourceSha256": "c9a13e616f5664635f2f14c635cd8f87ede9c22e3d68a402153450aaa2c78dd5",
+  "front": "glTF +Z verified in front renders",
+  "repair": "coincident seam vertices welded before decimation; source geometry preserved",
+  "sha256": {
+    "high": "6935ca599b74f95f9f9a6752995b89cd027a5ab549842ab78711531626b9709b",
+    "low": "50b0d98a3afa69a6943f0b7dcbde0bc85e6fb8e9a3595546a689e823d0afb48c",
+    "far": "180f23629de0206c3f2acae481a6e0e4bb9be1586eceabbe38279e7818243351"
+  }
+}

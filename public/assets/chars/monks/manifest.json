@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "name": "An Lien — ten fictional monks",
+  "format": "Babylon runtime factory + shared skinned anatomy",
+  "factory": "src/game/chars/Monks.ts",
+  "profiles": "src/game/chars/MonkPlan.ts",
+  "count": 10,
+  "standaloneGLB": false,
+  "assetIds": [
+    "monk-01",
+    "monk-02",
+    "monk-03",
+    "monk-04",
+    "monk-05",
+    "monk-06",
+    "monk-07",
+    "monk-08",
+    "monk-09",
+    "monk-10"
+  ],
+  "sharedAnatomy": "../minh-v2.json",
+  "rig": "../hero.glb",
+  "animations": "../anims.glb",
+  "outfit": "yellow inner clothes, red diagonal kashaya, gold grid",
+  "aiTempleWork": false,
+  "sources": "See ASSETS.md and docs/EAST_TOWER_MONKS.md"
+}

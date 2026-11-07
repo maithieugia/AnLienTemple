@@ -1,0 +1,7 @@
+import {existsSync} from 'node:fs';
+import {defineConfig} from 'vite';
+// /api and /ws go to the online server (node server/server.ts, port 8930) during development.
+// The browser's host is forwarded so the server's same-origin check sees the page's real address.
+const keepHost={configure:(proxy:any)=>{proxy.on('proxyReq',(p:any,req:any)=>p.setHeader('x-forwarded-host',req.headers.host));proxy.on('proxyReqWs',(p:any,req:any)=>p.setHeader('x-forwarded-host',req.headers.host));}};
+export default defineConfig(({mode})=>({base:'./',define:{'import.meta.env.VITE_PUBLIC_BUILD':JSON.stringify(mode==='public'||!existsSync(new URL('./public/assets/sanctuary/guardians/01/low.glb',import.meta.url))?'1':'')},server:{watch:{ignored:['**/deploy/**','**/dist-public/**','**/authoring/**','**/docs/**','**/assets-src/**']},proxy:{'/api':{target:'http://127.0.0.1:8930',...keepHost},'/ws':{target:'ws://127.0.0.1:8930',ws:true,...keepHost}}},build:{chunkSizeWarningLimit:7000,rollupOptions:{input:{main:'index.html',frontTriad:'front-triad.html',ownerCollection:'owner-collection.html',entranceRiver:'entrance-river.html',...(mode==='public'?{}:{liveControl:'live-control.html',liveOverlay:'live-overlay.html',reference:'reference.html',riggedPeople:'rigged-people.html',aoDaiCollection:'ao-dai-collection.html'}),stupa:'stupa.html',monks:'monks.html',saffron:'monk-reference.html',readyMonks:'monk-library.html',ceremony:'ceremony.html',layAssembly:'lay-assembly.html',wallRelief:'wall-relief.html'}}}}));
+

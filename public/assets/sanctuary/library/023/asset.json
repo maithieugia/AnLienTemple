@@ -1,0 +1,24 @@
+{
+ "id": "023",
+ "title": "Guan Yin Bodhisattva",
+ "author": "Amitabha Buddhist New Zealand",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-8677e5bd56814d58be4c2df1e89f3818",
+ "normalizedHeight": 1,
+ "width": 0.5443,
+ "depth": 0.498,
+ "frontYawDeg": 0,
+ "sourceTriangles": 500000,
+ "triangles": {
+  "high": 60000,
+  "low": 14999,
+  "far": 5772
+ },
+ "sourceSha256": "2397e3e9ce5fa2ee1435b296d3d94153a0b86d052f699ff0c508d9f18c2a3aba",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "48765b4be621a4e3de91cb31ee5b058ebc75bb766a63e799e65e33c51d3cebc5",
+  "low": "cdecf3eda5cfed6acd5f8f75a5d3a38bcd625edaec6dec7293b41e3edf68e58c",
+  "far": "123209c006fba11c0f3b949a9a03fd771c1a237b949bde0dfa5334fbac56ab40"
+ }
+}

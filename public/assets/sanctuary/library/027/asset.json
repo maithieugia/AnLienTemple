@@ -1,0 +1,24 @@
+{
+ "id": "027",
+ "title": "Bodhisattva (Philadelphia Museum of Art)",
+ "author": "MarkG42",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-13cfa7f9885a45299baa241ff0ff5eca",
+ "normalizedHeight": 1,
+ "width": 0.3168,
+ "depth": 0.3271,
+ "frontYawDeg": -90,
+ "sourceTriangles": 499983,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 3000
+ },
+ "sourceSha256": "5101fe9ffdf2ffa45cfc8280a85494f45c6ca29f3b4736afe0aae942ffade8a5",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "bef2cef744844405b45138260afa5335001514748bb063d84aa5f9848acfbcc3",
+  "low": "38a0fd2cde2525d2ff37d76ae3fe63db964554c0aee9b6fbc5a75b80dfcb4a95",
+  "far": "32f1ff6cace6b1b8a5068d8a2a35aa4a8bd9a196c432b9dd07d5c729afaa96a4"
+ }
+}

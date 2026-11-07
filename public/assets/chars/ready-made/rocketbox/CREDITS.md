@@ -1,0 +1,3 @@
+Microsoft Rocketbox Avatar Library — Copyright (c) 2020 Microsoft. MIT license; retain LICENSE.md. Source: https://github.com/microsoft/Microsoft-Rocketbox . GLB conversion and demo: An Lien, 2026-11-01. Original skeleton and skin weights retained.
+
+PilgrimWalk, PilgrimRun, Push: retargeted from the existing Quaternius Universal Animation Library (CC0), https://quaternius.com/packs/universalanimationlibrary.html . Native Rocketbox geometry, skin weights and skeleton preserved; conversion script authoring/rigged-candidates/retarget-pilgrim-motion.mjs. Original Microsoft clips retained separately.

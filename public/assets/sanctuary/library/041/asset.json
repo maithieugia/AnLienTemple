@@ -1,0 +1,24 @@
+{
+ "id": "041",
+ "title": "Rosehaugh Buddha",
+ "author": "Andy's Aerial Archaeology",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/none-d433f8803f58446586c1ffe8b590e17d",
+ "normalizedHeight": 1,
+ "width": 0.7107,
+ "depth": 0.6592,
+ "frontYawDeg": 0,
+ "sourceTriangles": 400000,
+ "triangles": {
+  "high": 60000,
+  "low": 14999,
+  "far": 9814
+ },
+ "sourceSha256": "f14164689d557262222367b1c37ef657057fe503432b66eb40bc2edfe34fb9d9",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "38433bdfd66e9482fe696d74af9f037a2bfc739754ac34ac4cb81f78f2f3cffd",
+  "low": "ed001b2b86501d76edfbbc9b0d4e277a8917068dce693e3efdeb41c6e3439c52",
+  "far": "bdb598c0db2aded739c82318128675d055761356b74f47cf2ba217f795cc9927"
+ }
+}

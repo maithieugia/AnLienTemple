@@ -1,0 +1,24 @@
+{
+ "id": "01",
+ "title": "woodcarving",
+ "author": "Diana Liu",
+ "license": "CC Attribution",
+ "source": "https://sketchfab.com/3d-models/woodcarving-8e2afd16fac947e2b8446f32d18beceb",
+ "normalizedHeight": 1,
+ "width": 0.6411,
+ "depth": 0.3133,
+ "frontYawDeg": 0,
+ "sourceTriangles": 2889338,
+ "triangles": {
+  "high": 60000,
+  "low": 15000,
+  "far": 3000
+ },
+ "sourceSha256": "68f550ddd3398a6468273c12aaa17866f144fccf8c7b80d0497cd1b95dfb8fcb",
+ "changes": "joined, upright, centred, normalised to 1 m, front turned to +Z, decimated LODs, textures resized to JPEG",
+ "sha256": {
+  "high": "9dad67029b78d3755853d3bf075e132e46a9d4763a0e62d2096367416e33a654",
+  "low": "80685a08eb70f43aada70f8492e6aa7d17625ca53ee7dc6142a0165358c655d4",
+  "far": "5331e53ebb07d8bcedfb4ec64f17cd50c278eacf5ef2e320afca6b46b651cccc"
+ }
+}

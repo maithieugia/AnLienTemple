@@ -1,0 +1,18 @@
+{
+  "id": "shakyamuni",
+  "normalizedHeight": 1,
+  "width": 0.8204642873448813,
+  "depth": 0.8202951351573923,
+  "originalTriangles": 555422,
+  "originalSha256": "5f9104c57d92776d1ebd18e5e935bfff0ae16a93120b3d1d55558e9f457e8da8",
+  "runtime": {
+    "high.glb": {
+      "bytes": 1081096,
+      "sha256": "1847b18601b209ef359da6ecdc4c646e53846eb9997371a6ea12f4cca0a34908"
+    },
+    "low.glb": {
+      "bytes": 271136,
+      "sha256": "1a6a3e04304c272ebe02b611988991d7b61ce31fdf62636d0c5ec3d45c45f026"
+    }
+  }
+}
