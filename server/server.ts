@@ -29,10 +29,13 @@ const db=new DatabaseSync(path.join(DATA,'anlien.sqlite'));
 db.exec(`PRAGMA journal_mode=WAL;PRAGMA foreign_keys=ON;
 CREATE TABLE IF NOT EXISTS users(id INTEGER PRIMARY KEY,username TEXT UNIQUE NOT NULL,display TEXT NOT NULL,pass TEXT NOT NULL,female INTEGER NOT NULL DEFAULT 0,created INTEGER NOT NULL);
 CREATE TABLE IF NOT EXISTS sessions(token TEXT PRIMARY KEY,user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,expires INTEGER NOT NULL);
-CREATE TABLE IF NOT EXISTS merit(user_id INTEGER PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,wheel INTEGER NOT NULL DEFAULT 0,incense INTEGER NOT NULL DEFAULT 0,bows INTEGER NOT NULL DEFAULT 0,sits INTEGER NOT NULL DEFAULT 0);`);
+CREATE TABLE IF NOT EXISTS merit(user_id INTEGER PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,wheel INTEGER NOT NULL DEFAULT 0,incense INTEGER NOT NULL DEFAULT 0,bows INTEGER NOT NULL DEFAULT 0,sits INTEGER NOT NULL DEFAULT 0,mo INTEGER NOT NULL DEFAULT 0,chuong INTEGER NOT NULL DEFAULT 0,chuoi INTEGER NOT NULL DEFAULT 0);`);
 try{db.exec('ALTER TABLE users ADD COLUMN outfit TEXT');}catch{}
 try{db.exec('ALTER TABLE users ADD COLUMN prayer TEXT');}catch{}
 try{db.exec('ALTER TABLE merit ADD COLUMN steps INTEGER NOT NULL DEFAULT 0');}catch{} // added 2026-11-04 (tower steps) // added 2026-11-04 (prayers above the head) // added 2026-11-03 (player outfits)
+try{db.exec('ALTER TABLE merit ADD COLUMN mo INTEGER NOT NULL DEFAULT 0');}catch{} // added 2026-11-07 (ritual: go mo)
+try{db.exec('ALTER TABLE merit ADD COLUMN chuong INTEGER NOT NULL DEFAULT 0');}catch{} // added 2026-11-07 (ritual: go chuong)
+try{db.exec('ALTER TABLE merit ADD COLUMN chuoi INTEGER NOT NULL DEFAULT 0');}catch{} // added 2026-11-07 (ritual: lan trang hat)
 type User={id:number;username:string;display:string;pass:string;female:number;outfit?:string|null;prayer?:string|null};
 const q={
  userByName:db.prepare('SELECT * FROM users WHERE username=?'),
@@ -45,9 +48,9 @@ const q={
  session:db.prepare('SELECT user_id FROM sessions WHERE token=? AND expires>?'),
  dropSession:db.prepare('DELETE FROM sessions WHERE token=?'),
  purge:db.prepare('DELETE FROM sessions WHERE expires<?'),
- merit:db.prepare('SELECT wheel,incense,bows,sits,steps FROM merit WHERE user_id=?'),
+ merit:db.prepare('SELECT wheel,incense,bows,sits,steps,mo,chuong,chuoi FROM merit WHERE user_id=?'),
  initMerit:db.prepare('INSERT OR IGNORE INTO merit(user_id) VALUES(?)'),
- addMerit:db.prepare('UPDATE merit SET wheel=wheel+?,incense=incense+?,bows=bows+?,sits=sits+?,steps=steps+? WHERE user_id=?'),
+ addMerit:db.prepare('UPDATE merit SET wheel=wheel+?,incense=incense+?,bows=bows+?,sits=sits+?,steps=steps+?,mo=mo+?,chuong=chuong+?,chuoi=chuoi+? WHERE user_id=?'),
 };
 const SESSION_DAYS=30;
 // Password hashing runs on the libuv thread pool (async scrypt), at most 4 at once: a login flood can't freeze the game loop.
@@ -139,12 +142,12 @@ const server=http.createServer(async(req,res)=>{
 });
 
 // ---------- the shared temple ----------
-type Pilgrim={info:PlayerInfo;ws:WebSocket;x:number;y:number;z:number;yaw:number;a:number;lastMove:number;sitSince:number;lastBow:number;bowsDone:number;towerStep:number;towerMax:number;lastIncense:number;lastPray:number;lastRelease:number;msgs:number;win:number;merit:Merit};
+type Pilgrim={info:PlayerInfo;ws:WebSocket;x:number;y:number;z:number;yaw:number;a:number;lastMove:number;sitSince:number;lastBow:number;bowsDone:number;towerStep:number;towerMax:number;lastIncense:number;lastPray:number;lastRelease:number;lastRitual:number;msgs:number;win:number;merit:Merit};
 const pilgrims=new Map<number,Pilgrim>();
 const send=(ws:WebSocket,m:ServerMsg)=>{if(ws.readyState===WebSocket.OPEN)ws.send(JSON.stringify(m));};
 const all=(m:ServerMsg,except?:number)=>{const s=JSON.stringify(m);for(const p of pilgrims.values())if(p.info.id!==except&&p.ws.readyState===WebSocket.OPEN)p.ws.send(s);};
 const refuge=createRefuge(db,all);
-const award=(p:Pilgrim,d:Partial<Merit>,note?:string)=>{q.addMerit.run(d.wheel??0,d.incense??0,d.bows??0,d.sits??0,d.steps??0,p.info.id);for(const k of ['wheel','incense','bows','sits','steps']as const)p.merit[k]=(p.merit[k]??0)+(d[k]??0);send(p.ws,{t:'merit',m:p.merit,note});refuge.changed();};
+const award=(p:Pilgrim,d:Partial<Merit>,note?:string)=>{q.addMerit.run(d.wheel??0,d.incense??0,d.bows??0,d.sits??0,d.steps??0,d.mo??0,d.chuong??0,d.chuoi??0,p.info.id);for(const k of ['wheel','incense','bows','sits','steps','mo','chuong','chuoi']as const)p.merit[k]=(p.merit[k]??0)+(d[k]??0);send(p.ws,{t:'merit',m:p.merit,note});refuge.changed();};
 
 const wheels=new Map<WheelId,{m:WheelMotion;pushers:Set<number>}>(PRAYER_WHEEL_SITES.map(s=>[s.id,{m:new WheelMotion(),pushers:new Set<number>()}]));
 let releases:Release[]=[],releaseSeq=Math.floor(Date.now()/1000)%1000000*10;
@@ -168,7 +171,7 @@ server.on('upgrade',(req,socket,head)=>{
 function join(ws:WebSocket,u:User){
  const old=pilgrims.get(u.id);if(old){send(old.ws,{t:'kick',reason:'Tài khoản vừa vào chùa từ nơi khác'});old.ws.close();pilgrims.delete(u.id);all({t:'leave',id:u.id});social.leave(u.id);}
  const info:PlayerInfo={id:u.id,name:u.display,female:!!u.female,outfit:cleanOutfit(u.outfit,!!u.female,u.id),prayer:cleanPrayer(u.prayer??'')||''};
- const p:Pilgrim={info,ws,...SPAWN,lastPray:0,lastRelease:0,bowsDone:0,towerStep:-1,towerMax:-1,a:0,lastMove:Date.now(),sitSince:0,lastBow:0,lastIncense:0,msgs:0,win:Date.now(),merit:getMerit(u.id)};(ws as any).alive=true;ws.on('pong',()=>{(ws as any).alive=true;});
+ const p:Pilgrim={info,ws,...SPAWN,lastPray:0,lastRelease:0,lastRitual:0,bowsDone:0,towerStep:-1,towerMax:-1,a:0,lastMove:Date.now(),sitSince:0,lastBow:0,lastIncense:0,msgs:0,win:Date.now(),merit:getMerit(u.id)};(ws as any).alive=true;ws.on('pong',()=>{(ws as any).alive=true;});
  pilgrims.set(u.id,p);
  send(ws,{t:'welcome',you:info,players:[...pilgrims.values()].filter(o=>o!==p).map(o=>o.info),sticks,merit:p.merit,now:Date.now(),spawn:SPAWN,releases:liveReleases(),meritRank:refuge.leaders(),refugeCertificate:refuge.certificate(u.id)});
  all({t:'join',p:info},u.id);
@@ -201,7 +204,16 @@ function join(ws:WebSocket,u:User){
    p.lastIncense=now;const st:Stick={site:site.id,by:p.info.name,t:now};
    sticks.push(st);const onSite=sticks.filter(s=>s.site===site.id);if(onSite.length>NET.maxSticksPerSite)sticks.splice(sticks.indexOf(onSite[0]),1);
    all({t:'sticks',add:[st]});award(p,{incense:1},'+1 công đức · dâng hương '+site.label);
-  }else if(m.t==='outfit'){
+  }else if(m.t==='ritual'){
+const now=Date.now(),kind=m.kind;
+if(kind!=='mo'&&kind!=='chuong'&&kind!=='chuoi')return;
+const site=nearIncense(p);
+if(!site||!site.id.startsWith('hall-')){send(ws,{t:'notice',text:'Hãy vào chánh điện để gõ mõ, gõ chuông, lần tràng hạt'});return;}
+if(now-p.lastRitual<NET.ritualCooldown*1000){send(ws,{t:'notice',text:'Xin chờ giây lát rồi gõ tiếp'});return;}
+p.lastRitual=now;
+const note=kind==='mo'?'+1 công đức · gõ mõ':kind==='chuong'?'+1 công đức · gõ chuông':'+1 công đức · lần tràng hạt';
+award(p,{[kind]:1} as Partial<Merit>,note);
+}else if(m.t==='outfit'){
    const outfit=cleanOutfit(m.outfit,p.info.female,p.info.id);q.setOutfit.run(outfit,p.info.id);p.info.outfit=outfit;all({t:'outfit',id:p.info.id,outfit});
   }else if(m.t==='release'){
    // lotus lanterns / carp from the last river step, sky lanterns anywhere outdoors; the server's own position of the pilgrim is used
