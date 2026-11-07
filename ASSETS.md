@@ -1,3 +1,9 @@
+## 07/11/2026 — Bộ lễ gõ mõ / gõ chuông / lần tràng hạt (Muse)
+
+Không mua/tải asset ngoài. Bộ lễ v2 dựng mới bằng Blender (script `models/build_models_v2.py`, Blender 4.5.9) theo đúng ảnh mẫu anh Thanh gửi: bát chuông vàng khắc sen (lathe, Ø 0,43 m), mõ chạm khắc hoa văn sóng/mây (0,356 × 0,230 × 0,283 m), gối đỏ thêu sen vàng (Ø 0,458 m, dùng chung 2 cái), dùi đầu vàng (chuông) và dùi đầu gỗ (mõ), chuỗi 108 hạt Ø 12 mm + hạt cái vàng + tua rua đỏ. Tất cả Y-up, đơn vị mét, PBR, texture 512×512 nhúng trong GLB; tổng 6 model ~48k tris. File đã lên server: `/var/www/anlien/assets/sanctuary/ritual/` (chuong_v2.glb, mo_v2.glb, goi_v2.glb, dui_chuong_v2.glb, dui_mo_v2.glb, chuoi_v2.glb). Bản v1 (mõ khối trơn, chuông treo tối) giữ nguyên trong workspace, không dùng nữa. Lưu ý: chuỗi hạt join chung 1 mesh nên không tô sáng từng hạt riêng được (code client dùng viên đánh dấu phát sáng); tua rua hướng −Z nên tâm vòng lệch khỏi gốc ~0,05 m về +Z.
+
+Âm thanh dùng lại file thật đã có trong game, không thu/tải mới: gõ mõ = `chua_mo_tram.mp3` (trầm, 1,02 s — anh chốt 07/11, file anh gửi khớp từng byte); gõ chuông = `chua_bell.mp3` (40 s, fade sau ~6 s mỗi lần gõ). Chỉ có tiếng lần hạt là file tổng hợp mới: `bead-tick.mp3` (tick gỗ khô 0,08 s, copy của `sounds/hat.mp3`), đã lên server cùng thư mục ritual. File tổng hợp mõ/chuông cũ (`sounds/mo.mp3`, `sounds/chuong.mp3`) đã bị file thật thay thế, không dùng.
+
 ## 05/11/2026 — Sen giữa sông và bảng tên
 
 Không thêm asset mua/tải ngoài. Tượng new-18 dùng nguyên model/vật liệu owner-collection20/18, scale 30 m từ mặt nước −2,4 m, vị trí x150/z640. Sen hoa/lá/gương/cuống là mesh gộp nguyên gốc trong StatueGarden.riverLotus, quanh tượng, không có physics dưới nước. Danh hiệu Phật nằm và tên Thiên Vương chỉ đổi nhãn; file nguồn tượng giữ nguyên. River-shrine.html là QA local; ảnh cũ trước khi bỏ bảng/nới sông được ghi rõ trong IMPLEMENTATION_STATUS.md.
